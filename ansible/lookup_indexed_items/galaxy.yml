@@ -1,0 +1,5 @@
+name: "ansible.lookup_indexed_items"
+version: "2.8.0"
+description: "rewrites lists to return 'indexed items'"
+authors: ['Michael DeHaan <michael.dehaan@gmail.com>']
+license: "GPL-3.0-or-later"

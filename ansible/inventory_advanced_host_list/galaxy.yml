@@ -1,0 +1,5 @@
+name: "ansible.inventory_advanced_host_list"
+version: "2.8.0"
+description: "Parses a 'host list' with ranges"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.connection_funcd"
+version: "2.8.0"
+description: "Use funcd to connect to target"
+authors: ['Michael Scherer (@msherer) <misc@zarb.org>']
+license: "GPL-3.0-or-later"

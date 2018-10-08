@@ -1,0 +1,5 @@
+name: "ansible.connection_kubectl"
+version: "2.8.0"
+description: "Execute tasks in pods running on Kubernetes"
+authors: ['xuxinkun']
+license: "GPL-3.0-or-later"

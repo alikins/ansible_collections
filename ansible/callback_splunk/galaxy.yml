@@ -1,0 +1,5 @@
+name: "ansible.callback_splunk"
+version: "2.8.0"
+description: "Sends task result events to Splunk HTTP Event Collector"
+authors: ['Stuart Hirst <support@convergingdata.com>']
+license: "GPL-3.0-or-later"

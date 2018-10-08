@@ -1,0 +1,5 @@
+name: "ansible.inventory_tower"
+version: "2.8.0"
+description: "Ansible dynamic inventory plugin for Ansible Tower"
+authors: ['Matthew Jones (@matburt)', 'Yunfan Zhang (@YunfanZhang42)']
+license: "GPL-3.0-or-later"

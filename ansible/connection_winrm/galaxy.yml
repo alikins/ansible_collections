@@ -1,0 +1,5 @@
+name: "ansible.connection_winrm"
+version: "2.8.0"
+description: "Run tasks over Microsoft's WinRM"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

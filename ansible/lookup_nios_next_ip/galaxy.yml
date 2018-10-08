@@ -1,0 +1,5 @@
+name: "ansible.lookup_nios_next_ip"
+version: "2.8.0"
+description: "Return the next available IP address for a network"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

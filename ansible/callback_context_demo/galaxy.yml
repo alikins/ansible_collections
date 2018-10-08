@@ -1,0 +1,5 @@
+name: "ansible.callback_context_demo"
+version: "2.8.0"
+description: "demo callback that adds play/task context"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.strategy_linear"
+version: "2.8.0"
+description: "Executes tasks in a linear fashion"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

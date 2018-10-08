@@ -1,0 +1,5 @@
+name: "ansible.lookup_inventory_hostnames"
+version: "2.8.0"
+description: "list of inventory hosts matching a host pattern"
+authors: ['Michael DeHaan <michael.dehaan@gmail.com>', 'Steven Dossett <sdossett@panath.com>']
+license: "GPL-3.0-or-later"

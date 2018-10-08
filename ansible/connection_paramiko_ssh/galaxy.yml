@@ -1,0 +1,5 @@
+name: "ansible.connection_paramiko_ssh"
+version: "2.8.0"
+description: "Run tasks via python ssh (paramiko)"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

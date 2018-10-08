@@ -1,0 +1,5 @@
+name: "ansible.lookup_lines"
+version: "2.8.0"
+description: "read lines from command"
+authors: ['Daniel Hokka Zakrisson <daniel@hozac.com>']
+license: "GPL-3.0-or-later"

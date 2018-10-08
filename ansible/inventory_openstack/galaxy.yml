@@ -1,0 +1,5 @@
+name: "ansible.inventory_openstack"
+version: "2.8.0"
+description: "OpenStack inventory source"
+authors: ['Marco Vito Moscaritolo <marco@agavee.com>', 'Jesse Keating <jesse.keating@rackspace.com>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.lookup_together"
+version: "2.8.0"
+description: "merges lists into synchronized list"
+authors: ['Bradley Young <young.bradley@gmail.com>']
+license: "GPL-3.0-or-later"

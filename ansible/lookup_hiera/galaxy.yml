@@ -1,0 +1,5 @@
+name: "ansible.lookup_hiera"
+version: "2.8.0"
+description: "get info from hiera data"
+authors: ['Juan Manuel Parrilla (@jparrill)']
+license: "GPL-3.0-or-later"

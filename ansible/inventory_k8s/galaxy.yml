@@ -1,0 +1,5 @@
+name: "ansible.inventory_k8s"
+version: "2.8.0"
+description: "Kubernetes (K8s) inventory source"
+authors: ['Chris Houseknecht <@chouseknecht>', 'Fabian von Feilitzsch <@fabianvf>']
+license: "GPL-3.0-or-later"

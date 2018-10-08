@@ -1,0 +1,5 @@
+name: "ansible.callback_hipchat"
+version: "2.8.0"
+description: "post task events to hipchat"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

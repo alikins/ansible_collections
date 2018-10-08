@@ -1,0 +1,5 @@
+name: "ansible.lookup_config"
+version: "2.8.0"
+description: "Lookup current Ansible configuration values"
+authors: ['Ansible Core']
+license: "GPL-3.0-or-later"

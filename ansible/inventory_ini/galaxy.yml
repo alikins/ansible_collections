@@ -1,0 +1,5 @@
+name: "ansible.inventory_ini"
+version: "2.8.0"
+description: "Uses an Ansible INI file as inventory source"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

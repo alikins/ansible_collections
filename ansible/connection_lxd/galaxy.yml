@@ -1,0 +1,5 @@
+name: "ansible.connection_lxd"
+version: "2.8.0"
+description: "Run tasks in lxc containers via lxc CLI"
+authors: ['Matt Clay <matt@mystile.com>']
+license: "GPL-3.0-or-later"

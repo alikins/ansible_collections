@@ -1,0 +1,5 @@
+name: "ansible.lookup_ini"
+version: "2.8.0"
+description: "read data from a ini file"
+authors: ['Yannig Perre <yannig.perre(at)gmail.com>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.connection_docker"
+version: "2.8.0"
+description: "Run tasks in docker containers"
+authors: ['Lorin Hochestein', 'Leendert Brouwer']
+license: "GPL-3.0-or-later"

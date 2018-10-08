@@ -1,0 +1,5 @@
+name: "ansible.callback_logdna"
+version: "2.8.0"
+description: "Sends playbook logs to LogDNA"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

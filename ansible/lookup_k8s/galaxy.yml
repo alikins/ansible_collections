@@ -1,0 +1,5 @@
+name: "ansible.lookup_k8s"
+version: "2.8.0"
+description: "Query the K8s API"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

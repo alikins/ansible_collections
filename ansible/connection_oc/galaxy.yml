@@ -1,0 +1,5 @@
+name: "ansible.connection_oc"
+version: "2.8.0"
+description: "Execute tasks in pods running on OpenShift"
+authors: ['xuxinkun']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.callback_foreman"
+version: "2.8.0"
+description: "Sends events to Foreman"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

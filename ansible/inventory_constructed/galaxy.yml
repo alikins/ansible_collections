@@ -1,0 +1,5 @@
+name: "ansible.inventory_constructed"
+version: "2.8.0"
+description: "Uses Jinja2 to construct vars and groups based on existing inventory"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

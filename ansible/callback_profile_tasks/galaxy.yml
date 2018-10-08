@@ -1,0 +1,5 @@
+name: "ansible.callback_profile_tasks"
+version: "2.8.0"
+description: "adds time information to tasks"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

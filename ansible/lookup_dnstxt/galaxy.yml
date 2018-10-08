@@ -1,0 +1,5 @@
+name: "ansible.lookup_dnstxt"
+version: "2.8.0"
+description: "query a domain(s)'s DNS txt fields"
+authors: ['Jan-Piet Mens (@jpmens) <jpmens(at)gmail.com>']
+license: "GPL-3.0-or-later"

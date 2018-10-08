@@ -1,0 +1,5 @@
+name: "ansible.lookup_first_found"
+version: "2.8.0"
+description: "return first file found from list"
+authors: ['Seth Vidal <skvidal@fedoraproject.org>']
+license: "GPL-3.0-or-later"

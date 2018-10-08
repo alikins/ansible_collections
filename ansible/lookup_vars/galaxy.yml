@@ -1,0 +1,5 @@
+name: "ansible.lookup_vars"
+version: "2.8.0"
+description: "Lookup templated value of variables"
+authors: ['Ansible Core']
+license: "GPL-3.0-or-later"

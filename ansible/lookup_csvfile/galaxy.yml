@@ -1,0 +1,5 @@
+name: "ansible.lookup_csvfile"
+version: "2.8.0"
+description: "read data from a TSV or CSV file"
+authors: ['Jan-Piet Mens (@jpmens) <jpmens(at)gmail.com>']
+license: "GPL-3.0-or-later"

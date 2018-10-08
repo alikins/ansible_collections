@@ -1,0 +1,5 @@
+name: "ansible.lookup_chef_databag"
+version: "2.8.0"
+description: "fetches data from a Chef Databag"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.inventory_openshift"
+version: "2.8.0"
+description: "OpenShift inventory source"
+authors: ['Chris Houseknecht <@chouseknecht>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.connection_saltstack"
+version: "2.8.0"
+description: "Allow ansible to piggyback on salt minions"
+authors: ['Michael Scherer <misc@zarb.org>']
+license: "GPL-3.0-or-later"

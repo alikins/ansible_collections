@@ -1,0 +1,5 @@
+name: "ansible.callback_selective"
+version: "2.8.0"
+description: "only print certain tasks"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

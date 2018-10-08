@@ -1,0 +1,5 @@
+name: "ansible.lookup_passwordstore"
+version: "2.8.0"
+description: "manage passwords with passwordstore.org's pass utility"
+authors: ['Patrick Deelman <patrick@patrickdeelman.nl>']
+license: "GPL-3.0-or-later"

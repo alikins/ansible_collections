@@ -1,0 +1,5 @@
+name: "ansible.inventory_netbox"
+version: "2.8.0"
+description: "NetBox inventory source"
+authors: ['Remy Leone (@sieben)', 'Anthony Ruhier (@Anthony25)']
+license: "GPL-3.0-or-later"

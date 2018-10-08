@@ -1,0 +1,5 @@
+name: "ansible.callback_sumologic"
+version: "2.8.0"
+description: "Sends task result events to Sumologic"
+authors: ['Ryan Currah (@ryancurrah)']
+license: "GPL-3.0-or-later"

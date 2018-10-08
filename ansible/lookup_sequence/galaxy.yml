@@ -1,0 +1,5 @@
+name: "ansible.lookup_sequence"
+version: "2.8.0"
+description: "generate a list based on a number sequence"
+authors: ['Jayson Vantuyl <jayson@aggressive.ly>']
+license: "GPL-3.0-or-later"

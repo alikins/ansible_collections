@@ -1,0 +1,5 @@
+name: "ansible.callback_logentries"
+version: "2.8.0"
+description: "Sends events to Logentries"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

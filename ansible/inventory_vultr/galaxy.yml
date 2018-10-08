@@ -1,0 +1,5 @@
+name: "ansible.inventory_vultr"
+version: "2.8.0"
+description: "Vultr inventory source"
+authors: ['Yanis Guenane (@Spredzy)']
+license: "GPL-3.0-or-later"

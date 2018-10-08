@@ -1,0 +1,5 @@
+name: "ansible.shell_sh"
+version: "2.8.0"
+description: "POSIX shell (/bin/sh)"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.cache_jsonfile"
+version: "2.8.0"
+description: "JSON formatted files"
+authors: ['Ansible Core (@ansible-core)']
+license: "GPL-3.0-or-later"

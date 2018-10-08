@@ -1,0 +1,5 @@
+name: "ansible.inventory_aws_ec2"
+version: "2.8.0"
+description: "ec2 inventory source"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.callback_null"
+version: "2.8.0"
+description: "Don't display stuff to screen"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

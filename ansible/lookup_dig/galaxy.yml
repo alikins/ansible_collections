@@ -1,0 +1,5 @@
+name: "ansible.lookup_dig"
+version: "2.8.0"
+description: "query DNS using the dnspython library"
+authors: ['Jan-Piet Mens (@jpmens) <jpmens(at)gmail.com>']
+license: "GPL-3.0-or-later"

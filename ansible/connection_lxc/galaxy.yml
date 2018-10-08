@@ -1,0 +1,5 @@
+name: "ansible.connection_lxc"
+version: "2.8.0"
+description: "Run tasks in lxc containers via lxc python library"
+authors: ['Joerg Thalheim <joerg@higgsboson.tk>']
+license: "GPL-3.0-or-later"

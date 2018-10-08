@@ -1,0 +1,5 @@
+name: "ansible.lookup_template"
+version: "2.8.0"
+description: "retrieve contents of file after templating with Jinja2"
+authors: ['Michael DeHaan <michael.dehaan@gmail.com>']
+license: "GPL-3.0-or-later"

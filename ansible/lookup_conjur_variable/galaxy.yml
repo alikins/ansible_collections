@@ -1,0 +1,5 @@
+name: "ansible.lookup_conjur_variable"
+version: "2.8.0"
+description: "Fetch credentials from CyberArk Conjur"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

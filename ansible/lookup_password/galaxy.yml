@@ -1,0 +1,5 @@
+name: "ansible.lookup_password"
+version: "2.8.0"
+description: "retrieve or generate a random password, stored in a file"
+authors: ['Daniel Hokka Zakrisson <daniel@hozac.com>', 'Javier Candeira <javier@candeira.com>', 'Maykel Moya <mmoya@speedyrails.com>']
+license: "GPL-3.0-or-later"

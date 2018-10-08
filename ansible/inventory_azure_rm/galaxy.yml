@@ -1,0 +1,5 @@
+name: "ansible.inventory_azure_rm"
+version: "2.8.0"
+description: "Azure Resource Manager inventory plugin"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

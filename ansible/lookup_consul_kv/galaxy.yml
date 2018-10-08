@@ -1,0 +1,5 @@
+name: "ansible.lookup_consul_kv"
+version: "2.8.0"
+description: "Fetch metadata from a Consul key value store"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

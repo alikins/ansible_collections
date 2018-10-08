@@ -1,0 +1,5 @@
+name: "ansible.lookup_random_choice"
+version: "2.8.0"
+description: "return random element from list"
+authors: ['Michael DeHaan <michael.dehaan@gmail.com>']
+license: "GPL-3.0-or-later"

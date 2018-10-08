@@ -1,0 +1,5 @@
+name: "ansible.connection_local"
+version: "2.8.0"
+description: "execute on controller"
+authors: ['ansible (@core)']
+license: "GPL-3.0-or-later"

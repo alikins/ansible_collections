@@ -1,0 +1,5 @@
+name: "ansible.lookup_nios"
+version: "2.8.0"
+description: "Query Infoblox NIOS objects"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

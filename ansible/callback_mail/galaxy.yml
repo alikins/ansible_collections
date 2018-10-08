@@ -1,0 +1,5 @@
+name: "ansible.callback_mail"
+version: "2.8.0"
+description: "Sends failure events via email"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

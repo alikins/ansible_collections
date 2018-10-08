@@ -1,0 +1,5 @@
+name: "ansible.lookup_env"
+version: "2.8.0"
+description: "read the value of environment variables"
+authors: ['Jan-Piet Mens (@jpmens) <jpmens(at)gmail.com>']
+license: "GPL-3.0-or-later"

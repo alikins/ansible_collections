@@ -1,0 +1,5 @@
+name: "ansible.httpapi_ftd"
+version: "2.8.0"
+description: "HttpApi Plugin for Cisco ASA Firepower device"
+authors: ['Ansible Networking Team']
+license: "GPL-3.0-or-later"

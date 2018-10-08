@@ -1,0 +1,5 @@
+name: "ansible.inventory_virtualbox"
+version: "2.8.0"
+description: "virtualbox inventory source"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

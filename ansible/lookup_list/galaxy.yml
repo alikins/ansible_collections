@@ -1,0 +1,5 @@
+name: "ansible.lookup_list"
+version: "2.8.0"
+description: "simply returns what it is given"
+authors: ['Ansible core team']
+license: "GPL-3.0-or-later"

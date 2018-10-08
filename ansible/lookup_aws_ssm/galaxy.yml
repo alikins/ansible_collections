@@ -1,0 +1,5 @@
+name: "ansible.lookup_aws_ssm"
+version: "2.8.0"
+description: "Get the value for a SSM parameter or all parameters under a path"
+authors: ['Bill Wang <ozbillwang(at)gmail.com>', 'Marat Bakeev <hawara(at)gmail.com>', 'Michael De La Rue <siblemitcom.mddlr@spamgourmet.com>']
+license: "GPL-3.0-or-later"

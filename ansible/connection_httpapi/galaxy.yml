@@ -1,0 +1,5 @@
+name: "ansible.connection_httpapi"
+version: "2.8.0"
+description: "Use httpapi to run command on network appliances"
+authors: ['Ansible Networking Team']
+license: "GPL-3.0-or-later"

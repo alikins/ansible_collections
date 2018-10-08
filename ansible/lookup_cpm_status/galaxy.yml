@@ -1,0 +1,5 @@
+name: "ansible.lookup_cpm_status"
+version: "2.8.0"
+description: "Get status and parameters from WTI OOB and PDU devices"
+authors: ['Western Telematic Inc. (@wtinetworkgear)']
+license: "GPL-3.0-or-later"

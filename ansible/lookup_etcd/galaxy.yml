@@ -1,0 +1,5 @@
+name: "ansible.lookup_etcd"
+version: "2.8.0"
+description: "get info from an etcd server"
+authors: ['Jan-Piet Mens (@jpmens)']
+license: "GPL-3.0-or-later"

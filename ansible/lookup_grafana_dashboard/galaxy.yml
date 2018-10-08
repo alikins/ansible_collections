@@ -1,0 +1,5 @@
+name: "ansible.lookup_grafana_dashboard"
+version: "2.8.0"
+description: "list or search grafana dashboards"
+authors: ['Thierry Salle (@seuf)']
+license: "GPL-3.0-or-later"

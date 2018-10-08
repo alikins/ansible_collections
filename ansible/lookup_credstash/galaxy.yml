@@ -1,0 +1,5 @@
+name: "ansible.lookup_credstash"
+version: "2.8.0"
+description: "retrieve secrets from Credstash on AWS"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

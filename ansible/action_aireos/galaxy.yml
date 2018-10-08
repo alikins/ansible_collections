@@ -1,0 +1,5 @@
+name: "ansible.action_aireos"
+version: "2.8.0"
+description: ""
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

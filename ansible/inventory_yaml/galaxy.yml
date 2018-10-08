@@ -1,0 +1,5 @@
+name: "ansible.inventory_yaml"
+version: "2.8.0"
+description: "Uses a specific YAML file as an inventory source"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

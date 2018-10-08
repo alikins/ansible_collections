@@ -1,0 +1,5 @@
+name: "ansible.lookup_pipe"
+version: "2.8.0"
+description: "read output from a command"
+authors: ['Daniel Hokka Zakrisson <daniel@hozac.com>']
+license: "GPL-3.0-or-later"

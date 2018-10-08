@@ -1,0 +1,5 @@
+name: "ansible.lookup_cpm_metering"
+version: "2.8.0"
+description: "Get Power and Current data from WTI OOB/Combo and PDU devices"
+authors: ['Western Telematic Inc. (@wtinetworkgear)']
+license: "GPL-3.0-or-later"

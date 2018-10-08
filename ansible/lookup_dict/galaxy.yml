@@ -1,0 +1,5 @@
+name: "ansible.lookup_dict"
+version: "2.8.0"
+description: "returns key/value pair items from dictionaries"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.callback_full_skip"
+version: "2.8.0"
+description: "suppresses tasks if all hosts skipped"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

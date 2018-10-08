@@ -1,0 +1,5 @@
+name: "ansible.strategy_host_pinned"
+version: "2.8.0"
+description: "Executes tasks on each host without interruption"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

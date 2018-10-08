@@ -1,0 +1,5 @@
+name: "ansible.connection_iocage"
+version: "2.8.0"
+description: "Run tasks in iocage jails"
+authors: ['Stephan Lohse <dev-github@ploek.org>']
+license: "GPL-3.0-or-later"

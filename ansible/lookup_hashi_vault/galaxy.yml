@@ -1,0 +1,5 @@
+name: "ansible.lookup_hashi_vault"
+version: "2.8.0"
+description: "retrieve secrets from HashiCorp's vault"
+authors: ['Jonathan Davila <jdavila(at)ansible.com>']
+license: "GPL-3.0-or-later"

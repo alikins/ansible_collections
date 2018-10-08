@@ -1,0 +1,5 @@
+name: "ansible.cache_pickle"
+version: "2.8.0"
+description: "Pickle formatted files"
+authors: ['Brian Coca (@bcoca)']
+license: "GPL-3.0-or-later"

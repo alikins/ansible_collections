@@ -1,0 +1,5 @@
+name: "ansible.lookup_mongodb"
+version: "2.8.0"
+description: "lookup info from MongoDB"
+authors: ['Marcos Diez <marcos (at) unitron.com.br>']
+license: "GPL-3.0-or-later"

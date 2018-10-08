@@ -1,0 +1,5 @@
+name: "ansible.cache_redis"
+version: "2.8.0"
+description: "Use Redis DB for cache"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

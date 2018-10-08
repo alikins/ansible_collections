@@ -1,0 +1,5 @@
+name: "ansible.callback_osx_say"
+version: "2.8.0"
+description: "oneline Ansible screen output"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

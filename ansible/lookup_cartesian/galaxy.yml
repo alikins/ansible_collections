@@ -1,0 +1,5 @@
+name: "ansible.lookup_cartesian"
+version: "2.8.0"
+description: "returns the cartesian product of lists"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

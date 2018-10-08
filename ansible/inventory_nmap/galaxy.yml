@@ -1,0 +1,5 @@
+name: "ansible.inventory_nmap"
+version: "2.8.0"
+description: "Uses nmap to find hosts to target"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

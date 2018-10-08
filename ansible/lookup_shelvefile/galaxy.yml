@@ -1,0 +1,5 @@
+name: "ansible.lookup_shelvefile"
+version: "2.8.0"
+description: "read keys from Python shelve file"
+authors: ['Alejandro Guirao <lekumberri@gmail.com>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.lookup_filetree"
+version: "2.8.0"
+description: "recursively match all files in a directory tree"
+authors: ['Dag Wieers (@dagwieers) <dag@wieers.com>']
+license: "GPL-3.0-or-later"

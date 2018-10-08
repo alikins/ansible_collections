@@ -1,0 +1,5 @@
+name: "ansible.lookup_nios_next_network"
+version: "2.8.0"
+description: "Return the next available network range for a network-container"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

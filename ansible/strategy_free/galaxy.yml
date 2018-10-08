@@ -1,0 +1,5 @@
+name: "ansible.strategy_free"
+version: "2.8.0"
+description: "Executes tasks without waiting for all hosts"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

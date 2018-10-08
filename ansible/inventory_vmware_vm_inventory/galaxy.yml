@@ -1,0 +1,5 @@
+name: "ansible.inventory_vmware_vm_inventory"
+version: "2.8.0"
+description: "VMware Guest inventory source"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

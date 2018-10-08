@@ -1,0 +1,5 @@
+name: "ansible.lookup_url"
+version: "2.8.0"
+description: "return contents from URL"
+authors: ['Brian Coca (@bcoca)']
+license: "GPL-3.0-or-later"

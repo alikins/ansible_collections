@@ -1,0 +1,5 @@
+name: "ansible.connection_netconf"
+version: "2.8.0"
+description: "Provides a persistent connection using the netconf protocol"
+authors: ['Ansible Networking Team']
+license: "GPL-3.0-or-later"

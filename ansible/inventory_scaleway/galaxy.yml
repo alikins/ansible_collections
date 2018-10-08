@@ -1,0 +1,5 @@
+name: "ansible.inventory_scaleway"
+version: "2.8.0"
+description: "Scaleway inventory source"
+authors: ['Remy Leone (@sieben)']
+license: "GPL-3.0-or-later"

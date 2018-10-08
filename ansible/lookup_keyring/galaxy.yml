@@ -1,0 +1,5 @@
+name: "ansible.lookup_keyring"
+version: "2.8.0"
+description: "grab secrets from the OS keyring"
+authors: ['Samuel Boucher <boucher.samuel.c@gmail.com>']
+license: "GPL-3.0-or-later"

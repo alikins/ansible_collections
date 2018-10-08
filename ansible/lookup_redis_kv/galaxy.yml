@@ -1,0 +1,5 @@
+name: "ansible.lookup_redis_kv"
+version: "2.8.0"
+description: "fetch data from Redis"
+authors: ['Jan-Piet Mens <jpmens(at)gmail.com>']
+license: "GPL-3.0-or-later"

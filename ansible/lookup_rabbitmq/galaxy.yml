@@ -1,0 +1,5 @@
+name: "ansible.lookup_rabbitmq"
+version: "2.8.0"
+description: "Retrieve messages from an AMQP/AMQPS RabbitMQ queue"
+authors: ['John Imison <@Im0>']
+license: "GPL-3.0-or-later"

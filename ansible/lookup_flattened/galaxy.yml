@@ -1,0 +1,5 @@
+name: "ansible.lookup_flattened"
+version: "2.8.0"
+description: "return single list completely flattened"
+authors: ['Serge van Ginderachter <serge@vanginderachter.be>']
+license: "GPL-3.0-or-later"

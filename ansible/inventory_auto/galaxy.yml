@@ -1,0 +1,5 @@
+name: "ansible.inventory_auto"
+version: "2.8.0"
+description: "Loads and executes an inventory plugin specified in a YAML config"
+authors: ['Matt Davis <@nitzmahone>']
+license: "GPL-3.0-or-later"

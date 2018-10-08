@@ -1,0 +1,5 @@
+name: "ansible.vars_host_group_vars"
+version: "2.8.0"
+description: "In charge of loading group_vars and host_vars"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

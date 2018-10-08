@@ -1,0 +1,5 @@
+name: "ansible.callback_log_plays"
+version: "2.8.0"
+description: "write playbook output to log file"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.lookup_onepassword"
+version: "2.8.0"
+description: "fetch field values from 1Password"
+authors: ['Scott Buchanan <sbuchanan@ri.pn>', 'Andrew Zenk <azenk@umn.edu>', 'Sam Doran<sdoran@redhat.com>']
+license: "GPL-3.0-or-later"
