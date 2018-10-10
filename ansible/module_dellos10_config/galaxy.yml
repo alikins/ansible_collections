@@ -1,0 +1,5 @@
+name: "ansible.module_dellos10_config"
+version: "2.8.0"
+description: "Manage Dell EMC Networking OS10 configuration sections"
+authors: ['Senthil Kumar Ganesan (@skg-net)']
+license: "GPL-3.0-or-later"

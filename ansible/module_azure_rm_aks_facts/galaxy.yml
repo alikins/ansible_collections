@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_aks_facts"
+version: "2.8.0"
+description: "Get Azure Kubernetes Service facts"
+authors: ['Yuwei Zhou (@yuwzho)']
+license: "GPL-3.0-or-later"

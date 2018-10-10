@@ -1,0 +1,5 @@
+name: "ansible.module_docker_login"
+version: "2.8.0"
+description: "Log into a Docker registry"
+authors: ['Olaf Kilian (@olsaki) <olaf.kilian@symanex.com>', 'Chris Houseknecht (@chouseknecht)']
+license: "GPL-3.0-or-later"

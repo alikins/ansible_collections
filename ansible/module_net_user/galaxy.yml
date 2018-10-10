@@ -1,0 +1,5 @@
+name: "ansible.module_net_user"
+version: "2.8.0"
+description: "Manage the aggregate of local users on network device"
+authors: ['Trishna Guha (@trishnaguha)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_host_facts"
+version: "2.8.0"
+description: "Gathers facts about remote ESXi hostsystem"
+authors: ['Wei Gao (@woshihaoren)']
+license: "GPL-3.0-or-later"

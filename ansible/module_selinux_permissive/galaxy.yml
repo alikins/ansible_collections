@@ -1,0 +1,5 @@
+name: "ansible.module_selinux_permissive"
+version: "2.8.0"
+description: "Change permissive domain in SELinux policy"
+authors: ['Michael Scherer (@mscherer) <misc@zarb.org>']
+license: "GPL-3.0-or-later"

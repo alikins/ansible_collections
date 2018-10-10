@@ -1,0 +1,5 @@
+name: "ansible.module_cloudfront_facts"
+version: "2.8.0"
+description: "Obtain facts about an AWS CloudFront distribution"
+authors: ['Willem van Ketwich (@wilvk)']
+license: "GPL-3.0-or-later"

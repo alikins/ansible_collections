@@ -1,0 +1,5 @@
+name: "ansible.module_pip"
+version: "2.8.0"
+description: "Manages Python library dependencies"
+authors: ['Matt Wright (@mattupstate)']
+license: "GPL-3.0-or-later"

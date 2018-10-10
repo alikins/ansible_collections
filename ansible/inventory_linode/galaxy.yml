@@ -1,0 +1,5 @@
+name: "ansible.inventory_linode"
+version: "2.8.0"
+description: "Ansible dynamic inventory plugin for Linode"
+authors: ['UNKNOWN']
+license: "GPL-3.0-or-later"

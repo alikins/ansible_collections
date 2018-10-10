@@ -1,0 +1,5 @@
+name: "ansible.module_cisco_spark"
+version: "2.8.0"
+description: "Send a message to a Cisco Spark Room or Individual"
+authors: ['Drew Rusell (@drew-russell)']
+license: "GPL-3.0-or-later"

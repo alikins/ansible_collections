@@ -1,0 +1,5 @@
+name: "ansible.module_flatpak"
+version: "2.8.0"
+description: "Manage flatpaks"
+authors: ['John Kwiatkoski (@jaykayy)', 'Alexander Bethke (@oolongbrothers)']
+license: "GPL-3.0-or-later"

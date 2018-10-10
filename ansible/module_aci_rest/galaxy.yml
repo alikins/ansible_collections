@@ -1,0 +1,5 @@
+name: "ansible.module_aci_rest"
+version: "2.8.0"
+description: "Direct access to the Cisco APIC REST API"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

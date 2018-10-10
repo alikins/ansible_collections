@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_customer_gateway"
+version: "2.8.0"
+description: "Manage an AWS customer gateway"
+authors: ['Michael Baydoun (@MichaelBaydoun)']
+license: "GPL-3.0-or-later"

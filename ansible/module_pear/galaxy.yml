@@ -1,0 +1,5 @@
+name: "ansible.module_pear"
+version: "2.8.0"
+description: "Manage pear/pecl packages"
+authors: ["'jonathan.lestrelin' <jonathan.lestrelin@gmail.com>"]
+license: "GPL-3.0-or-later"

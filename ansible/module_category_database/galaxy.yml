@@ -1,0 +1,41 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Database modules
+license: GPL-3.0-or-later
+name: ansible.module_category_database
+requirements:
+- ansible.module_mysql_variables
+- ansible.module_mysql_user
+- ansible.module_mysql_db
+- ansible.module_mysql_replication
+- ansible.module_mongodb_user
+- ansible.module_mongodb_parameter
+- ansible.module_postgresql_db
+- ansible.module_postgresql_user
+- ansible.module_postgresql_lang
+- ansible.module_postgresql_ext
+- ansible.module_postgresql_schema
+- ansible.module_postgresql_privs
+- ansible.module_vertica_role
+- ansible.module_vertica_configuration
+- ansible.module_vertica_user
+- ansible.module_vertica_facts
+- ansible.module_vertica_schema
+- ansible.module_redis
+- ansible.module_elasticsearch_plugin
+- ansible.module_kibana_plugin
+- ansible.module_riak
+- ansible.module_mssql_db
+- ansible.module_proxysql_manage_config
+- ansible.module_proxysql_backend_servers
+- ansible.module_proxysql_query_rules
+- ansible.module_proxysql_mysql_users
+- ansible.module_proxysql_global_variables
+- ansible.module_proxysql_replication_hostgroups
+- ansible.module_proxysql_scheduler
+- ansible.module_influxdb_user
+- ansible.module_influxdb_database
+- ansible.module_influxdb_write
+- ansible.module_influxdb_query
+- ansible.module_influxdb_retention_policy
+version: 2.8.0

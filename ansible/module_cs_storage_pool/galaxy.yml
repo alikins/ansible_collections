@@ -1,0 +1,5 @@
+name: "ansible.module_cs_storage_pool"
+version: "2.8.0"
+description: "Manages Primary Storage Pools on Apache CloudStack based clouds"
+authors: ['Netservers Ltd. (@netservers)', 'René Moser (@resmo)']
+license: "GPL-3.0-or-later"

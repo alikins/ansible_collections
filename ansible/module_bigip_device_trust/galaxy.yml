@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_device_trust"
+version: "2.8.0"
+description: "Manage the trust relationships between BIG-IPs"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

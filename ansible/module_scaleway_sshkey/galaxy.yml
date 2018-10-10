@@ -1,0 +1,5 @@
+name: "ansible.module_scaleway_sshkey"
+version: "2.8.0"
+description: "Scaleway SSH keys management module"
+authors: ['Remy Leone (@sieben)']
+license: "GPL-3.0-or-later"

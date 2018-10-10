@@ -1,0 +1,5 @@
+name: "ansible.module_oneandone_public_ip"
+version: "2.8.0"
+description: "Configure 1&1 public IPs"
+authors: ['Amel Ajdinovic (@aajdinov)', 'Ethan Devenport (@edevenport)']
+license: "GPL-3.0-or-later"

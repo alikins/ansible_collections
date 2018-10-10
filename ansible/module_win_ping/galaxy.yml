@@ -1,0 +1,5 @@
+name: "ansible.module_win_ping"
+version: "2.8.0"
+description: "A windows version of the classic ping module"
+authors: ['Chris Church (@cchurch)']
+license: "GPL-3.0-or-later"

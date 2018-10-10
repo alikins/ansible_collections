@@ -1,0 +1,5 @@
+name: "ansible.module_lightsail"
+version: "2.8.0"
+description: "Create or delete a virtual machine instance in AWS Lightsail"
+authors: ['Nick Ball (@nickball)']
+license: "GPL-3.0-or-later"

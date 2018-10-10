@@ -1,0 +1,5 @@
+name: "ansible.module_cs_affinitygroup"
+version: "2.8.0"
+description: "Manages affinity groups on Apache CloudStack based clouds"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

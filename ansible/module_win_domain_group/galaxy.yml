@@ -1,0 +1,5 @@
+name: "ansible.module_win_domain_group"
+version: "2.8.0"
+description: "Creates, modifies or removes domain groups"
+authors: ['Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

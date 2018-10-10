@@ -1,0 +1,5 @@
+name: "ansible.module_oneandone_monitoring_policy"
+version: "2.8.0"
+description: "Configure 1&1 monitoring policy"
+authors: ['Amel Ajdinovic (@aajdinov)', 'Ethan Devenport (@edevenport)']
+license: "GPL-3.0-or-later"

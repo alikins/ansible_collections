@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_l2_interface"
+version: "2.8.0"
+description: "Manage Layer-2 interface on Cisco NXOS devices"
+authors: ['Trishna Guha (@trishnaguha)']
+license: "GPL-3.0-or-later"

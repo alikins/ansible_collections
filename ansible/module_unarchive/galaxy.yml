@@ -1,0 +1,5 @@
+name: "ansible.module_unarchive"
+version: "2.8.0"
+description: "Unpacks an archive after (optionally) copying it from the local machine"
+authors: ['Michael DeHaan']
+license: "GPL-3.0-or-later"

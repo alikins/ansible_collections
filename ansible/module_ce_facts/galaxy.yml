@@ -1,0 +1,5 @@
+name: "ansible.module_ce_facts"
+version: "2.8.0"
+description: "Gets facts about HUAWEI CloudEngine switches"
+authors: ['wangdezhuang (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

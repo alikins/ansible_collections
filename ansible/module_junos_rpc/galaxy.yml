@@ -1,0 +1,5 @@
+name: "ansible.module_junos_rpc"
+version: "2.8.0"
+description: "Runs an arbitrary RPC over NetConf on an Juniper JUNOS device"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

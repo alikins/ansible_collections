@@ -1,0 +1,5 @@
+name: "ansible.module_win_msg"
+version: "2.8.0"
+description: "Sends a message to logged in users on Windows hosts"
+authors: ['Jon Hawkesworth (@jhawkesworth)']
+license: "GPL-3.0-or-later"

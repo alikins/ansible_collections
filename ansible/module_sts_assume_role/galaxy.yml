@@ -1,0 +1,5 @@
+name: "ansible.module_sts_assume_role"
+version: "2.8.0"
+description: "Assume a role using AWS Security Token Service and obtain temporary credentials"
+authors: ['Boris Ekelchik (@bekelchik)', 'Marek Piatek (@piontas)']
+license: "GPL-3.0-or-later"

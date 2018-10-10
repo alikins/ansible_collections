@@ -1,0 +1,5 @@
+name: "ansible.module_nso_action"
+version: "2.8.0"
+description: "Executes Cisco NSO actions and verifies output"
+authors: ['Claes Nästén (@cnasten)']
+license: "GPL-3.0-or-later"

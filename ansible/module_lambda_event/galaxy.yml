@@ -1,0 +1,5 @@
+name: "ansible.module_lambda_event"
+version: "2.8.0"
+description: "Creates, updates or deletes AWS Lambda function event mappings"
+authors: ['Pierre Jodouin (@pjodouin), Ryan Brown (@ryansb)']
+license: "GPL-3.0-or-later"

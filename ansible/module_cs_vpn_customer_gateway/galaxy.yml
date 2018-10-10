@@ -1,0 +1,5 @@
+name: "ansible.module_cs_vpn_customer_gateway"
+version: "2.8.0"
+description: "Manages site-to-site VPN customer gateway configurations on Apache CloudStack based clouds"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_catapult"
+version: "2.8.0"
+description: "Send a sms / mms using the catapult bandwidth api"
+authors: ['Jonathan Mainguy (@Jmainguy)']
+license: "GPL-3.0-or-later"

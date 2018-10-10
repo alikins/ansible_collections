@@ -1,0 +1,5 @@
+name: "ansible.module_ipify_facts"
+version: "2.8.0"
+description: "Retrieve the public IP of your internet gateway"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_service"
+version: "2.8.0"
+description: "Manage and query Windows services"
+authors: ['Chris Hoffman (@chrishoffman)']
+license: "GPL-3.0-or-later"

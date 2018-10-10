@@ -1,0 +1,5 @@
+name: "ansible.module_na_ontap_gather_facts"
+version: "2.8.0"
+description: "NetApp information gatherer"
+authors: ['Piotr Olczak (polczak@redhat.com)']
+license: "GPL-3.0-or-later"

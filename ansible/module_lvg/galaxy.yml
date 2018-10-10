@@ -1,0 +1,5 @@
+name: "ansible.module_lvg"
+version: "2.8.0"
+description: "Configure LVM volume groups"
+authors: ['Alexander Bulimov (@abulimov)']
+license: "GPL-3.0-or-later"

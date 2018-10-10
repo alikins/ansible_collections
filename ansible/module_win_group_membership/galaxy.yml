@@ -1,0 +1,5 @@
+name: "ansible.module_win_group_membership"
+version: "2.8.0"
+description: "Manage Windows local group membership"
+authors: ['Andrew Saraceni (@andrewsaraceni)']
+license: "GPL-3.0-or-later"

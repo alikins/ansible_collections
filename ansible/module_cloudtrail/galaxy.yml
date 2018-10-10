@@ -1,0 +1,5 @@
+name: "ansible.module_cloudtrail"
+version: "2.8.0"
+description: "manage CloudTrail create, delete, update"
+authors: ['Ansible Core Team', 'Ted Timmons (@tedder)', 'Daniel Shepherd (@shepdelacreme)']
+license: "GPL-3.0-or-later"

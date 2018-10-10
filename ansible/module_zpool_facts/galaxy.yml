@@ -1,0 +1,5 @@
+name: "ansible.module_zpool_facts"
+version: "2.8.0"
+description: "Gather facts about ZFS pools"
+authors: ['Adam Števko (@xen0l)']
+license: "GPL-3.0-or-later"

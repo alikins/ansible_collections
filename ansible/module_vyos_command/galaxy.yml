@@ -1,0 +1,5 @@
+name: "ansible.module_vyos_command"
+version: "2.8.0"
+description: "Run one or more commands on VyOS devices"
+authors: ['Nathaniel Case (@qalthos)']
+license: "GPL-3.0-or-later"

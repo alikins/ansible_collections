@@ -1,0 +1,5 @@
+name: "ansible.module_dimensiondata_network"
+version: "2.8.0"
+description: "Create, update, and delete MCP 1.0 & 2.0 networks"
+authors: ['Aimon Bustardo (@aimonb)']
+license: "GPL-3.0-or-later"

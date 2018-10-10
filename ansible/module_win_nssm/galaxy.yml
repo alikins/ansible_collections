@@ -1,0 +1,5 @@
+name: "ansible.module_win_nssm"
+version: "2.8.0"
+description: "NSSM - the Non-Sucking Service Manager"
+authors: ['Adam Keech (@smadam813)', 'George Frank (@georgefrank)', 'Hans-Joachim Kliemeck (@h0nIg)', 'Michael Wild (@themiwi)']
+license: "GPL-3.0-or-later"

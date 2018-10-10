@@ -1,0 +1,5 @@
+name: "ansible.module_datadog_monitor"
+version: "2.8.0"
+description: "Manages Datadog monitors"
+authors: ['Sebastian Kornehl (@skornehl)']
+license: "GPL-3.0-or-later"

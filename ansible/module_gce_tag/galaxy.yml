@@ -1,0 +1,5 @@
+name: "ansible.module_gce_tag"
+version: "2.8.0"
+description: "add or remove tag(s) to/from GCE instances"
+authors: ['Do Hoang Khiem (dohoangkhiem@gmail.com)', 'Tom Melendez (@supertom)']
+license: "GPL-3.0-or-later"

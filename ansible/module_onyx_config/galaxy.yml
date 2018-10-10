@@ -1,0 +1,5 @@
+name: "ansible.module_onyx_config"
+version: "2.8.0"
+description: "Manage Mellanox ONYX configuration sections"
+authors: ['Alex Tabachnik (@atabachnik), Samer Deeb (@samerd)']
+license: "GPL-3.0-or-later"

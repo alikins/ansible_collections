@@ -1,0 +1,5 @@
+name: "ansible.module_nso_query"
+version: "2.8.0"
+description: "Query data from Cisco NSO"
+authors: ['Claes Nästén (@cnasten)']
+license: "GPL-3.0-or-later"

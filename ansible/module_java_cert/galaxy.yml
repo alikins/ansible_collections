@@ -1,0 +1,5 @@
+name: "ansible.module_java_cert"
+version: "2.8.0"
+description: "Uses keytool to import/remove key from java keystore(cacerts)"
+authors: ['Adam Hamsik (@haad)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_rabbitmq_policy"
+version: "2.8.0"
+description: "Manage the state of policies in RabbitMQ"
+authors: ['John Dewey (@retr0h)']
+license: "GPL-3.0-or-later"

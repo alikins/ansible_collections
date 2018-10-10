@@ -1,0 +1,5 @@
+name: "ansible.module_locale_gen"
+version: "2.8.0"
+description: "Creates or removes locales"
+authors: ['Augustus Kling (@AugustusKling)']
+license: "GPL-3.0-or-later"

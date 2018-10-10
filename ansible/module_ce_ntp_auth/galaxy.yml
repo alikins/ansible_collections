@@ -1,0 +1,5 @@
+name: "ansible.module_ce_ntp_auth"
+version: "2.8.0"
+description: "Manages NTP authentication configuration on HUAWEI CloudEngine switches"
+authors: ['Zhijin Zhou (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

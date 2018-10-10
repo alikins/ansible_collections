@@ -1,0 +1,5 @@
+name: "ansible.module_wait_for"
+version: "2.8.0"
+description: "Waits for a condition before continuing"
+authors: ['Jeroen Hoekx (@jhoekx)', 'John Jarvis (@jarv)', 'Andrii Radyk (@AnderEnder)']
+license: "GPL-3.0-or-later"

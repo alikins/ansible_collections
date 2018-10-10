@@ -1,0 +1,5 @@
+name: "ansible.module_vcenter_folder"
+version: "2.8.0"
+description: "Manage folders on given datacenter"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

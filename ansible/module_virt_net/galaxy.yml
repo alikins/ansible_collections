@@ -1,0 +1,5 @@
+name: "ansible.module_virt_net"
+version: "2.8.0"
+description: "Manage libvirt network configuration"
+authors: ['Maciej Delmanowski (@drybjed)']
+license: "GPL-3.0-or-later"

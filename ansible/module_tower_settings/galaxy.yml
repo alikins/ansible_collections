@@ -1,0 +1,5 @@
+name: "ansible.module_tower_settings"
+version: "2.8.0"
+description: "Modify Ansible Tower settings"
+authors: ['Nikhil Jain (@jainnikhil30)']
+license: "GPL-3.0-or-later"

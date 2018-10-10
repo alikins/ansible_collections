@@ -1,0 +1,5 @@
+name: "ansible.module_s3_sync"
+version: "2.8.0"
+description: "Efficiently upload multiple files to S3"
+authors: ['Ted Timmons (@tedder)']
+license: "GPL-3.0-or-later"

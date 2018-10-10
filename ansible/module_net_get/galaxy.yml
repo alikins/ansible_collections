@@ -1,0 +1,5 @@
+name: "ansible.module_net_get"
+version: "2.8.0"
+description: "Copy a file from a network device to Ansible Controller"
+authors: ['Deepak Agrawal (@dagrawal)']
+license: "GPL-3.0-or-later"

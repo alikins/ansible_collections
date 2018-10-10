@@ -1,0 +1,5 @@
+name: "ansible.module_github_hooks"
+version: "2.8.0"
+description: "Manages GitHub service hooks"
+authors: ['Phillip Gentry, CX Inc (@pcgentry)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_rds_snapshot_facts"
+version: "2.8.0"
+description: "obtain facts about one or more RDS snapshots"
+authors: ['Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_slurp"
+version: "2.8.0"
+description: "Slurps a file from remote nodes"
+authors: ['Ansible Core Team', 'Michael DeHaan (@mpdehaan)']
+license: "GPL-3.0-or-later"

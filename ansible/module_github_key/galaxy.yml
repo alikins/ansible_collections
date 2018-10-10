@@ -1,0 +1,5 @@
+name: "ansible.module_github_key"
+version: "2.8.0"
+description: "Manage GitHub access keys"
+authors: ['Robert Estelle (@erydo)']
+license: "GPL-3.0-or-later"

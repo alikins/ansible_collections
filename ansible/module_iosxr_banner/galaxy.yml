@@ -1,0 +1,5 @@
+name: "ansible.module_iosxr_banner"
+version: "2.8.0"
+description: "Manage multiline banners on Cisco IOS XR devices"
+authors: ['Trishna Guha (@trishnaguha)', 'Kedar Kekan (@kedarX)']
+license: "GPL-3.0-or-later"

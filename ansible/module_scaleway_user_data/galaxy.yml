@@ -1,0 +1,5 @@
+name: "ansible.module_scaleway_user_data"
+version: "2.8.0"
+description: "Scaleway user_data management module"
+authors: ['Remy Leone (@sieben)']
+license: "GPL-3.0-or-later"

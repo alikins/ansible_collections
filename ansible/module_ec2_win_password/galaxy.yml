@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_win_password"
+version: "2.8.0"
+description: "gets the default administrator password for ec2 windows instances"
+authors: ['Rick Mendes (@rickmendes)']
+license: "GPL-3.0-or-later"

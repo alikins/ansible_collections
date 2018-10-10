@@ -1,0 +1,5 @@
+name: "ansible.module_cloudformation_stack_set"
+version: "2.8.0"
+description: "Manage groups of CloudFormation stacks"
+authors: ['Ryan Scott Brown (@ryansb)']
+license: "GPL-3.0-or-later"

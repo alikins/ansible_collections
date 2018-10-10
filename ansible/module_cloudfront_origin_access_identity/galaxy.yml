@@ -1,0 +1,5 @@
+name: "ansible.module_cloudfront_origin_access_identity"
+version: "2.8.0"
+description: "create, update and delete origin access identities for a cloudfront distribution"
+authors: ['Willem van Ketwich (@wilvk)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_junos_netconf"
+version: "2.8.0"
+description: "Configures the Junos Netconf system service"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

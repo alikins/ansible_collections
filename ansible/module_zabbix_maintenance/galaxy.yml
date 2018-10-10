@@ -1,0 +1,5 @@
+name: "ansible.module_zabbix_maintenance"
+version: "2.8.0"
+description: "Create Zabbix maintenance windows"
+authors: ['Alexander Bulimov (@abulimov)']
+license: "GPL-3.0-or-later"

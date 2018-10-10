@@ -1,0 +1,5 @@
+name: "ansible.module_icinga2_feature"
+version: "2.8.0"
+description: "Manage Icinga2 feature"
+authors: ['Loic Blot (@nerzhul)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_na_cdot_svm"
+version: "2.8.0"
+description: "Manage NetApp cDOT svm"
+authors: ['Sumit Kumar (sumit4@netapp.com)']
+license: "GPL-3.0-or-later"

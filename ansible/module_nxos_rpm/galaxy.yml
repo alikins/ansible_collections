@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_rpm"
+version: "2.8.0"
+description: "Install patch or feature rpms on Cisco NX-OS devices"
+authors: ['Sai Chintalapudi (@saichint)']
+license: "GPL-3.0-or-later"

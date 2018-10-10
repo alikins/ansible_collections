@@ -1,0 +1,5 @@
+name: "ansible.module_docker_volume"
+version: "2.8.0"
+description: "Manage Docker volumes"
+authors: ['Alex Grönholm (@agronholm)']
+license: "GPL-3.0-or-later"

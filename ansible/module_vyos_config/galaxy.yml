@@ -1,0 +1,5 @@
+name: "ansible.module_vyos_config"
+version: "2.8.0"
+description: "Manage VyOS configuration on remote device"
+authors: ['Nathaniel Case (@qalthos)']
+license: "GPL-3.0-or-later"

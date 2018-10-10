@@ -1,0 +1,5 @@
+name: "ansible.module_pause"
+version: "2.8.0"
+description: "Pause playbook execution"
+authors: ['Tim Bielawa (@tbielawa)']
+license: "GPL-3.0-or-later"

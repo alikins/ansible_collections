@@ -1,0 +1,5 @@
+name: "ansible.module_oneview_san_manager_facts"
+version: "2.8.0"
+description: "Retrieve facts about one or more of the OneView SAN Managers"
+authors: ['Felipe Bulsoni (@fgbulsoni)', 'Thiago Miotto (@tmiotto)', 'Adriane Cardozo (@adriane-cardozo)']
+license: "GPL-3.0-or-later"

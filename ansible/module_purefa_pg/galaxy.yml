@@ -1,0 +1,5 @@
+name: "ansible.module_purefa_pg"
+version: "2.8.0"
+description: "Manage protection groups on Pure Storage FlashArrays"
+authors: ['Simon Dodsley (@sdodsley)']
+license: "GPL-3.0-or-later"

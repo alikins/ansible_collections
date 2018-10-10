@@ -1,0 +1,5 @@
+name: "ansible.module_ipa_config"
+version: "2.8.0"
+description: "Manage Global FreeIPA Configuration Settings"
+authors: ['Fran Fitzpatrick (@fxfitz)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_influxdb_query"
+version: "2.8.0"
+description: "Query data points from InfluxDB"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

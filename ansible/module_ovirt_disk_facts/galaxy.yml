@@ -1,0 +1,5 @@
+name: "ansible.module_ovirt_disk_facts"
+version: "2.8.0"
+description: "Retrieve facts about one or more oVirt/RHV disks"
+authors: ['Katerina Koukiou (@kkoukiou)']
+license: "GPL-3.0-or-later"

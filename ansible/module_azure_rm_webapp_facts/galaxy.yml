@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_webapp_facts"
+version: "2.8.0"
+description: "Get azure web app facts"
+authors: ['Yunge Zhu (@yungezz)']
+license: "GPL-3.0-or-later"

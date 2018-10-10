@@ -1,0 +1,5 @@
+name: "ansible.module_nios_network"
+version: "2.8.0"
+description: "Configure Infoblox NIOS network object"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

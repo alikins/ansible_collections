@@ -1,0 +1,5 @@
+name: "ansible.module_honeybadger_deployment"
+version: "2.8.0"
+description: "Notify Honeybadger.io about app deployments"
+authors: ['Benjamin Curtis (@stympy)']
+license: "GPL-3.0-or-later"

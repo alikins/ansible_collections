@@ -1,0 +1,5 @@
+name: "ansible.module_pam_limits"
+version: "2.8.0"
+description: "Modify Linux PAM limits"
+authors: ['Sebastien Rohaut (@usawa)']
+license: "GPL-3.0-or-later"

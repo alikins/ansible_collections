@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_vlan"
+version: "2.8.0"
+description: "Manage VLANs on a BIG-IP system"
+authors: ['Tim Rupp (@caphrim007)', 'Wojciech Wypior (@wojtek0806)']
+license: "GPL-3.0-or-later"

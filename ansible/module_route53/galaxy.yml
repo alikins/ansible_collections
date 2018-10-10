@@ -1,0 +1,5 @@
+name: "ansible.module_route53"
+version: "2.8.0"
+description: "add or delete entries in Amazons Route53 DNS service"
+authors: ['Bruce Pennypacker (@bpennypacker)', 'Mike Buzzetti <mike.buzzetti@gmail.com>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_elb"
+version: "2.8.0"
+description: "De-registers or registers instances from EC2 ELBs"
+authors: ['John Jarvis (@jarv)']
+license: "GPL-3.0-or-later"

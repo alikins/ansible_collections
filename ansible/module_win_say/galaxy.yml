@@ -1,0 +1,5 @@
+name: "ansible.module_win_say"
+version: "2.8.0"
+description: "Text to speech module for Windows to speak messages and optionally play sounds"
+authors: ['Jon Hawkesworth (@jhawkesworth)']
+license: "GPL-3.0-or-later"

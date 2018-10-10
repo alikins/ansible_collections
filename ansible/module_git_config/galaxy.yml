@@ -1,0 +1,5 @@
+name: "ansible.module_git_config"
+version: "2.8.0"
+description: "Read and write git configuration"
+authors: ['Matthew Gamble (@djmattyg007)', 'Marius Gedminas']
+license: "GPL-3.0-or-later"

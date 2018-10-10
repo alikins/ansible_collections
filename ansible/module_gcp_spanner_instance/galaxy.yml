@@ -1,0 +1,5 @@
+name: "ansible.module_gcp_spanner_instance"
+version: "2.8.0"
+description: "Creates a GCP Instance"
+authors: ['Google Inc. (@googlecloudplatform)']
+license: "GPL-3.0-or-later"

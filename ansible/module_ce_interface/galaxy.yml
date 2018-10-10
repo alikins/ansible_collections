@@ -1,0 +1,5 @@
+name: "ansible.module_ce_interface"
+version: "2.8.0"
+description: "Manages physical attributes of interfaces on HUAWEI CloudEngine switches"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

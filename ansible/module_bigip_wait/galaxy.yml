@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_wait"
+version: "2.8.0"
+description: "Wait for a BIG-IP condition before continuing"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

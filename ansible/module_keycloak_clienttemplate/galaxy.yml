@@ -1,0 +1,5 @@
+name: "ansible.module_keycloak_clienttemplate"
+version: "2.8.0"
+description: "Allows administration of Keycloak client templates via Keycloak API"
+authors: ['Eike Frost (@eikef)']
+license: "GPL-3.0-or-later"

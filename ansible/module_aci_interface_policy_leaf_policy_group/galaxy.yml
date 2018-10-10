@@ -1,0 +1,5 @@
+name: "ansible.module_aci_interface_policy_leaf_policy_group"
+version: "2.8.0"
+description: "Manage fabric interface policy leaf policy groups (infra:AccBndlGrp, infra:AccPortGrp)"
+authors: ['Bruno Calogero (@brunocalogero)']
+license: "GPL-3.0-or-later"

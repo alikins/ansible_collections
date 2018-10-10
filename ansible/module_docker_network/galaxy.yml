@@ -1,0 +1,5 @@
+name: "ansible.module_docker_network"
+version: "2.8.0"
+description: "Manage Docker networks"
+authors: ['Ben Keith (@keitwb)', 'Chris Houseknecht (@chouseknecht)']
+license: "GPL-3.0-or-later"

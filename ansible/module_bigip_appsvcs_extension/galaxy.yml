@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_appsvcs_extension"
+version: "2.8.0"
+description: "Manage application service deployments"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

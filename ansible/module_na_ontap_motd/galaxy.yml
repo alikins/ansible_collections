@@ -1,0 +1,5 @@
+name: "ansible.module_na_ontap_motd"
+version: "2.8.0"
+description: "Setup motd on cDOT"
+authors: ['Piotr Olczak (polczak@redhat.com)']
+license: "GPL-3.0-or-later"

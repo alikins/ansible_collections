@@ -1,0 +1,5 @@
+name: "ansible.module_telegram"
+version: "2.8.0"
+description: "module for sending notifications via telegram"
+authors: ['Artem Feofanov (@tyouxa)']
+license: "GPL-3.0-or-later"

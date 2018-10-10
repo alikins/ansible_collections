@@ -1,0 +1,5 @@
+name: "ansible.module_ftd_file_download"
+version: "2.8.0"
+description: "Downloads files from Cisco FTD devices over HTTP(S)"
+authors: ['Cisco Systems, Inc.']
+license: "GPL-3.0-or-later"

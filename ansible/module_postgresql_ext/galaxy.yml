@@ -1,0 +1,5 @@
+name: "ansible.module_postgresql_ext"
+version: "2.8.0"
+description: "Add or remove PostgreSQL extensions from a database"
+authors: ['Daniel Schep (@dschep)']
+license: "GPL-3.0-or-later"

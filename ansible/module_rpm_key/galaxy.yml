@@ -1,0 +1,5 @@
+name: "ansible.module_rpm_key"
+version: "2.8.0"
+description: "Adds or removes a gpg key from the rpm db"
+authors: ['Hector Acosta (@hacosta) <hector.acosta@gazzang.com>']
+license: "GPL-3.0-or-later"

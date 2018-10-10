@@ -1,0 +1,5 @@
+name: "ansible.module_ecs_taskdefinition_facts"
+version: "2.8.0"
+description: "describe a task definition in ecs"
+authors: ['Gustavo Maia (@gurumaia)', 'Mark Chance (@Java1Guy)', 'Darek Kaczynski (@kaczynskid)']
+license: "GPL-3.0-or-later"

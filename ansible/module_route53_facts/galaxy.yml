@@ -1,0 +1,5 @@
+name: "ansible.module_route53_facts"
+version: "2.8.0"
+description: "Retrieves route53 details using AWS methods"
+authors: ['Karen Cheng (@Etherdaemon)']
+license: "GPL-3.0-or-later"

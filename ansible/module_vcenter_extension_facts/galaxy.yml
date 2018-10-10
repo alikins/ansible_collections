@@ -1,0 +1,5 @@
+name: "ansible.module_vcenter_extension_facts"
+version: "2.8.0"
+description: "Gather facts vCenter extensions"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

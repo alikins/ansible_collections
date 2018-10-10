@@ -1,0 +1,5 @@
+name: "ansible.module_win_lineinfile"
+version: "2.8.0"
+description: "Ensure a particular line is in a file, or replace an existing line using a back-referenced regular expression"
+authors: ['Brian Lloyd (@brianlloyd)']
+license: "GPL-3.0-or-later"

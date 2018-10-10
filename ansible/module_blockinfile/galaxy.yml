@@ -1,0 +1,5 @@
+name: "ansible.module_blockinfile"
+version: "2.8.0"
+description: "Insert/update/remove a text block surrounded by marker lines"
+authors: ['Yaegashi Takeshi (@yaegashi)']
+license: "GPL-3.0-or-later"

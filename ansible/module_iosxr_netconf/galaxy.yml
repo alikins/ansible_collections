@@ -1,0 +1,5 @@
+name: "ansible.module_iosxr_netconf"
+version: "2.8.0"
+description: "Configures NetConf sub-system service on Cisco IOS-XR devices"
+authors: ['Kedar Kekan (@kedarX)']
+license: "GPL-3.0-or-later"

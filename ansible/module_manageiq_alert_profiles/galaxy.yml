@@ -1,0 +1,5 @@
+name: "ansible.module_manageiq_alert_profiles"
+version: "2.8.0"
+description: "Configuration of alert profiles for ManageIQ"
+authors: ['Elad Alfassa (ealfassa@redhat.com)']
+license: "GPL-3.0-or-later"

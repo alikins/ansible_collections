@@ -1,0 +1,5 @@
+name: "ansible.module_group_by"
+version: "2.8.0"
+description: "Create Ansible groups based on facts"
+authors: ['Jeroen Hoekx (@jhoekx)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_hotfix"
+version: "2.8.0"
+description: "Install and uninstalls Windows hotfixes"
+authors: ['Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

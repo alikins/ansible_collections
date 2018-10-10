@@ -1,0 +1,5 @@
+name: "ansible.module_iosxr_facts"
+version: "2.8.0"
+description: "Collect facts from remote devices running IOS XR"
+authors: ['Ricardo Carrillo Cruz (@rcarrillocruz)']
+license: "GPL-3.0-or-later"

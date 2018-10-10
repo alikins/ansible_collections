@@ -1,0 +1,5 @@
+name: "ansible.module_panos_query_rules"
+version: "2.8.0"
+description: "PANOS module that allows search for security rules in PANW NGFW devices"
+authors: ['Bob Hagen (@rnh556)']
+license: "GPL-3.0-or-later"

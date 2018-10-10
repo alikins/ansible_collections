@@ -1,0 +1,5 @@
+name: "ansible.module_clc_group"
+version: "2.8.0"
+description: "Create/delete Server Groups at Centurylink Cloud"
+authors: ['CLC Runner (@clc-runner)']
+license: "GPL-3.0-or-later"

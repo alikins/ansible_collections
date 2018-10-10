@@ -1,0 +1,5 @@
+name: "ansible.module_aci_encap_pool_range"
+version: "2.8.0"
+description: "Manage encap ranges assigned to pools (fvns:EncapBlk, fvns:VsanEncapBlk)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

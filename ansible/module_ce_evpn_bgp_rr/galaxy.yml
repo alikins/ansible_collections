@@ -1,0 +1,5 @@
+name: "ansible.module_ce_evpn_bgp_rr"
+version: "2.8.0"
+description: "Manages RR for the VXLAN Network on HUAWEI CloudEngine switches"
+authors: ['Zhijin Zhou (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

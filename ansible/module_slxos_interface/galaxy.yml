@@ -1,0 +1,5 @@
+name: "ansible.module_slxos_interface"
+version: "2.8.0"
+description: "Manage Interfaces on Extreme SLX-OS network devices"
+authors: ['Lindsay Hill (@LindsayHill)']
+license: "GPL-3.0-or-later"

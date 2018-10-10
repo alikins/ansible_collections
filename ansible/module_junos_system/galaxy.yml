@@ -1,0 +1,5 @@
+name: "ansible.module_junos_system"
+version: "2.8.0"
+description: "Manage the system attributes on Juniper JUNOS devices"
+authors: ['Ganesh Nalawade (@ganeshrn)']
+license: "GPL-3.0-or-later"

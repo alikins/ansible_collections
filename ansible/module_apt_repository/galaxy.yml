@@ -1,0 +1,5 @@
+name: "ansible.module_apt_repository"
+version: "2.8.0"
+description: "Add and remove APT repositories"
+authors: ['Alexander Saltanov (@sashka)']
+license: "GPL-3.0-or-later"

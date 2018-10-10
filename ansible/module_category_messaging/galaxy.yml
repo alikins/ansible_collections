@@ -1,0 +1,16 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Messaging modules
+license: GPL-3.0-or-later
+name: ansible.module_category_messaging
+requirements:
+- ansible.module_rabbitmq_queue
+- ansible.module_rabbitmq_exchange
+- ansible.module_rabbitmq_vhost
+- ansible.module_rabbitmq_plugin
+- ansible.module_rabbitmq_parameter
+- ansible.module_rabbitmq_global_parameter
+- ansible.module_rabbitmq_binding
+- ansible.module_rabbitmq_policy
+- ansible.module_rabbitmq_user
+version: 2.8.0

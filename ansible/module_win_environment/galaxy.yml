@@ -1,0 +1,5 @@
+name: "ansible.module_win_environment"
+version: "2.8.0"
+description: "Modify environment variables on windows hosts"
+authors: ['Jon Hawkesworth (@jhawkesworth)']
+license: "GPL-3.0-or-later"

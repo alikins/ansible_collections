@@ -1,0 +1,5 @@
+name: "ansible.module_os_object"
+version: "2.8.0"
+description: "Create or Delete objects and containers from OpenStack"
+authors: ['Monty Taylor (@emonty)']
+license: "GPL-3.0-or-later"

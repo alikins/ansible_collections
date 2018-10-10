@@ -1,0 +1,5 @@
+name: "ansible.module_kinesis_stream"
+version: "2.8.0"
+description: "Manage a Kinesis Stream"
+authors: ['Allen Sanabria (@linuxdynasty)']
+license: "GPL-3.0-or-later"

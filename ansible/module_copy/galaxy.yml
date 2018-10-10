@@ -1,0 +1,5 @@
+name: "ansible.module_copy"
+version: "2.8.0"
+description: "Copies files to remote locations"
+authors: ['Ansible Core Team', 'Michael DeHaan']
+license: "GPL-3.0-or-later"

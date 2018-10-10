@@ -1,0 +1,5 @@
+name: "ansible.module_onepassword_facts"
+version: "2.8.0"
+description: "Gather items from 1Password and set them as facts"
+authors: ['Ryan Conway (@rylon)']
+license: "GPL-3.0-or-later"

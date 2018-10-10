@@ -1,0 +1,5 @@
+name: "ansible.module_gce_instance_template"
+version: "2.8.0"
+description: "create or destroy instance templates of Compute Engine of GCP"
+authors: ['Gwenael Pellen (@GwenaelPellenArkeup) <gwenael.pellen@arkeup.com>']
+license: "GPL-3.0-or-later"

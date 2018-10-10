@@ -1,0 +1,5 @@
+name: "ansible.module_campfire"
+version: "2.8.0"
+description: "Send a message to Campfire"
+authors: ['Adam Garside (@fabulops)']
+license: "GPL-3.0-or-later"

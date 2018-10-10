@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_facts"
+version: "2.8.0"
+description: "Gets facts about NX-OS switches"
+authors: ['Jason Edelman (@jedelman8)', 'Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

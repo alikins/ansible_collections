@@ -1,0 +1,5 @@
+name: "ansible.module_archive"
+version: "2.8.0"
+description: "Creates a compressed archive of one or more files or trees"
+authors: ['Ben Doherty (@bendoh)']
+license: "GPL-3.0-or-later"

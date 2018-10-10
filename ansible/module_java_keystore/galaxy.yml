@@ -1,0 +1,5 @@
+name: "ansible.module_java_keystore"
+version: "2.8.0"
+description: "Create or delete a Java keystore in JKS format"
+authors: ['Guillaume Grossetie']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_os_ironic_inspect"
+version: "2.8.0"
+description: "Explicitly triggers baremetal node introspection in ironic"
+authors: ['Julia Kreger (@juliakreger)']
+license: "GPL-3.0-or-later"

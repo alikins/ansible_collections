@@ -1,0 +1,5 @@
+name: "ansible.module_aci_access_port_block_to_access_port"
+version: "2.8.0"
+description: "Manage port blocks of Fabric interface policy leaf profile interface selectors (infra:HPortS, infra:PortBlk)"
+authors: ['Simon Metzger (@smnmtzgr)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_tower_workflow_template"
+version: "2.8.0"
+description: "create, update, or destroy Ansible Tower workflow template"
+authors: ['Adrien Fleury (@fleu42)']
+license: "GPL-3.0-or-later"

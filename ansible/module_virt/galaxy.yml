@@ -1,0 +1,5 @@
+name: "ansible.module_virt"
+version: "2.8.0"
+description: "Manages virtual machines supported by libvirt"
+authors: ['Ansible Core Team', 'Michael DeHaan', 'Seth Vidal']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_dnf"
+version: "2.8.0"
+description: "Manages packages with the *dnf* package manager"
+authors: ['Igor Gnatenko (@ignatenkobrain) <i.gnatenko.brain@gmail.com>', 'Cristian van Ee (@DJMuggs) <cristian at cvee.org>', 'Berend De Schouwer (@berenddeschouwer)', 'Adam Miller (@maxamillion) <admiller@redhat.com>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_aci_filter"
+version: "2.8.0"
+description: "Manages top level filter objects (vz:Filter)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

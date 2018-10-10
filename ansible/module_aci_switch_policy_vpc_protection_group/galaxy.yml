@@ -1,0 +1,5 @@
+name: "ansible.module_aci_switch_policy_vpc_protection_group"
+version: "2.8.0"
+description: "Manage switch policy explicit vPC protection groups (fabric:ExplicitGEp, fabric:NodePEp)"
+authors: ['Bruno Calogero (@brunocalogero)']
+license: "GPL-3.0-or-later"

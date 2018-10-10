@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_nacl"
+version: "2.8.0"
+description: "create and delete Network ACLs"
+authors: ['Mike Mochan (@mmochan)']
+license: "GPL-3.0-or-later"

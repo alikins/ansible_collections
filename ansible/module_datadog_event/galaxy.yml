@@ -1,0 +1,5 @@
+name: "ansible.module_datadog_event"
+version: "2.8.0"
+description: "Posts events to Datadog  service"
+authors: ['Artūras `arturaz` Šlajus (@arturaz)', 'Naoya Nakazawa (@n0ts)']
+license: "GPL-3.0-or-later"

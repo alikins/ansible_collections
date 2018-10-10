@@ -1,0 +1,5 @@
+name: "ansible.module_include"
+version: "2.8.0"
+description: "Include a play or task list"
+authors: ['Ansible Core Team (@ansible)']
+license: "GPL-3.0-or-later"

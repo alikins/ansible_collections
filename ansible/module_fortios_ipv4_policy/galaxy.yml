@@ -1,0 +1,5 @@
+name: "ansible.module_fortios_ipv4_policy"
+version: "2.8.0"
+description: "Manage IPv4 policy objects on Fortinet FortiOS firewall devices"
+authors: ['Benjamin Jolivot (@bjolivot)']
+license: "GPL-3.0-or-later"

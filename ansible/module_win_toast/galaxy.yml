@@ -1,0 +1,5 @@
+name: "ansible.module_win_toast"
+version: "2.8.0"
+description: "Sends Toast windows notification to logged in users on Windows 10 or later hosts"
+authors: ['Jon Hawkesworth (@jhawkesworth)']
+license: "GPL-3.0-or-later"

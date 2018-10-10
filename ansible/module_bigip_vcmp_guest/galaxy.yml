@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_vcmp_guest"
+version: "2.8.0"
+description: "Manages vCMP guests on a BIG-IP"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

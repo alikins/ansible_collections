@@ -1,0 +1,5 @@
+name: "ansible.module_xenserver_facts"
+version: "2.8.0"
+description: "get facts reported on xenserver"
+authors: ['Andy Hill (@andyhky)', 'Tim Rupp', 'Robin Lee (@cheese)']
+license: "GPL-3.0-or-later"

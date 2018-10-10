@@ -1,0 +1,5 @@
+name: "ansible.module_aci_epg"
+version: "2.8.0"
+description: "Manage End Point Groups (EPG) objects (fv:AEPg)"
+authors: ['Swetha Chunduri (@schunduri)']
+license: "GPL-3.0-or-later"

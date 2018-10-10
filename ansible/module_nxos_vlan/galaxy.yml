@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_vlan"
+version: "2.8.0"
+description: "Manages VLAN resources and attributes"
+authors: ['Jason Edelman (@jedelman8)']
+license: "GPL-3.0-or-later"

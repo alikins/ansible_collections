@@ -1,0 +1,5 @@
+name: "ansible.module_execute_lambda"
+version: "2.8.0"
+description: "Execute an AWS Lambda function"
+authors: ['Ryan Scott Brown (@ryansb) <ryansb@redhat.com>']
+license: "GPL-3.0-or-later"

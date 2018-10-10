@@ -1,0 +1,5 @@
+name: "ansible.module_deploy_helper"
+version: "2.8.0"
+description: "Manages some of the steps common in deploying projects"
+authors: ['Ramon de la Fuente (@ramondelafuente)']
+license: "GPL-3.0-or-later"

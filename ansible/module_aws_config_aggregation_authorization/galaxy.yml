@@ -1,0 +1,5 @@
+name: "ansible.module_aws_config_aggregation_authorization"
+version: "2.8.0"
+description: "Manage cross-account AWS Config authorizations"
+authors: ['Aaron Smith (@slapula)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_fmgr_script"
+version: "2.8.0"
+description: "Add/Edit/Delete and execute scripts"
+authors: ['Andrew Welsh']
+license: "GPL-3.0-or-later"

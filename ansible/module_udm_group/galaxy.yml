@@ -1,0 +1,5 @@
+name: "ansible.module_udm_group"
+version: "2.8.0"
+description: "Manage of the posix group"
+authors: ['Tobias Rueetschi (@2-B)']
+license: "GPL-3.0-or-later"

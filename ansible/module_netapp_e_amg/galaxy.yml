@@ -1,0 +1,5 @@
+name: "ansible.module_netapp_e_amg"
+version: "2.8.0"
+description: "NetApp E-Series create, remove, and update asynchronous mirror groups"
+authors: ['Kevin Hulquest (@hulquest)']
+license: "GPL-3.0-or-later"

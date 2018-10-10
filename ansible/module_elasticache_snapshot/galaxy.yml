@@ -1,0 +1,5 @@
+name: "ansible.module_elasticache_snapshot"
+version: "2.8.0"
+description: "Manage cache snapshots in Amazon Elasticache"
+authors: ['Sloane Hertel (@s-hertel)']
+license: "GPL-3.0-or-later"

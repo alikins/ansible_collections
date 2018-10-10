@@ -1,0 +1,5 @@
+name: "ansible.module_ce_vxlan_global"
+version: "2.8.0"
+description: "Manages global attributes of VXLAN and bridge domain on HUAWEI CloudEngine devices"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_about_facts"
+version: "2.8.0"
+description: "Provides information about VMware server to which user is connecting to"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

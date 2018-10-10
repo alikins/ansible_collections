@@ -1,0 +1,5 @@
+name: "ansible.module_open_iscsi"
+version: "2.8.0"
+description: "Manage iscsi targets with open-iscsi"
+authors: ['Serge van Ginderachter (@srvg)']
+license: "GPL-3.0-or-later"

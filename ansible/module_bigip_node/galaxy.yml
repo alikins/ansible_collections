@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_node"
+version: "2.8.0"
+description: "Manages F5 BIG-IP LTM nodes"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

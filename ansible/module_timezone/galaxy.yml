@@ -1,0 +1,5 @@
+name: "ansible.module_timezone"
+version: "2.8.0"
+description: "Configure timezone setting"
+authors: ['Shinichi TAMURA (@tmshn)', 'Jasper Lievisse Adriaanse (@jasperla)', 'Indrajit Raychaudhuri (@indrajitr)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_domain"
+version: "2.8.0"
+description: "Ensures the existence of a Windows domain"
+authors: ['Matt Davis (@nitzmahone)']
+license: "GPL-3.0-or-later"

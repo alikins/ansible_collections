@@ -1,0 +1,5 @@
+name: "ansible.module_gcdns_record"
+version: "2.8.0"
+description: "Creates or removes resource records in Google Cloud DNS"
+authors: ['William Albert (@walbert947)']
+license: "GPL-3.0-or-later"

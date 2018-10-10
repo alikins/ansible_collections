@@ -1,0 +1,14 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Commands modules
+license: GPL-3.0-or-later
+name: ansible.module_category_commands
+requirements:
+- ansible.module_shell
+- ansible.module_command
+- ansible.module_telnet
+- ansible.module_script
+- ansible.module_expect
+- ansible.module_raw
+- ansible.module_psexec
+version: 2.8.0

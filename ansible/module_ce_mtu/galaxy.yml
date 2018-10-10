@@ -1,0 +1,5 @@
+name: "ansible.module_ce_mtu"
+version: "2.8.0"
+description: "Manages MTU settings on HUAWEI CloudEngine switches"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

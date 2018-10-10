@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_igw_facts"
+version: "2.8.0"
+description: "Gather facts about internet gateways in AWS"
+authors: ['Nick Aslanidis (@naslanidis)']
+license: "GPL-3.0-or-later"

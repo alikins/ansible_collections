@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_selfip"
+version: "2.8.0"
+description: "Manage Self-IPs on a BIG-IP system"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

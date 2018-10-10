@@ -1,0 +1,5 @@
+name: "ansible.module_ce_config"
+version: "2.8.0"
+description: "Manage Huawei CloudEngine configuration sections"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

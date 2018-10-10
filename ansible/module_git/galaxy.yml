@@ -1,0 +1,5 @@
+name: "ansible.module_git"
+version: "2.8.0"
+description: "Deploy software (or files) from git checkouts"
+authors: ['Ansible Core Team', 'Michael DeHaan']
+license: "GPL-3.0-or-later"

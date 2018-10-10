@@ -1,0 +1,5 @@
+name: "ansible.module_os_user"
+version: "2.8.0"
+description: "Manage OpenStack Identity Users"
+authors: ['David Shrewsbury']
+license: "GPL-3.0-or-later"

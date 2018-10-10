@@ -1,0 +1,5 @@
+name: "ansible.module_pkgin"
+version: "2.8.0"
+description: "Package manager for SmartOS, NetBSD, et al"
+authors: ['Larry Gilbert (L2G)', 'Shaun Zinck (@szinck)', 'Jasper Lievisse Adriaanse (@jasperla)']
+license: "GPL-3.0-or-later"

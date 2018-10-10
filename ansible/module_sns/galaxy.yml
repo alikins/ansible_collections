@@ -1,0 +1,5 @@
+name: "ansible.module_sns"
+version: "2.8.0"
+description: "Send Amazon Simple Notification Service messages"
+authors: ['Michael J. Schultz (@mjschultz)', 'Paul Arthur (@flowerysong)']
+license: "GPL-3.0-or-later"

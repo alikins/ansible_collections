@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_guest_find"
+version: "2.8.0"
+description: "Find the folder path(s) for a virtual machine by name or UUID"
+authors: ['Abhijeet Kasurde <akasurde@redhat.com>']
+license: "GPL-3.0-or-later"

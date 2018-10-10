@@ -1,0 +1,5 @@
+name: "ansible.module_tempfile"
+version: "2.8.0"
+description: "Creates temporary files and directories"
+authors: ['Krzysztof Magosa']
+license: "GPL-3.0-or-later"

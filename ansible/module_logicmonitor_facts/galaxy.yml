@@ -1,0 +1,5 @@
+name: "ansible.module_logicmonitor_facts"
+version: "2.8.0"
+description: "Collect facts about LogicMonitor objects"
+authors: ['Ethan Culler-Mayeno (@ethanculler)', 'Jeff Wozniak (@woz5999)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_icinga2_host"
+version: "2.8.0"
+description: "Manage a host in Icinga2"
+authors: ['Jurgen Brand (@t794104)']
+license: "GPL-3.0-or-later"

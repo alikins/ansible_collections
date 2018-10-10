@@ -1,0 +1,5 @@
+name: "ansible.module_gem"
+version: "2.8.0"
+description: "Manage Ruby gems"
+authors: ['Ansible Core Team', 'Johan Wiren']
+license: "GPL-3.0-or-later"

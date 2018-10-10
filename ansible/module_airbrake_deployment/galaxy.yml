@@ -1,0 +1,5 @@
+name: "ansible.module_airbrake_deployment"
+version: "2.8.0"
+description: "Notify airbrake about app deployments"
+authors: ['Bruce Pennypacker (@bpennypacker)']
+license: "GPL-3.0-or-later"

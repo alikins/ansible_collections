@@ -1,0 +1,5 @@
+name: "ansible.module_bigpanda"
+version: "2.8.0"
+description: "Notify BigPanda about deployments"
+authors: ['Hagai Kariti (@hkariti)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_wait_for_connection"
+version: "2.8.0"
+description: "Waits until remote system is reachable/usable"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

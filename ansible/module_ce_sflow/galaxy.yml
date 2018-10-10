@@ -1,0 +1,5 @@
+name: "ansible.module_ce_sflow"
+version: "2.8.0"
+description: "Manages sFlow configuration on HUAWEI CloudEngine switches"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

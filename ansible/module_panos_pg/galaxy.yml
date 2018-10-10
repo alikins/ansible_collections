@@ -1,0 +1,5 @@
+name: "ansible.module_panos_pg"
+version: "2.8.0"
+description: "create a security profiles group"
+authors: ['Luigi Mori (@jtschichold), Ivan Bojer (@ivanbojer)']
+license: "GPL-3.0-or-later"

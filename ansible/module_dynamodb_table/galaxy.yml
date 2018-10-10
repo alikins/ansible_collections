@@ -1,0 +1,5 @@
+name: "ansible.module_dynamodb_table"
+version: "2.8.0"
+description: "Create, update or delete AWS Dynamo DB tables"
+authors: ['Alan Loi (@loia)']
+license: "GPL-3.0-or-later"

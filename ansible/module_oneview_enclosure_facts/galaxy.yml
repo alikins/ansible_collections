@@ -1,0 +1,5 @@
+name: "ansible.module_oneview_enclosure_facts"
+version: "2.8.0"
+description: "Retrieve facts about one or more Enclosures"
+authors: ['Felipe Bulsoni (@fgbulsoni)', 'Thiago Miotto (@tmiotto)', 'Adriane Cardozo (@adriane-cardozo)']
+license: "GPL-3.0-or-later"

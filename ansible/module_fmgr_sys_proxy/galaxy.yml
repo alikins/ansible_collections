@@ -1,0 +1,5 @@
+name: "ansible.module_fmgr_sys_proxy"
+version: "2.8.0"
+description: "Make FortiGate API calls via the FortiMananger"
+authors: ['Andrew Welsh']
+license: "GPL-3.0-or-later"

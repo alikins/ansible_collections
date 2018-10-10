@@ -1,0 +1,5 @@
+name: "ansible.module_facter"
+version: "2.8.0"
+description: "Runs the discovery program *facter* on the remote system"
+authors: ['Ansible Core Team', 'Michael DeHaan']
+license: "GPL-3.0-or-later"

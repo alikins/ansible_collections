@@ -1,0 +1,5 @@
+name: "ansible.module_aws_eks_cluster"
+version: "2.8.0"
+description: "Manage Elastic Kubernetes Service Clusters"
+authors: ['Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

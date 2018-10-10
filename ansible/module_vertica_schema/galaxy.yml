@@ -1,0 +1,5 @@
+name: "ansible.module_vertica_schema"
+version: "2.8.0"
+description: "Adds or removes Vertica database schema and roles"
+authors: ['Dariusz Owczarek (@dareko)']
+license: "GPL-3.0-or-later"

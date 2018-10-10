@@ -1,0 +1,5 @@
+name: "ansible.module_homebrew"
+version: "2.8.0"
+description: "Package manager for Homebrew"
+authors: ['Indrajit Raychaudhuri (@indrajitr)', 'Daniel Jaouen (@danieljaouen)', 'Andrew Dunham (@andrew-d)']
+license: "GPL-3.0-or-later"

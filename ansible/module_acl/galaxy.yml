@@ -1,0 +1,5 @@
+name: "ansible.module_acl"
+version: "2.8.0"
+description: "Sets and retrieves file ACL information"
+authors: ['Brian Coca (@bcoca)', 'Jérémie Astori (@astorije)']
+license: "GPL-3.0-or-later"

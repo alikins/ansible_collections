@@ -1,0 +1,5 @@
+name: "ansible.module_vultr_firewall_group"
+version: "2.8.0"
+description: "Manages firewall groups on Vultr"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

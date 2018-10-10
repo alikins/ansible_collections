@@ -1,0 +1,5 @@
+name: "ansible.module_iso_extract"
+version: "2.8.0"
+description: "Extract files from an ISO image"
+authors: ['Jeroen Hoekx (@jhoekx)', 'Matt Robinson (@ribbons)', 'Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

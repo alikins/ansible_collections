@@ -1,0 +1,5 @@
+name: "ansible.module_dimensiondata_vlan"
+version: "2.8.0"
+description: "Manage a VLAN in a Cloud Control network domain"
+authors: ['Adam Friedman (@tintoy)']
+license: "GPL-3.0-or-later"

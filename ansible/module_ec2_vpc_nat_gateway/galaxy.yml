@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_nat_gateway"
+version: "2.8.0"
+description: "Manage AWS VPC NAT Gateways"
+authors: ['Allen Sanabria (@linuxdynasty)', 'Jon Hadfield (@jonhadfield)', 'Karen Cheng (@Etherdaemon)']
+license: "GPL-3.0-or-later"

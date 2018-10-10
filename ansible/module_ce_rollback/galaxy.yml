@@ -1,0 +1,5 @@
+name: "ansible.module_ce_rollback"
+version: "2.8.0"
+description: "Set a checkpoint or rollback to a checkpoint on HUAWEI CloudEngine switches"
+authors: ['Li Yanfeng (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

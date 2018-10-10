@@ -1,0 +1,5 @@
+name: "ansible.module_vultr_network"
+version: "2.8.0"
+description: "Manages networks on Vultr"
+authors: ['Yanis Guenane (@Spredzy)']
+license: "GPL-3.0-or-later"

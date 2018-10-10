@@ -1,0 +1,5 @@
+name: "ansible.module_clc_loadbalancer"
+version: "2.8.0"
+description: "Create, Delete shared loadbalancers in CenturyLink Cloud"
+authors: ['CLC Runner (@clc-runner)']
+license: "GPL-3.0-or-later"

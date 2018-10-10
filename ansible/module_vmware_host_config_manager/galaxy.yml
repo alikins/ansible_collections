@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_host_config_manager"
+version: "2.8.0"
+description: "Manage advance configurations about an ESXi host"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

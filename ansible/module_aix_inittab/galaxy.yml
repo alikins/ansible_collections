@@ -1,0 +1,5 @@
+name: "ansible.module_aix_inittab"
+version: "2.8.0"
+description: "Manages the inittab on AIX"
+authors: ['Joris Weijters (@molekuul)']
+license: "GPL-3.0-or-later"

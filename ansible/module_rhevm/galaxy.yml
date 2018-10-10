@@ -1,0 +1,5 @@
+name: "ansible.module_rhevm"
+version: "2.8.0"
+description: "RHEV/oVirt automation"
+authors: ['Timothy Vandenbrande (@TimothyVandenbrande)']
+license: "GPL-3.0-or-later"

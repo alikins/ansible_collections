@@ -1,0 +1,5 @@
+name: "ansible.module_net_put"
+version: "2.8.0"
+description: "Copy a file from Ansible Controller to a network device"
+authors: ['Deepak Agrawal (@dagrawal)']
+license: "GPL-3.0-or-later"

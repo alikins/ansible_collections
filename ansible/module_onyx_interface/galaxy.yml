@@ -1,0 +1,5 @@
+name: "ansible.module_onyx_interface"
+version: "2.8.0"
+description: "Manage Interfaces on Mellanox ONYX network devices"
+authors: ['Samer Deeb (@samerd)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_pkgng"
+version: "2.8.0"
+description: "Package manager for FreeBSD >= 9.0"
+authors: ['bleader (@bleader)']
+license: "GPL-3.0-or-later"

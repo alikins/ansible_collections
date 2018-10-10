@@ -1,0 +1,5 @@
+name: "ansible.module_ce_info_center_log"
+version: "2.8.0"
+description: "Manages information center log configuration on HUAWEI CloudEngine switches"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

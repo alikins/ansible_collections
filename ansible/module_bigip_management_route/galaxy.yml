@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_management_route"
+version: "2.8.0"
+description: "Manage system management routes on a BIG-IP"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

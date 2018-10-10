@@ -1,0 +1,5 @@
+name: "ansible.module_iosxr_interface"
+version: "2.8.0"
+description: "Manage Interface on Cisco IOS XR network devices"
+authors: ['Ganesh Nalawade (@ganeshrn)', 'Kedar Kekan (@kedarX)']
+license: "GPL-3.0-or-later"

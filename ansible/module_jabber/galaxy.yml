@@ -1,0 +1,5 @@
+name: "ansible.module_jabber"
+version: "2.8.0"
+description: "Send a message to jabber user or chat room"
+authors: ['Brian Coca (@bcoca)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_mysql_replication"
+version: "2.8.0"
+description: "Manage MySQL replication"
+authors: ['Balazs Pocze (@banyek)']
+license: "GPL-3.0-or-later"

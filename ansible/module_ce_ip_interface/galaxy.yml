@@ -1,0 +1,5 @@
+name: "ansible.module_ce_ip_interface"
+version: "2.8.0"
+description: "Manages L3 attributes for IPv4 and IPv6 interfaces on HUAWEI CloudEngine switches"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

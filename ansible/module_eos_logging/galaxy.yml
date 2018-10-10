@@ -1,0 +1,5 @@
+name: "ansible.module_eos_logging"
+version: "2.8.0"
+description: "Manage logging on network devices"
+authors: ['Trishna Guha (@trishnaguha)']
+license: "GPL-3.0-or-later"

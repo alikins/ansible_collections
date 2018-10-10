@@ -1,0 +1,5 @@
+name: "ansible.module_tower_inventory"
+version: "2.8.0"
+description: "create, update, or destroy Ansible Tower inventory"
+authors: ['Wayne Witzel III (@wwitzel3)']
+license: "GPL-3.0-or-later"

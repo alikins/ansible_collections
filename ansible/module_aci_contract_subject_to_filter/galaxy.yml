@@ -1,0 +1,5 @@
+name: "ansible.module_aci_contract_subject_to_filter"
+version: "2.8.0"
+description: "Bind Contract Subjects to Filters (vz:RsSubjFiltAtt)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_placement_group_facts"
+version: "2.8.0"
+description: "List EC2 Placement Group(s) details"
+authors: ['Brad Macpherson (@iiibrad)']
+license: "GPL-3.0-or-later"

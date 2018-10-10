@@ -1,0 +1,5 @@
+name: "ansible.module_digital_ocean_sshkey_facts"
+version: "2.8.0"
+description: "DigitalOcean SSH keys facts"
+authors: ['Patrick Marques (@pmarques)']
+license: "GPL-3.0-or-later"

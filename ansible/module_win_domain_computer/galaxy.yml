@@ -1,0 +1,5 @@
+name: "ansible.module_win_domain_computer"
+version: "2.8.0"
+description: "Manage computers in Active Directory"
+authors: ['Daniel Sánchez Fábregas (@Daniel-Sanchez-Fabregas)']
+license: "GPL-3.0-or-later"

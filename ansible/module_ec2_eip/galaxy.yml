@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_eip"
+version: "2.8.0"
+description: "manages EC2 elastic IP (EIP) addresses"
+authors: ['Rick Mendes (@rickmendes) <rmendes@illumina.com>']
+license: "GPL-3.0-or-later"

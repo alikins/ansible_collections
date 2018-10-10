@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_resource"
+version: "2.8.0"
+description: "Create any Azure resource"
+authors: ['Zim Kalinowski (@zikalino)']
+license: "GPL-3.0-or-later"

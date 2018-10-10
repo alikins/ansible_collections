@@ -1,0 +1,5 @@
+name: "ansible.module_rhsm_repository"
+version: "2.8.0"
+description: "Manage RHSM repositories using the subscription-manager command"
+authors: ['Giovanni Sciortino (@giovannisciortino)']
+license: "GPL-3.0-or-later"

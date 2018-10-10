@@ -1,0 +1,5 @@
+name: "ansible.module_cnos_rollback"
+version: "2.8.0"
+description: "Roll back the running or startup configuration from a remote server on devices running Lenovo CNOS"
+authors: ['Anil Kumar Muraleedharan (@amuraleedhar)']
+license: "GPL-3.0-or-later"

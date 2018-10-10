@@ -1,0 +1,5 @@
+name: "ansible.module_vdirect_commit"
+version: "2.8.0"
+description: "Commits pending configuration changes on Radware devices"
+authors: ['Evgeny Fedoruk @ Radware LTD (@evgenyfedoruk)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_spotinst_aws_elastigroup"
+version: "2.8.0"
+description: "Create, update or delete Spotinst AWS Elastigroups"
+authors: ['Spotinst']
+license: "GPL-3.0-or-later"

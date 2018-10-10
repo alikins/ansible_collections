@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vol"
+version: "2.8.0"
+description: "create and attach a volume, return volume id and device map"
+authors: ['Lester Wade (@lwade)']
+license: "GPL-3.0-or-later"

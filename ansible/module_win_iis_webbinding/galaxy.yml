@@ -1,0 +1,5 @@
+name: "ansible.module_win_iis_webbinding"
+version: "2.8.0"
+description: "Configures a IIS Web site binding"
+authors: ['Noah Sparks (@nwsparks)', 'Henrik Wallström']
+license: "GPL-3.0-or-later"

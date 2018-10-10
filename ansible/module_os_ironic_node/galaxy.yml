@@ -1,0 +1,5 @@
+name: "ansible.module_os_ironic_node"
+version: "2.8.0"
+description: "Activate/Deactivate Bare Metal Resources from OpenStack"
+authors: ['Monty Taylor (@emonty)']
+license: "GPL-3.0-or-later"

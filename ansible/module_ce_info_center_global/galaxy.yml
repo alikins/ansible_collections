@@ -1,0 +1,5 @@
+name: "ansible.module_ce_info_center_global"
+version: "2.8.0"
+description: "Manages outputting logs on HUAWEI CloudEngine switches"
+authors: ['Li Yanfeng (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

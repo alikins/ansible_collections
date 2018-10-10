@@ -1,0 +1,5 @@
+name: "ansible.module_aci_contract_subject"
+version: "2.8.0"
+description: "Manage initial Contract Subjects (vz:Subj)"
+authors: ['Swetha Chunduri (@schunduri)']
+license: "GPL-3.0-or-later"

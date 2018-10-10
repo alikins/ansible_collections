@@ -1,0 +1,5 @@
+name: "ansible.module_cnos_save"
+version: "2.8.0"
+description: "Save the running configuration as the startup configuration on devices running Lenovo CNOS"
+authors: ['Anil Kumar Muraleedharan (@amuraleedhar)']
+license: "GPL-3.0-or-later"

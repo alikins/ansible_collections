@@ -1,0 +1,5 @@
+name: "ansible.module_spectrum_device"
+version: "2.8.0"
+description: "Creates/deletes devices in CA Spectrum"
+authors: ['Renato Orgito (@orgito)']
+license: "GPL-3.0-or-later"

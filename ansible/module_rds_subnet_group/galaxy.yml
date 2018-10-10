@@ -1,0 +1,5 @@
+name: "ansible.module_rds_subnet_group"
+version: "2.8.0"
+description: "manage RDS database subnet groups"
+authors: ['Scott Anderson (@tastychutney)']
+license: "GPL-3.0-or-later"

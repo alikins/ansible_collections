@@ -1,0 +1,5 @@
+name: "ansible.module_ecs_service_facts"
+version: "2.8.0"
+description: "list or describe services in ecs"
+authors: ['Mark Chance (@java1guy)', 'Darek Kaczynski (@kaczynskid)']
+license: "GPL-3.0-or-later"

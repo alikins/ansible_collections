@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_guest_vnc"
+version: "2.8.0"
+description: "Manages VNC remote display on virtual machines in vCenter"
+authors: ['Armin Ranjbar Daemi (@rmin)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_gcp_healthcheck"
+version: "2.8.0"
+description: "Create, Update or Destroy a Healthcheck"
+authors: ['Tom Melendez (@supertom) <tom@supertom.com>']
+license: "GPL-3.0-or-later"

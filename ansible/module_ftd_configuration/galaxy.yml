@@ -1,0 +1,5 @@
+name: "ansible.module_ftd_configuration"
+version: "2.8.0"
+description: "Manages configuration on Cisco FTD devices over REST API"
+authors: ['Cisco Systems, Inc.']
+license: "GPL-3.0-or-later"

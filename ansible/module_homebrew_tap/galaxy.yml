@@ -1,0 +1,5 @@
+name: "ansible.module_homebrew_tap"
+version: "2.8.0"
+description: "Tap a Homebrew repository"
+authors: ['Indrajit Raychaudhuri (@indrajitr)', 'Daniel Jaouen (@danieljaouen)']
+license: "GPL-3.0-or-later"

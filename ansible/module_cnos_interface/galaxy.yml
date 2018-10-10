@@ -1,0 +1,5 @@
+name: "ansible.module_cnos_interface"
+version: "2.8.0"
+description: "Manage interface configuration on devices running Lenovo CNOS"
+authors: ['Anil Kumar Muraleedharan (@amuraleedhar)']
+license: "GPL-3.0-or-later"

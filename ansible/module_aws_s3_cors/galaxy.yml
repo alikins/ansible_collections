@@ -1,0 +1,5 @@
+name: "ansible.module_aws_s3_cors"
+version: "2.8.0"
+description: "Manage CORS for S3 buckets in AWS"
+authors: ['Oyvind Saltvik (@fivethreeo)']
+license: "GPL-3.0-or-later"

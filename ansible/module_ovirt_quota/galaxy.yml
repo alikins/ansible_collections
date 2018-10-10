@@ -1,0 +1,5 @@
+name: "ansible.module_ovirt_quota"
+version: "2.8.0"
+description: "Module to manage datacenter quotas in oVirt/RHV"
+authors: ['Ondra Machacek (@machacekondra)']
+license: "GPL-3.0-or-later"

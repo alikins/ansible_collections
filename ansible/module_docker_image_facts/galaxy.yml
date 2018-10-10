@@ -1,0 +1,5 @@
+name: "ansible.module_docker_image_facts"
+version: "2.8.0"
+description: "Inspect docker images"
+authors: ['Chris Houseknecht (@chouseknecht)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_vdirect_runnable"
+version: "2.8.0"
+description: "Runs templates and workflow actions in Radware vDirect server"
+authors: ['Evgeny Fedoruk @ Radware LTD (@evgenyfedoruk)']
+license: "GPL-3.0-or-later"

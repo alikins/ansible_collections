@@ -1,0 +1,5 @@
+name: "ansible.module_packet_device"
+version: "2.8.0"
+description: "Manage a bare metal server in the Packet Host"
+authors: ['Tomas Karasek (@t0mk) <tom.to.the.k@gmail.com>', 'Matt Baldwin <baldwin@stackpointcloud.com>', "Thibaud Morel l'Horset <teebes@gmail.com>"]
+license: "GPL-3.0-or-later"

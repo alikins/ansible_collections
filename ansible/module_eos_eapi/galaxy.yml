@@ -1,0 +1,5 @@
+name: "ansible.module_eos_eapi"
+version: "2.8.0"
+description: "Manage and configure Arista EOS eAPI"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

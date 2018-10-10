@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_virtualmachine_extension"
+version: "2.8.0"
+description: "Managed Azure Virtual Machine extension"
+authors: ['Sertac Ozercan (@sozercan)', 'Julien Stroheker (@julienstroheker)']
+license: "GPL-3.0-or-later"

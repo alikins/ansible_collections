@@ -1,0 +1,5 @@
+name: "ansible.module_onyx_vlan"
+version: "2.8.0"
+description: "Manage VLANs on Mellanox ONYX network devices"
+authors: ['Samer Deeb (@samerd) Alex Tabachnik (@atabachnik)']
+license: "GPL-3.0-or-later"

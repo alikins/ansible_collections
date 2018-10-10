@@ -1,0 +1,5 @@
+name: "ansible.module_net_static_route"
+version: "2.8.0"
+description: "Manage static IP routes on network appliances (routers, switches et. al.)"
+authors: ['Ricardo Carrillo Cruz (@rcarrillocruz)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ohai"
+version: "2.8.0"
+description: "Returns inventory data from *Ohai*"
+authors: ['Ansible Core Team', 'Michael DeHaan (@mpdehaan)']
+license: "GPL-3.0-or-later"

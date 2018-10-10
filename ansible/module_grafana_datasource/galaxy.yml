@@ -1,0 +1,5 @@
+name: "ansible.module_grafana_datasource"
+version: "2.8.0"
+description: "Manage Grafana datasources"
+authors: ['Thierry Sallé (@seuf)']
+license: "GPL-3.0-or-later"

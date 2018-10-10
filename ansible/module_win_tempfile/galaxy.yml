@@ -1,0 +1,5 @@
+name: "ansible.module_win_tempfile"
+version: "2.8.0"
+description: "Creates temporary files and directories"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_k8s_scale"
+version: "2.8.0"
+description: "Set a new size for a Deployment, ReplicaSet, Replication Controller, or Job"
+authors: ['Chris Houseknecht (@chouseknecht)', 'Fabian von Feilitzsch (@fabianvf)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_apt_rpm"
+version: "2.8.0"
+description: "apt_rpm package manager"
+authors: ['Evgenii Terechkov (@evgkrsk)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_xml"
+version: "2.8.0"
+description: "Manage bits and pieces of XML files or strings"
+authors: ['Tim Bielawa (@tbielawa)', 'Magnus Hedemark (@magnus919)', 'Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

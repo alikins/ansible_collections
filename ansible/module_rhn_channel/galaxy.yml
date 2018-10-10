@@ -1,0 +1,5 @@
+name: "ansible.module_rhn_channel"
+version: "2.8.0"
+description: "Adds or removes Red Hat software channels"
+authors: ['Vincent Van der Kussen (@vincentvdk)']
+license: "GPL-3.0-or-later"

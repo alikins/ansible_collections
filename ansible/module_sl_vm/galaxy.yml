@@ -1,0 +1,5 @@
+name: "ansible.module_sl_vm"
+version: "2.8.0"
+description: "create or cancel a virtual instance in SoftLayer"
+authors: ['Matt Colton (@mcltn)']
+license: "GPL-3.0-or-later"

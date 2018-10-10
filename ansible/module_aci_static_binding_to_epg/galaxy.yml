@@ -1,0 +1,5 @@
+name: "ansible.module_aci_static_binding_to_epg"
+version: "2.8.0"
+description: "Bind static paths to EPGs (fv:RsPathAtt)"
+authors: ['Bruno Calogero (@brunocalogero)']
+license: "GPL-3.0-or-later"

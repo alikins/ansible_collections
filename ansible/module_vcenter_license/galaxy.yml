@@ -1,0 +1,5 @@
+name: "ansible.module_vcenter_license"
+version: "2.8.0"
+description: "Manage VMware vCenter license keys"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

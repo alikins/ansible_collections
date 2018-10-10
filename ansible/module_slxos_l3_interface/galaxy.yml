@@ -1,0 +1,5 @@
+name: "ansible.module_slxos_l3_interface"
+version: "2.8.0"
+description: "Manage L3 interfaces on Extreme Networks SLX-OS network devices"
+authors: ['Matthew Stone (@bigmstone)']
+license: "GPL-3.0-or-later"

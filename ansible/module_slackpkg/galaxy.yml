@@ -1,0 +1,5 @@
+name: "ansible.module_slackpkg"
+version: "2.8.0"
+description: "Package manager for Slackware >= 12.2"
+authors: ['Kim Nørgaard (@KimNorgaard)']
+license: "GPL-3.0-or-later"

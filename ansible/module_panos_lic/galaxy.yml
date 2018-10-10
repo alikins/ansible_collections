@@ -1,0 +1,5 @@
+name: "ansible.module_panos_lic"
+version: "2.8.0"
+description: "apply authcode to a device/instance"
+authors: ['Luigi Mori (@jtschichold), Ivan Bojer (@ivanbojer)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_onyx_command"
+version: "2.8.0"
+description: "Run commands on remote devices running Mellanox ONYX"
+authors: ['Samer Deeb (@samerd)']
+license: "GPL-3.0-or-later"

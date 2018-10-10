@@ -1,0 +1,5 @@
+name: "ansible.module_uri"
+version: "2.8.0"
+description: "Interacts with webservices"
+authors: ['Romeo Theriault (@romeotheriault)']
+license: "GPL-3.0-or-later"

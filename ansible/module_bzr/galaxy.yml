@@ -1,0 +1,5 @@
+name: "ansible.module_bzr"
+version: "2.8.0"
+description: "Deploy software (or files) from bzr branches"
+authors: ['André Paramés (@andreparames)']
+license: "GPL-3.0-or-later"

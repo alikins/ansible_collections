@@ -1,0 +1,5 @@
+name: "ansible.module_win_feature"
+version: "2.8.0"
+description: "Installs and uninstalls Windows Features on Windows Server"
+authors: ['Paul Durivage (@angstwad)', 'Trond Hindenes (@trondhindenes)']
+license: "GPL-3.0-or-later"

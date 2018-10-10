@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_dhcp_option"
+version: "2.8.0"
+description: "Manages DHCP Options, and can ensure the DHCP options for the given VPC match what's requested"
+authors: ['Joel Thompson (@joelthompson)']
+license: "GPL-3.0-or-later"

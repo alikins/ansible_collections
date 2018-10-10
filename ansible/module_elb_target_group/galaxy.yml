@@ -1,0 +1,5 @@
+name: "ansible.module_elb_target_group"
+version: "2.8.0"
+description: "Manage a target group for an Application or Network load balancer"
+authors: ['Rob White (@wimnat)']
+license: "GPL-3.0-or-later"

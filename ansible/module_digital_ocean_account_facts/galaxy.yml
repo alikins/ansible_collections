@@ -1,0 +1,5 @@
+name: "ansible.module_digital_ocean_account_facts"
+version: "2.8.0"
+description: "Gather facts about DigitalOcean User account"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_proxmox_template"
+version: "2.8.0"
+description: "management of OS templates in Proxmox VE cluster"
+authors: ['Sergei Antipov (@UnderGreen)']
+license: "GPL-3.0-or-later"

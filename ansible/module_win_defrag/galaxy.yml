@@ -1,0 +1,5 @@
+name: "ansible.module_win_defrag"
+version: "2.8.0"
+description: "Consolidate fragmented files on local volumes"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_puppet"
+version: "2.8.0"
+description: "Runs puppet"
+authors: ['Monty Taylor (@emonty)']
+license: "GPL-3.0-or-later"

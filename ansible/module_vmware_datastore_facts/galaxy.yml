@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_datastore_facts"
+version: "2.8.0"
+description: "Gather facts about datastores available in given vCenter"
+authors: ['Tim Rightnour (@garbled1)']
+license: "GPL-3.0-or-later"

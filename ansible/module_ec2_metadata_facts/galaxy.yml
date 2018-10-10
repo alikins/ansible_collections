@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_metadata_facts"
+version: "2.8.0"
+description: "Gathers facts (instance metadata) about remote hosts within ec2"
+authors: ['Silviu Dicu (@silviud)', 'Vinay Dandekar (@roadmapper)']
+license: "GPL-3.0-or-later"

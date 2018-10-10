@@ -1,0 +1,5 @@
+name: "ansible.module_macports"
+version: "2.8.0"
+description: "Package manager for MacPorts"
+authors: ['Jimmy Tang (@jcftang)']
+license: "GPL-3.0-or-later"

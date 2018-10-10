@@ -1,0 +1,5 @@
+name: "ansible.module_netapp_e_alerts"
+version: "2.8.0"
+description: "NetApp E-Series manage email notification settings"
+authors: ['Michael Price (@lmprice)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_webfaction_app"
+version: "2.8.0"
+description: "Add or remove applications on a Webfaction host"
+authors: ['Quentin Stafford-Fraser (@quentinsf)']
+license: "GPL-3.0-or-later"

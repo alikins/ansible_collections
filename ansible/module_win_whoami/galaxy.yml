@@ -1,0 +1,5 @@
+name: "ansible.module_win_whoami"
+version: "2.8.0"
+description: "Get information about the current user and process"
+authors: ['Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_zabbix_group"
+version: "2.8.0"
+description: "Zabbix host groups creates/deletes"
+authors: ['(@cove)', 'Tony Minfei Ding', 'Harrison Gu (@harrisongu)']
+license: "GPL-3.0-or-later"

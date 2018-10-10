@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_guest_custom_attributes"
+version: "2.8.0"
+description: "Manage custom attributes from VMWare for the given virtual machine"
+authors: ['Jimmy Conner', 'Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

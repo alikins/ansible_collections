@@ -1,0 +1,5 @@
+name: "ansible.module_ce_interface_ospf"
+version: "2.8.0"
+description: "Manages configuration of an OSPF interface instanceon HUAWEI CloudEngine switches"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

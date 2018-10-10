@@ -1,0 +1,5 @@
+name: "ansible.module_ce_vxlan_arp"
+version: "2.8.0"
+description: "Manages ARP attributes of VXLAN on HUAWEI CloudEngine devices"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_cnos_factory"
+version: "2.8.0"
+description: "Reset the switch startup configuration to default (factory) on devices running Lenovo CNOS"
+authors: ['Anil Kumar Muraleedharan (@amuraleedhar)']
+license: "GPL-3.0-or-later"

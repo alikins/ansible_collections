@@ -1,0 +1,5 @@
+name: "ansible.module_panos_security_policy"
+version: "2.8.0"
+description: "Create security rule policy on PanOS devices"
+authors: ['Ivan Bojer (@ivanbojer)']
+license: "GPL-3.0-or-later"

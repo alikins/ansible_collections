@@ -1,0 +1,5 @@
+name: "ansible.module_rds"
+version: "2.8.0"
+description: "create, delete, or modify an Amazon rds instance"
+authors: ['Bruce Pennypacker (@bpennypacker)', 'Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

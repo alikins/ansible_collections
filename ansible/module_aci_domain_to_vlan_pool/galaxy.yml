@@ -1,0 +1,5 @@
+name: "ansible.module_aci_domain_to_vlan_pool"
+version: "2.8.0"
+description: "Bind Domain to VLAN Pools (infra:RsVlanNs)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

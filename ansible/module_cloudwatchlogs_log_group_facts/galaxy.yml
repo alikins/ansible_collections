@@ -1,0 +1,5 @@
+name: "ansible.module_cloudwatchlogs_log_group_facts"
+version: "2.8.0"
+description: "get facts about log_group in CloudWatchLogs"
+authors: ['Willian Ricardo(@willricardo) <willricardo@gmail.com>']
+license: "GPL-3.0-or-later"

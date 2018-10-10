@@ -1,0 +1,5 @@
+name: "ansible.module_ce_switchport"
+version: "2.8.0"
+description: "Manages Layer 2 switchport interfaces on HUAWEI CloudEngine switches"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

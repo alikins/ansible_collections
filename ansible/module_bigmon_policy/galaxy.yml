@@ -1,0 +1,5 @@
+name: "ansible.module_bigmon_policy"
+version: "2.8.0"
+description: "Create and remove a bigmon out-of-band policy"
+authors: ['Ted (@tedelhourani)']
+license: "GPL-3.0-or-later"

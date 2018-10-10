@@ -1,0 +1,5 @@
+name: "ansible.module_ecs_ecr"
+version: "2.8.0"
+description: "Manage Elastic Container Registry repositories"
+authors: ['David M. Lee (@leedm777)']
+license: "GPL-3.0-or-later"

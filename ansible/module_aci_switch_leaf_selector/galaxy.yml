@@ -1,0 +1,5 @@
+name: "ansible.module_aci_switch_leaf_selector"
+version: "2.8.0"
+description: "Bind leaf selectors to switch policy leaf profiles (infra:LeafS, infra:NodeBlk, infra:RsAccNodePGrep)"
+authors: ['Bruno Calogero (@brunocalogero)']
+license: "GPL-3.0-or-later"

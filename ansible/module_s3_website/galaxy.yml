@@ -1,0 +1,5 @@
+name: "ansible.module_s3_website"
+version: "2.8.0"
+description: "Configure an s3 bucket as a website"
+authors: ['Rob White (@wimnat)']
+license: "GPL-3.0-or-later"

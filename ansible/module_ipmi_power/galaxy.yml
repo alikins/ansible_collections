@@ -1,0 +1,5 @@
+name: "ansible.module_ipmi_power"
+version: "2.8.0"
+description: "Power management for machine"
+authors: ['Bulat Gaifullin (gaifullinbf@gmail.com)']
+license: "GPL-3.0-or-later"

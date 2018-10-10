@@ -1,0 +1,5 @@
+name: "ansible.module_flowdock"
+version: "2.8.0"
+description: "Send a message to a flowdock"
+authors: ['Matt Coddington (@mcodd)']
+license: "GPL-3.0-or-later"

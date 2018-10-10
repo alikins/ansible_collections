@@ -1,0 +1,5 @@
+name: "ansible.module_enos_facts"
+version: "2.8.0"
+description: "Collect facts from remote devices running Lenovo ENOS"
+authors: ['Anil Kumar Muraleedharan (@amuraleedhar)']
+license: "GPL-3.0-or-later"

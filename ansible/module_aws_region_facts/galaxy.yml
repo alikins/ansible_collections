@@ -1,0 +1,5 @@
+name: "ansible.module_aws_region_facts"
+version: "2.8.0"
+description: "Gather facts about AWS regions"
+authors: ['Henrique Rodrigues (github.com/Sodki)']
+license: "GPL-3.0-or-later"

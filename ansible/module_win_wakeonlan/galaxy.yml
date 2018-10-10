@@ -1,0 +1,5 @@
+name: "ansible.module_win_wakeonlan"
+version: "2.8.0"
+description: "Send a magic Wake-on-LAN (WoL) broadcast packet"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

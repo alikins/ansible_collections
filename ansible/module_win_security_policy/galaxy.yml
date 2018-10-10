@@ -1,0 +1,5 @@
+name: "ansible.module_win_security_policy"
+version: "2.8.0"
+description: "Change local security policy settings"
+authors: ['Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

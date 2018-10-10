@@ -1,0 +1,5 @@
+name: "ansible.module_meraki_vlan"
+version: "2.8.0"
+description: "Manage VLANs in the Meraki cloud"
+authors: ['Kevin Breit (@kbreit)']
+license: "GPL-3.0-or-later"

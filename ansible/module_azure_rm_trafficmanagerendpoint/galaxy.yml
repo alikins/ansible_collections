@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_trafficmanagerendpoint"
+version: "2.8.0"
+description: "Manage Azure Traffic Manager endpoint"
+authors: ['Hai Cao <t-haicao@microsoft.com>', 'Yunge Zhu <yungez@microsoft.com>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_dotnet_ngen"
+version: "2.8.0"
+description: "Runs ngen to recompile DLLs after .NET  updates"
+authors: ['Peter Mounce (@petemounce)']
+license: "GPL-3.0-or-later"

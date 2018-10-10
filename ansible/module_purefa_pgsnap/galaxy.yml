@@ -1,0 +1,5 @@
+name: "ansible.module_purefa_pgsnap"
+version: "2.8.0"
+description: "Manage local protection group snapshots on Pure Storage FlashArrays"
+authors: ['Simon Dodsley (@sdodsley)']
+license: "GPL-3.0-or-later"

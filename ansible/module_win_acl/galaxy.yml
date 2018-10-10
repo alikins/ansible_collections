@@ -1,0 +1,5 @@
+name: "ansible.module_win_acl"
+version: "2.8.0"
+description: "Set file/directory/registry permissions for a system user or group"
+authors: ['Phil Schwartz (@schwartzmx)', 'Trond Hindenes (@trondhindenes)', 'Hans-Joachim Kliemeck (@h0nIg)']
+license: "GPL-3.0-or-later"

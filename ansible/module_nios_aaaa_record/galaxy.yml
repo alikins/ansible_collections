@@ -1,0 +1,5 @@
+name: "ansible.module_nios_aaaa_record"
+version: "2.8.0"
+description: "Configure Infoblox NIOS AAAA records"
+authors: ['Blair Rampling (@brampling)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_psexec"
+version: "2.8.0"
+description: "Runs commands on a remote Windows host based on the PsExec model"
+authors: ['Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

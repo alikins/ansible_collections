@@ -1,0 +1,5 @@
+name: "ansible.module_postgresql_user"
+version: "2.8.0"
+description: "Adds or removes a users (roles) from a PostgreSQL database"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

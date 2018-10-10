@@ -1,0 +1,5 @@
+name: "ansible.module_aci_interface_policy_ospf"
+version: "2.8.0"
+description: "Manage OSPF interface policies (ospf:IfPol)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

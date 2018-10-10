@@ -1,0 +1,5 @@
+name: "ansible.module_eos_lldp"
+version: "2.8.0"
+description: "Manage LLDP configuration on Arista EOS network devices"
+authors: ['Ganesh Nalawade (@ganeshrn)']
+license: "GPL-3.0-or-later"

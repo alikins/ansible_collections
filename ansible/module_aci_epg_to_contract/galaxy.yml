@@ -1,0 +1,5 @@
+name: "ansible.module_aci_epg_to_contract"
+version: "2.8.0"
+description: "Bind EPGs to Contracts (fv:RsCons, fv:RsProv)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

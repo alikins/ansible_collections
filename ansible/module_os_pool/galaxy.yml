@@ -1,0 +1,5 @@
+name: "ansible.module_os_pool"
+version: "2.8.0"
+description: "Add/Delete a pool in the load balancing service from OpenStack Cloud"
+authors: ['Lingxian Kong (@lingxiankong)']
+license: "GPL-3.0-or-later"

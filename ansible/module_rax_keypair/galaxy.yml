@@ -1,0 +1,5 @@
+name: "ansible.module_rax_keypair"
+version: "2.8.0"
+description: "Create a keypair for use with Rackspace Cloud Servers"
+authors: ['Matt Martz (@sivel)']
+license: "GPL-3.0-or-later"

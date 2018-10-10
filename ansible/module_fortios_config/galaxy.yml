@@ -1,0 +1,5 @@
+name: "ansible.module_fortios_config"
+version: "2.8.0"
+description: "Manage config on Fortinet FortiOS firewall devices"
+authors: ['Benjamin Jolivot (@bjolivot)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_logstash_plugin"
+version: "2.8.0"
+description: "Manage Logstash plugins"
+authors: ['Loic Blot (@nerzhul)']
+license: "GPL-3.0-or-later"

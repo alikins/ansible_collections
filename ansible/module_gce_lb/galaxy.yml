@@ -1,0 +1,5 @@
+name: "ansible.module_gce_lb"
+version: "2.8.0"
+description: "create/destroy GCE load-balancer resources"
+authors: ['Eric Johnson (@erjohnso) <erjohnso@google.com>']
+license: "GPL-3.0-or-later"

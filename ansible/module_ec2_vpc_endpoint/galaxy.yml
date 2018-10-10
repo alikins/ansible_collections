@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_endpoint"
+version: "2.8.0"
+description: "Create and delete AWS VPC Endpoints"
+authors: ['Karen Cheng (@Etherdaemon)']
+license: "GPL-3.0-or-later"

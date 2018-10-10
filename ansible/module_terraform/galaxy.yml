@@ -1,0 +1,5 @@
+name: "ansible.module_terraform"
+version: "2.8.0"
+description: "Manages a Terraform deployment (and plans)"
+authors: ['Ryan Scott Brown @ryansb']
+license: "GPL-3.0-or-later"

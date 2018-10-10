@@ -1,0 +1,5 @@
+name: "ansible.module_ipa_user"
+version: "2.8.0"
+description: "Manage FreeIPA users"
+authors: ['Thomas Krahn (@Nosmoht)']
+license: "GPL-3.0-or-later"

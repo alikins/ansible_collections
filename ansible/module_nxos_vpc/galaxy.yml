@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_vpc"
+version: "2.8.0"
+description: "Manages global VPC configuration"
+authors: ['Jason Edelman (@jedelman8)', 'Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

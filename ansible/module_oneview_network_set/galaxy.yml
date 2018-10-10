@@ -1,0 +1,5 @@
+name: "ansible.module_oneview_network_set"
+version: "2.8.0"
+description: "Manage HPE OneView Network Set resources"
+authors: ['Felipe Bulsoni (@fgbulsoni)', 'Thiago Miotto (@tmiotto)', 'Adriane Cardozo (@adriane-cardozo)']
+license: "GPL-3.0-or-later"

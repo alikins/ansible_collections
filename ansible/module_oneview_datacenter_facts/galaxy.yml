@@ -1,0 +1,5 @@
+name: "ansible.module_oneview_datacenter_facts"
+version: "2.8.0"
+description: "Retrieve facts about the OneView Data Centers"
+authors: ['Alex Monteiro (@aalexmonteiro)', 'Madhav Bharadwaj (@madhav-bharadwaj)', 'Priyanka Sood (@soodpr)', 'Ricardo Galeno (@ricardogpsf)']
+license: "GPL-3.0-or-later"

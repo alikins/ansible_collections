@@ -1,0 +1,5 @@
+name: "ansible.module_infini_host"
+version: "2.8.0"
+description: "Create, Delete and Modify Hosts on Infinibox"
+authors: ['Gregory Shulov (@GR360RY)']
+license: "GPL-3.0-or-later"

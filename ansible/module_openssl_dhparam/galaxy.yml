@@ -1,0 +1,5 @@
+name: "ansible.module_openssl_dhparam"
+version: "2.8.0"
+description: "Generate OpenSSL Diffie-Hellman Parameters"
+authors: ['Thom Wiggers (@thomwiggers)']
+license: "GPL-3.0-or-later"

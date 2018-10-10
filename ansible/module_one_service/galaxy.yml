@@ -1,0 +1,5 @@
+name: "ansible.module_one_service"
+version: "2.8.0"
+description: "Deploy and manage OpenNebula services"
+authors: ['Milan Ilic (@ilicmilan)']
+license: "GPL-3.0-or-later"

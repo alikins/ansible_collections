@@ -1,0 +1,5 @@
+name: "ansible.module_ec2"
+version: "2.8.0"
+description: "create, terminate, start or stop an instance in ec2"
+authors: ['Tim Gerla (@tgerla)', 'Lester Wade (@lwade)', 'Seth Vidal']
+license: "GPL-3.0-or-later"

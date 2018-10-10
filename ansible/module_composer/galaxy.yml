@@ -1,0 +1,5 @@
+name: "ansible.module_composer"
+version: "2.8.0"
+description: "Dependency Manager for PHP"
+authors: ['Dimitrios Tydeas Mengidis (@dmtrs)', 'René Moser (@resmo)']
+license: "GPL-3.0-or-later"

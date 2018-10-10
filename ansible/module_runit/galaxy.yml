@@ -1,0 +1,5 @@
+name: "ansible.module_runit"
+version: "2.8.0"
+description: "Manage runit services"
+authors: ['James Sumners (@jsumners)']
+license: "GPL-3.0-or-later"

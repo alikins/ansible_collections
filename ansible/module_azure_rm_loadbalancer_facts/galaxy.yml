@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_loadbalancer_facts"
+version: "2.8.0"
+description: "Get load balancer facts"
+authors: ['Thomas Stringer (@tstringer)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_yarn"
+version: "2.8.0"
+description: "Manage node.js packages with Yarn"
+authors: ['David Gunter (@verkaufer)', 'Chris Hoffman (@chrishoffman, creator of NPM Ansible module)']
+license: "GPL-3.0-or-later"

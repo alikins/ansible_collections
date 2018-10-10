@@ -1,0 +1,5 @@
+name: "ansible.module_ce_bfd_view"
+version: "2.8.0"
+description: "Manages BFD session view configuration on HUAWEI CloudEngine devices"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

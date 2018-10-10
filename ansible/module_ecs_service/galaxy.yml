@@ -1,0 +1,5 @@
+name: "ansible.module_ecs_service"
+version: "2.8.0"
+description: "create, terminate, start or stop a service in ecs"
+authors: ['Mark Chance (@java1guy)', 'Darek Kaczynski (@kaczynskid)', 'Stephane Maarek (@simplesteph)', 'Zac Blazic (@zacblazic)']
+license: "GPL-3.0-or-later"

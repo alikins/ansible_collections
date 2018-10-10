@@ -1,0 +1,5 @@
+name: "ansible.module_lxd_container"
+version: "2.8.0"
+description: "Manage LXD Containers"
+authors: ['Hiroaki Nakamura (@hnakamur)']
+license: "GPL-3.0-or-later"

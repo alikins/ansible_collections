@@ -1,0 +1,5 @@
+name: "ansible.module_aci_ap"
+version: "2.8.0"
+description: "Manage top level Application Profile (AP) objects (fv:Ap)"
+authors: ['Swetha Chunduri (@schunduri)']
+license: "GPL-3.0-or-later"

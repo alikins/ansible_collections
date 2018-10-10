@@ -1,0 +1,5 @@
+name: "ansible.module_vertica_facts"
+version: "2.8.0"
+description: "Gathers Vertica database facts"
+authors: ['Dariusz Owczarek (@dareko)']
+license: "GPL-3.0-or-later"

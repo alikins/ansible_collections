@@ -1,0 +1,5 @@
+name: "ansible.module_os_keystone_role"
+version: "2.8.0"
+description: "Manage OpenStack Identity Roles"
+authors: ['Monty Taylor (@emonty), David Shrewsbury (@Shrews)']
+license: "GPL-3.0-or-later"

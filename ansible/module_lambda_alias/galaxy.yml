@@ -1,0 +1,5 @@
+name: "ansible.module_lambda_alias"
+version: "2.8.0"
+description: "Creates, updates or deletes AWS Lambda function aliases"
+authors: ['Pierre Jodouin (@pjodouin), Ryan Scott Brown (@ryansb)']
+license: "GPL-3.0-or-later"

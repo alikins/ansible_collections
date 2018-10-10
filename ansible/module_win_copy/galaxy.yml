@@ -1,0 +1,5 @@
+name: "ansible.module_win_copy"
+version: "2.8.0"
+description: "Copies files to remote locations on windows hosts"
+authors: ['Jon Hawkesworth (@jhawkesworth)', 'Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

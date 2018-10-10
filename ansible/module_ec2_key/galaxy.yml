@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_key"
+version: "2.8.0"
+description: "create or delete an ec2 key pair"
+authors: ['Vincent Viallet (@zbal)', 'Prasad Katti (@prasadkatti)']
+license: "GPL-3.0-or-later"

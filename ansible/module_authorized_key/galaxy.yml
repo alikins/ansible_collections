@@ -1,0 +1,5 @@
+name: "ansible.module_authorized_key"
+version: "2.8.0"
+description: "Adds or removes an SSH authorized key"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

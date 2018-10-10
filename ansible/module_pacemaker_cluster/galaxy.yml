@@ -1,0 +1,5 @@
+name: "ansible.module_pacemaker_cluster"
+version: "2.8.0"
+description: "Manage pacemaker clusters"
+authors: ['Mathieu Bultel (@matbu)']
+license: "GPL-3.0-or-later"

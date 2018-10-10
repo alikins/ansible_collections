@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_switchport"
+version: "2.8.0"
+description: "Manages Layer 2 switchport interfaces"
+authors: ['Jason Edelman (@jedelman8)']
+license: "GPL-3.0-or-later"

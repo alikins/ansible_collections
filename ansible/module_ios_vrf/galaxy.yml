@@ -1,0 +1,5 @@
+name: "ansible.module_ios_vrf"
+version: "2.8.0"
+description: "Manage the collection of VRF definitions on Cisco IOS devices"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_cs_network_offering"
+version: "2.8.0"
+description: "Manages network offerings on Apache CloudStack based clouds"
+authors: ['David Passante (@dpassante)']
+license: "GPL-3.0-or-later"

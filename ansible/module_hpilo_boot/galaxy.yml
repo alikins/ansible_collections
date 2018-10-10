@@ -1,0 +1,5 @@
+name: "ansible.module_hpilo_boot"
+version: "2.8.0"
+description: "Boot system using specific media through HP iLO interface"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

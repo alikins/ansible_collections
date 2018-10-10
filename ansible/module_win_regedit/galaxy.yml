@@ -1,0 +1,5 @@
+name: "ansible.module_win_regedit"
+version: "2.8.0"
+description: "Add, change, or remove registry keys and values"
+authors: ['Adam Keech (@smadam813)', 'Josh Ludwig (@joshludwig)', 'Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

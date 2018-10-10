@@ -1,0 +1,5 @@
+name: "ansible.module_sysvinit"
+version: "2.8.0"
+description: "Manage SysV services"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

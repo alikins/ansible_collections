@@ -1,0 +1,5 @@
+name: "ansible.module_imgadm"
+version: "2.8.0"
+description: "Manage SmartOS images"
+authors: ['Jasper Lievisse Adriaanse (@jasperla)']
+license: "GPL-3.0-or-later"

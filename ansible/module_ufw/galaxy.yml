@@ -1,0 +1,5 @@
+name: "ansible.module_ufw"
+version: "2.8.0"
+description: "Manage firewall with UFW"
+authors: ['Aleksey Ovcharenko (@ovcharenko)', 'Jarno Keskikangas (@pyykkis)', 'Ahti Kitsik (@ahtik)']
+license: "GPL-3.0-or-later"

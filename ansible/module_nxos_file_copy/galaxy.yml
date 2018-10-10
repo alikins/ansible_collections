@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_file_copy"
+version: "2.8.0"
+description: "Copy a file to a remote NXOS device"
+authors: ['Jason Edelman (@jedelman8)', 'Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_managed_disk_facts"
+version: "2.8.0"
+description: "Get managed disk facts"
+authors: ['Bruno Medina (@brusMX)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_subnet"
+version: "2.8.0"
+description: "Manage subnets in AWS virtual private clouds"
+authors: ['Robert Estelle (@erydo)', 'Brad Davidson (@brandond)']
+license: "GPL-3.0-or-later"

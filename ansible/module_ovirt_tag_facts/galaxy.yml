@@ -1,0 +1,5 @@
+name: "ansible.module_ovirt_tag_facts"
+version: "2.8.0"
+description: "Retrieve facts about one or more oVirt/RHV tags"
+authors: ['Ondra Machacek (@machacekondra)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_aci_aep_to_domain"
+version: "2.8.0"
+description: "Bind AEPs to Physical or Virtual Domains (infra:RsDomP)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

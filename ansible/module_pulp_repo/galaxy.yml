@@ -1,0 +1,5 @@
+name: "ansible.module_pulp_repo"
+version: "2.8.0"
+description: "Add or remove Pulp repos from a remote host"
+authors: ['Joe Adams (@sysadmind)']
+license: "GPL-3.0-or-later"

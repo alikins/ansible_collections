@@ -1,0 +1,42 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Net Tools modules
+license: GPL-3.0-or-later
+name: ansible.module_category_net_tools
+requirements:
+- ansible.module_ipinfoio_facts
+- ansible.module_netcup_dns
+- ansible.module_lldp
+- ansible.module_ipify_facts
+- ansible.module_omapi_host
+- ansible.module_snmp_facts
+- ansible.module_ip_netns
+- ansible.module_nmcli
+- ansible.module_dnsimple
+- ansible.module_cloudflare_dns
+- ansible.module_dnsmadeeasy
+- ansible.module_haproxy
+- ansible.module_nsupdate
+- ansible.module_ldap_attr
+- ansible.module_ldap_entry
+- ansible.module_ldap_passwd
+- ansible.module_exo_dns_record
+- ansible.module_exo_dns_domain
+- ansible.module_infinity
+- ansible.module_nios_mx_record
+- ansible.module_nios_cname_record
+- ansible.module_nios_zone
+- ansible.module_nios_txt_record
+- ansible.module_nios_network_view
+- ansible.module_nios_dns_view
+- ansible.module_nios_srv_record
+- ansible.module_nios_network
+- ansible.module_nios_naptr_record
+- ansible.module_nios_aaaa_record
+- ansible.module_nios_host_record
+- ansible.module_nios_a_record
+- ansible.module_nios_ptr_record
+- ansible.module_slurp
+- ansible.module_uri
+- ansible.module_get_url
+version: 2.8.0

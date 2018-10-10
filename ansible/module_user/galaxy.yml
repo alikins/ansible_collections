@@ -1,0 +1,5 @@
+name: "ansible.module_user"
+version: "2.8.0"
+description: "Manage user accounts"
+authors: ['Stephen Fromm (@sfromm)']
+license: "GPL-3.0-or-later"

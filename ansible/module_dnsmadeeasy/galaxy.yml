@@ -1,0 +1,5 @@
+name: "ansible.module_dnsmadeeasy"
+version: "2.8.0"
+description: "Interface with dnsmadeeasy.com (a DNS hosting service)"
+authors: ['Brice Burgess (@briceburg)']
+license: "GPL-3.0-or-later"

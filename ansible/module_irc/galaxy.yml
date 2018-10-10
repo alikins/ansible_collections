@@ -1,0 +1,5 @@
+name: "ansible.module_irc"
+version: "2.8.0"
+description: "Send a message to an IRC channel"
+authors: ['"Jan-Piet Mens (@jpmens)"', '"Matt Martz (@sivel)"']
+license: "GPL-3.0-or-later"

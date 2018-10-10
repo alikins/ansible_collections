@@ -1,0 +1,5 @@
+name: "ansible.module_mysql_user"
+version: "2.8.0"
+description: "Adds or removes a user from a MySQL database"
+authors: ['Jonathan Mainguy (@Jmainguy)']
+license: "GPL-3.0-or-later"

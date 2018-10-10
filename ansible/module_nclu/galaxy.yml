@@ -1,0 +1,5 @@
+name: "ansible.module_nclu"
+version: "2.8.0"
+description: "Configure network interfaces using NCLU"
+authors: ['Cumulus Networks']
+license: "GPL-3.0-or-later"

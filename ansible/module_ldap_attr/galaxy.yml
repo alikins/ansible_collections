@@ -1,0 +1,5 @@
+name: "ansible.module_ldap_attr"
+version: "2.8.0"
+description: "Add or remove LDAP attribute values"
+authors: ['Jiri Tyr (@jtyr)']
+license: "GPL-3.0-or-later"

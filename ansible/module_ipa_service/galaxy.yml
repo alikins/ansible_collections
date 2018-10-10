@@ -1,0 +1,5 @@
+name: "ansible.module_ipa_service"
+version: "2.8.0"
+description: "Manage FreeIPA service"
+authors: ['Cédric Parent']
+license: "GPL-3.0-or-later"

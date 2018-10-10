@@ -1,0 +1,5 @@
+name: "ansible.module_sensu_handler"
+version: "2.8.0"
+description: "Manages Sensu handler configuration"
+authors: ['David Moreau Simard (@dmsimard)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_loadbalancer"
+version: "2.8.0"
+description: "Manage Azure load balancers"
+authors: ['Thomas Stringer (@tstringer)', 'Yuwei Zhou (@yuwzho)']
+license: "GPL-3.0-or-later"

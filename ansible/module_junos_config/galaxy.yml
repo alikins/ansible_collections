@@ -1,0 +1,5 @@
+name: "ansible.module_junos_config"
+version: "2.8.0"
+description: "Manage configuration on devices running Juniper JUNOS"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

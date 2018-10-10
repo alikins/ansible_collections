@@ -1,0 +1,5 @@
+name: "ansible.module_win_iis_webapplication"
+version: "2.8.0"
+description: "Configures IIS web applications"
+authors: ['Henrik Wallström']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_jira"
+version: "2.8.0"
+description: "create and modify issues in a JIRA instance"
+authors: ['Steve Smith (@tarka)']
+license: "GPL-3.0-or-later"

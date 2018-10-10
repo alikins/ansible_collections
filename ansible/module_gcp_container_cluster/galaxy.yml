@@ -1,0 +1,5 @@
+name: "ansible.module_gcp_container_cluster"
+version: "2.8.0"
+description: "Creates a GCP Cluster"
+authors: ['Google Inc. (@googlecloudplatform)']
+license: "GPL-3.0-or-later"

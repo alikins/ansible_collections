@@ -1,0 +1,5 @@
+name: "ansible.module_cloudscale_floating_ip"
+version: "2.8.0"
+description: "Manages floating IPs on the cloudscale.ch IaaS service"
+authors: ['Gaudenz Steinlin (@gaudenz) <gaudenz.steinlin@cloudscale.ch>']
+license: "GPL-3.0-or-later"

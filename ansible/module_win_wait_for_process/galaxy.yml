@@ -1,0 +1,5 @@
+name: "ansible.module_win_wait_for_process"
+version: "2.8.0"
+description: "Waits for a process to exist or not exist before continuing"
+authors: ['Charles Crossan (@crossan007)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_urpmi"
+version: "2.8.0"
+description: "Urpmi manager"
+authors: ['Philippe Makowski (@pmakowski)']
+license: "GPL-3.0-or-later"

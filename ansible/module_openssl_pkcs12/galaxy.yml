@@ -1,0 +1,5 @@
+name: "ansible.module_openssl_pkcs12"
+version: "2.8.0"
+description: "Generate OpenSSL PKCS#12 archive"
+authors: ['Guillaume Delpierre (@gdelpierre)']
+license: "GPL-3.0-or-later"

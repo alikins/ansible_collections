@@ -1,0 +1,5 @@
+name: "ansible.module_aws_direct_connect_gateway"
+version: "2.8.0"
+description: "Manage AWS Direct Connect Gateway"
+authors: ['Gobin Sougrakpam (gobins@github)']
+license: "GPL-3.0-or-later"

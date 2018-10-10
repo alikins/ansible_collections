@@ -1,0 +1,5 @@
+name: "ansible.module_ovirt"
+version: "2.8.0"
+description: "oVirt/RHEV platform management"
+authors: ['Vincent Van der Kussen (@vincentvdk)']
+license: "GPL-3.0-or-later"

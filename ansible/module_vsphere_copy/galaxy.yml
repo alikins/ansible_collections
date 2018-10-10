@@ -1,0 +1,5 @@
+name: "ansible.module_vsphere_copy"
+version: "2.8.0"
+description: "Copy a file to a vCenter datastore"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

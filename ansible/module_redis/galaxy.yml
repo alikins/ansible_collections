@@ -1,0 +1,5 @@
+name: "ansible.module_redis"
+version: "2.8.0"
+description: "Various redis commands, slave and flush"
+authors: ['Xabier Larrakoetxea (@slok)']
+license: "GPL-3.0-or-later"

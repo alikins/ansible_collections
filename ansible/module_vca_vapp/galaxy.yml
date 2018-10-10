@@ -1,0 +1,5 @@
+name: "ansible.module_vca_vapp"
+version: "2.8.0"
+description: "Manages vCloud Air vApp instances"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

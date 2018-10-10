@@ -1,0 +1,5 @@
+name: "ansible.module_nios_host_record"
+version: "2.8.0"
+description: "Configure Infoblox NIOS host records"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

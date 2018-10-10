@@ -1,0 +1,5 @@
+name: "ansible.module_iam_managed_policy"
+version: "2.8.0"
+description: "Manage User Managed IAM policies"
+authors: ['Dan Kozlowski (@dkhenry)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_manageiq_alerts"
+version: "2.8.0"
+description: "Configuration of alerts in ManageIQ"
+authors: ['Elad Alfassa (ealfassa@redhat.com)']
+license: "GPL-3.0-or-later"

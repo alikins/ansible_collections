@@ -1,0 +1,5 @@
+name: "ansible.module_aci_epg_monitoring_policy"
+version: "2.8.0"
+description: "Manage monitoring policies (mon:EPGPol)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

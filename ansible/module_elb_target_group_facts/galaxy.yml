@@ -1,0 +1,5 @@
+name: "ansible.module_elb_target_group_facts"
+version: "2.8.0"
+description: "Gather facts about ELB target groups in AWS"
+authors: ['Rob White (@wimnat)']
+license: "GPL-3.0-or-later"

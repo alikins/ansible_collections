@@ -1,0 +1,5 @@
+name: "ansible.module_profitbricks_nic"
+version: "2.8.0"
+description: "Create or Remove a NIC"
+authors: ['Matt Baldwin (baldwin@stackpointcloud.com)']
+license: "GPL-3.0-or-later"

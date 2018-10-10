@@ -1,0 +1,5 @@
+name: "ansible.module_telnet"
+version: "2.8.0"
+description: "Executes a low-down and dirty telnet command"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_alternatives"
+version: "2.8.0"
+description: "Manages alternative programs for common commands"
+authors: ['David Wittman (@DavidWittman)', 'Gabe Mulley (@mulby)']
+license: "GPL-3.0-or-later"

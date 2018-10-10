@@ -1,0 +1,5 @@
+name: "ansible.module_aws_elasticbeanstalk_app"
+version: "2.8.0"
+description: "create, update, and delete an elastic beanstalk application"
+authors: ['Harpreet Singh (@hsingh)', 'Stephen Granger (@viper233)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_cs_volume"
+version: "2.8.0"
+description: "Manages volumes on Apache CloudStack based clouds"
+authors: ['Jefferson Girão (@jeffersongirao)', 'René Moser (@resmo)']
+license: "GPL-3.0-or-later"

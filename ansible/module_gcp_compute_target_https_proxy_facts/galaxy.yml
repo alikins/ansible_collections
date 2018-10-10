@@ -1,0 +1,5 @@
+name: "ansible.module_gcp_compute_target_https_proxy_facts"
+version: "2.8.0"
+description: "Gather facts for GCP TargetHttpsProxy"
+authors: ['Google Inc. (@googlecloudplatform)']
+license: "GPL-3.0-or-later"

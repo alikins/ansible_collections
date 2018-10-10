@@ -1,0 +1,5 @@
+name: "ansible.module_aws_api_gateway"
+version: "2.8.0"
+description: "Manage AWS API Gateway APIs"
+authors: ['Michael De La Rue (@mikedlr)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_gce_net"
+version: "2.8.0"
+description: "create/destroy GCE networks and firewall rules"
+authors: ['Eric Johnson (@erjohnso) <erjohnso@google.com>, Tom Melendez (@supertom) <supertom@google.com>']
+license: "GPL-3.0-or-later"

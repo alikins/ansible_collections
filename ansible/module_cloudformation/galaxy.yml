@@ -1,0 +1,5 @@
+name: "ansible.module_cloudformation"
+version: "2.8.0"
+description: "Create or delete an AWS CloudFormation stack"
+authors: ['James S. Martin (@jsmartin)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_digital_ocean_sshkey"
+version: "2.8.0"
+description: "Manage DigitalOcean SSH keys"
+authors: ['Patrick Marques (@pmarques)']
+license: "GPL-3.0-or-later"

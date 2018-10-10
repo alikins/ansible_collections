@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_firewall_address_list"
+version: "2.8.0"
+description: "Manage address lists on BIG-IP AFM"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

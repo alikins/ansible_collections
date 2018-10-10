@@ -1,0 +1,5 @@
+name: "ansible.module_aci_interface_policy_l2"
+version: "2.8.0"
+description: "Manage Layer 2 interface policies (l2:IfPol)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

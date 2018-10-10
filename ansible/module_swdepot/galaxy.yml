@@ -1,0 +1,5 @@
+name: "ansible.module_swdepot"
+version: "2.8.0"
+description: "Manage packages with swdepot package manager (HP-UX)"
+authors: ['Raul Melo (@melodous)']
+license: "GPL-3.0-or-later"

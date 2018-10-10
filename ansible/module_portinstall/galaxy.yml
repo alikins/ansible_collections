@@ -1,0 +1,5 @@
+name: "ansible.module_portinstall"
+version: "2.8.0"
+description: "Installing packages from FreeBSD's ports system"
+authors: ['berenddeboer (@berenddeboer)']
+license: "GPL-3.0-or-later"

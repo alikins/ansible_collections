@@ -1,0 +1,5 @@
+name: "ansible.module_mksysb"
+version: "2.8.0"
+description: "Generates AIX mksysb rootvg backups"
+authors: ['Kairo Araujo (@kairoaraujo)']
+license: "GPL-3.0-or-later"

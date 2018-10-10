@@ -1,0 +1,5 @@
+name: "ansible.module_elasticsearch_plugin"
+version: "2.8.0"
+description: "Manage Elasticsearch plugins"
+authors: ['Mathew Davies (@ThePixelDeveloper)', 'Sam Doran (@samdoran)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_jenkins_job"
+version: "2.8.0"
+description: "Manage jenkins jobs"
+authors: ['Sergio Millan Rodriguez (@sermilrod)']
+license: "GPL-3.0-or-later"

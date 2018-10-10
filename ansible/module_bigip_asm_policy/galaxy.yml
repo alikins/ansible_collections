@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_asm_policy"
+version: "2.8.0"
+description: "Manage BIG-IP ASM policies"
+authors: ['Wojciech Wypior (@wojtek0806)', 'Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

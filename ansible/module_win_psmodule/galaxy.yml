@@ -1,0 +1,5 @@
+name: "ansible.module_win_psmodule"
+version: "2.8.0"
+description: "Adds or removes a Powershell Module"
+authors: ['Daniele Lazzari']
+license: "GPL-3.0-or-later"

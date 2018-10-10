@@ -1,0 +1,5 @@
+name: "ansible.module_zabbix_hostmacro"
+version: "2.8.0"
+description: "Zabbix host macro creates/updates/deletes"
+authors: ['(@cave)', 'Dean Hailin Song']
+license: "GPL-3.0-or-later"

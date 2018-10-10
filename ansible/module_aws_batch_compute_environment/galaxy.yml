@@ -1,0 +1,5 @@
+name: "ansible.module_aws_batch_compute_environment"
+version: "2.8.0"
+description: "Manage AWS Batch Compute Environments"
+authors: ['Jon Meran (@jonmer85)']
+license: "GPL-3.0-or-later"

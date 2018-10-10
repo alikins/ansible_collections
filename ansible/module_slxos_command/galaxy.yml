@@ -1,0 +1,5 @@
+name: "ansible.module_slxos_command"
+version: "2.8.0"
+description: "Run commands on remote devices running Extreme Networks SLX-OS"
+authors: ['Lindsay Hill (@LindsayHill)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_mongodb_user"
+version: "2.8.0"
+description: "Adds or removes a user from a MongoDB database"
+authors: ['Elliott Foster (@elliotttf)', 'Julien Thebault (@lujeni)']
+license: "GPL-3.0-or-later"

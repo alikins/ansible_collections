@@ -1,0 +1,5 @@
+name: "ansible.module_win_pagefile"
+version: "2.8.0"
+description: "Query or change pagefile configuration"
+authors: ['Liran Nisanov (@LiranNis)']
+license: "GPL-3.0-or-later"

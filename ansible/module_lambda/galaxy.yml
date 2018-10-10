@@ -1,0 +1,5 @@
+name: "ansible.module_lambda"
+version: "2.8.0"
+description: "Manage AWS Lambda functions"
+authors: ['Steyn Huizinga (@steynovich)']
+license: "GPL-3.0-or-later"

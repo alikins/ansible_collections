@@ -1,0 +1,5 @@
+name: "ansible.module_redshift"
+version: "2.8.0"
+description: "create, delete, or modify an Amazon Redshift instance"
+authors: ['Jens Carl (@j-carl), Hothead Games Inc.']
+license: "GPL-3.0-or-later"

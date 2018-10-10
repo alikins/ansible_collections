@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_host_service_manager"
+version: "2.8.0"
+description: "Manage services on a given ESXi host"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

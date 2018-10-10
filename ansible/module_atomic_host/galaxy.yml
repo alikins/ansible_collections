@@ -1,0 +1,5 @@
+name: "ansible.module_atomic_host"
+version: "2.8.0"
+description: "Manage the atomic host platform"
+authors: ['Saravanan KR (@krsacme)']
+license: "GPL-3.0-or-later"

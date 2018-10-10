@@ -1,0 +1,5 @@
+name: "ansible.module_smartos_image_facts"
+version: "2.8.0"
+description: "Get SmartOS image details"
+authors: ['Adam Števko (@xen0l)']
+license: "GPL-3.0-or-later"

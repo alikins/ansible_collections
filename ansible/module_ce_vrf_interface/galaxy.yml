@@ -1,0 +1,5 @@
+name: "ansible.module_ce_vrf_interface"
+version: "2.8.0"
+description: "Manages interface specific VPN configuration on HUAWEI CloudEngine switches"
+authors: ['Zhijin Zhou (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

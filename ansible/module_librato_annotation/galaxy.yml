@@ -1,0 +1,5 @@
+name: "ansible.module_librato_annotation"
+version: "2.8.0"
+description: "create an annotation in librato"
+authors: ['Seth Edwards (@sedward)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,22 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Source Control modules
+license: GPL-3.0-or-later
+name: ansible.module_category_source_control
+requirements:
+- ansible.module_github_issue
+- ansible.module_hg
+- ansible.module_gitlab_user
+- ansible.module_gitlab_deploy_key
+- ansible.module_subversion
+- ansible.module_github_hooks
+- ansible.module_git_config
+- ansible.module_bzr
+- ansible.module_gitlab_group
+- ansible.module_github_deploy_key
+- ansible.module_gitlab_project
+- ansible.module_git
+- ansible.module_gitlab_hooks
+- ansible.module_github_release
+- ansible.module_github_key
+version: 2.8.0

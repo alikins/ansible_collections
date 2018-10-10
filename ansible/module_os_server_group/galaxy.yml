@@ -1,0 +1,5 @@
+name: "ansible.module_os_server_group"
+version: "2.8.0"
+description: "Manage OpenStack server groups"
+authors: ['Lingxian Kong (@kong)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_stackdriver"
+version: "2.8.0"
+description: "Send code deploy and annotation events to stackdriver"
+authors: ['Ben Whaley (@bwhaley)']
+license: "GPL-3.0-or-later"

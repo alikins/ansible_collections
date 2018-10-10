@@ -1,0 +1,5 @@
+name: "ansible.module_redshift_subnet_group"
+version: "2.8.0"
+description: "manage Redshift cluster subnet groups"
+authors: ['Jens Carl (@j-carl), Hothead Games Inc.']
+license: "GPL-3.0-or-later"

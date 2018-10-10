@@ -1,0 +1,5 @@
+name: "ansible.module_stacki_host"
+version: "2.8.0"
+description: "Add or remove host to stacki front-end"
+authors: ['Hugh Ma <Hugh.Ma@flextronics.com>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_iptables"
+version: "2.8.0"
+description: "Modify iptables rules"
+authors: ['Linus Unnebäck (@LinusU) <linus@folkdatorn.se>', 'Sébastien DA ROCHA (@sebastiendarocha)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_zabbix_template"
+version: "2.8.0"
+description: "create/delete/dump zabbix template"
+authors: ['@sookido', 'Logan Vig (@logan2211)']
+license: "GPL-3.0-or-later"

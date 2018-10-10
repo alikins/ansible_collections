@@ -1,0 +1,5 @@
+name: "ansible.module_ce_netstream_export"
+version: "2.8.0"
+description: "Manages netstream export on HUAWEI CloudEngine switches"
+authors: ['Zhijin Zhou (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

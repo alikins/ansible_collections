@@ -1,0 +1,5 @@
+name: "ansible.module_eos_system"
+version: "2.8.0"
+description: "Manage the system attributes on Arista EOS devices"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

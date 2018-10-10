@@ -1,0 +1,5 @@
+name: "ansible.module_aws_batch_job_queue"
+version: "2.8.0"
+description: "Manage AWS Batch Job Queues"
+authors: ['Jon Meran (@jonmer85)']
+license: "GPL-3.0-or-later"

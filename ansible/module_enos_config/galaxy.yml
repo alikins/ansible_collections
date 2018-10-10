@@ -1,0 +1,5 @@
+name: "ansible.module_enos_config"
+version: "2.8.0"
+description: "Manage Lenovo ENOS configuration sections"
+authors: ['Anil Kumar Muraleedharan (@amuraleedhar)']
+license: "GPL-3.0-or-later"

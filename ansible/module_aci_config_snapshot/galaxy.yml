@@ -1,0 +1,5 @@
+name: "ansible.module_aci_config_snapshot"
+version: "2.8.0"
+description: "Manage Config Snapshots (config:Snapshot, config:ExportP)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

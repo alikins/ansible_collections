@@ -1,0 +1,5 @@
+name: "ansible.module_pkgutil"
+version: "2.8.0"
+description: "Manage CSW-Packages on Solaris"
+authors: ['Alexander Winkler (@dermute)']
+license: "GPL-3.0-or-later"

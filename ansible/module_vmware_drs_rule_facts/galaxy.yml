@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_drs_rule_facts"
+version: "2.8.0"
+description: "Gathers facts about DRS rule on the given cluster"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

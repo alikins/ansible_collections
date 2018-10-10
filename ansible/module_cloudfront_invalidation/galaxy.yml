@@ -1,0 +1,5 @@
+name: "ansible.module_cloudfront_invalidation"
+version: "2.8.0"
+description: "create invalidations for aws cloudfront distributions"
+authors: ['Willem van Ketwich (@wilvk)']
+license: "GPL-3.0-or-later"

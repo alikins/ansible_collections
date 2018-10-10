@@ -1,0 +1,5 @@
+name: "ansible.module_layman"
+version: "2.8.0"
+description: "Manage Gentoo overlays"
+authors: ['Jakub Jirutka (@jirutka)']
+license: "GPL-3.0-or-later"

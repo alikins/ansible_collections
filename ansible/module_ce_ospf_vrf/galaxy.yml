@@ -1,0 +1,5 @@
+name: "ansible.module_ce_ospf_vrf"
+version: "2.8.0"
+description: "Manages configuration of an OSPF VPN instance on HUAWEI CloudEngine switches"
+authors: ['Yang yang (@CloudEngine Ansible)']
+license: "GPL-3.0-or-later"

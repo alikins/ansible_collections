@@ -1,0 +1,5 @@
+name: "ansible.module_proxysql_scheduler"
+version: "2.8.0"
+description: "Adds or removes schedules from proxysql admin interface"
+authors: ['Ben Mildren (@bmildren)']
+license: "GPL-3.0-or-later"

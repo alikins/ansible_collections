@@ -1,0 +1,5 @@
+name: "ansible.module_aci_tenant_span_dst_group"
+version: "2.8.0"
+description: "Manage SPAN destination groups (span:DestGrp)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ce_acl_interface"
+version: "2.8.0"
+description: "Manages applying ACLs to interfaces on HUAWEI CloudEngine switches"
+authors: ['wangdezhuang (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

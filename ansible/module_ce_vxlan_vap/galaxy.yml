@@ -1,0 +1,5 @@
+name: "ansible.module_ce_vxlan_vap"
+version: "2.8.0"
+description: "Manages VXLAN virtual access point on HUAWEI CloudEngine Devices"
+authors: ['QijunPan (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

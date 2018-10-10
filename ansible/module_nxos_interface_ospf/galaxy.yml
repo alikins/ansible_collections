@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_interface_ospf"
+version: "2.8.0"
+description: "Manages configuration of an OSPF interface instance"
+authors: ['Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

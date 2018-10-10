@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_metric_alarm"
+version: "2.8.0"
+description: "Create/update or delete AWS Cloudwatch 'metric alarms'"
+authors: ['Zacharie Eakin (@zeekin)']
+license: "GPL-3.0-or-later"

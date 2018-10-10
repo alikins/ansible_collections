@@ -1,0 +1,5 @@
+name: "ansible.module_sros_config"
+version: "2.8.0"
+description: "Manage Nokia SR OS device configuration"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

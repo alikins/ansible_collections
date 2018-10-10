@@ -1,0 +1,5 @@
+name: "ansible.module_vyos_vlan"
+version: "2.8.0"
+description: "Manage VLANs on VyOS network devices"
+authors: ['Trishna Guha (@trishnaguha)']
+license: "GPL-3.0-or-later"

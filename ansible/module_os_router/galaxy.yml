@@ -1,0 +1,5 @@
+name: "ansible.module_os_router"
+version: "2.8.0"
+description: "Create or delete routers from OpenStack"
+authors: ['David Shrewsbury (@Shrews)']
+license: "GPL-3.0-or-later"

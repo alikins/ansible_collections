@@ -1,0 +1,5 @@
+name: "ansible.module_jenkins_job_facts"
+version: "2.8.0"
+description: "Get facts about Jenkins jobs"
+authors: ['Chris St. Pierre (@stpierre)']
+license: "GPL-3.0-or-later"

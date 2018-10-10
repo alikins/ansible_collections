@@ -1,0 +1,5 @@
+name: "ansible.module_panos_loadcfg"
+version: "2.8.0"
+description: "load configuration on PAN-OS device"
+authors: ['Luigi Mori (@jtschichold), Ivan Bojer (@ivanbojer)']
+license: "GPL-3.0-or-later"

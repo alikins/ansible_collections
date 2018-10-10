@@ -1,0 +1,5 @@
+name: "ansible.module_rax_identity"
+version: "2.8.0"
+description: "Load Rackspace Cloud Identity"
+authors: ['Christopher H. Laco (@claco)', 'Matt Martz (@sivel)']
+license: "GPL-3.0-or-later"

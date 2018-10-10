@@ -1,0 +1,5 @@
+name: "ansible.module_openvswitch_bridge"
+version: "2.8.0"
+description: "Manage Open vSwitch bridges"
+authors: ['David Stygstra (@stygstra)']
+license: "GPL-3.0-or-later"

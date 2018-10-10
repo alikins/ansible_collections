@@ -1,0 +1,5 @@
+name: "ansible.module_ce_snmp_contact"
+version: "2.8.0"
+description: "Manages SNMP contact configuration on HUAWEI CloudEngine switches"
+authors: ['wangdezhuang (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

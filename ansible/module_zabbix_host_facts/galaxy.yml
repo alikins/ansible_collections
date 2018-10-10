@@ -1,0 +1,5 @@
+name: "ansible.module_zabbix_host_facts"
+version: "2.8.0"
+description: "Gather facts about Zabbix host"
+authors: ['(@redwhitemiko)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_group"
+version: "2.8.0"
+description: "maintain an ec2 VPC security group"
+authors: ['Andrew de Quincey (@adq)']
+license: "GPL-3.0-or-later"

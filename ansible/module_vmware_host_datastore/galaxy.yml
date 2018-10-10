@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_host_datastore"
+version: "2.8.0"
+description: "Manage a datastore on ESXi host"
+authors: ['Ludovic Rivallain (@lrivallain) <ludovic.rivallain@gmail.com>']
+license: "GPL-3.0-or-later"

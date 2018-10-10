@@ -1,0 +1,5 @@
+name: "ansible.module_digital_ocean"
+version: "2.8.0"
+description: "Create/delete a droplet/SSH_key in DigitalOcean"
+authors: ['Vincent Viallet (@zbal)']
+license: "GPL-3.0-or-later"

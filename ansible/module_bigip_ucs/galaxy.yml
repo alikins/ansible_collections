@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_ucs"
+version: "2.8.0"
+description: "Manage upload, installation and removal of UCS files"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

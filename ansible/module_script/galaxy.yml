@@ -1,0 +1,5 @@
+name: "ansible.module_script"
+version: "2.8.0"
+description: "Runs a local script on a remote node after transferring it"
+authors: ['Ansible Core Team', 'Michael DeHaan']
+license: "GPL-3.0-or-later"

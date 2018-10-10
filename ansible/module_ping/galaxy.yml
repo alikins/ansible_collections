@@ -1,0 +1,5 @@
+name: "ansible.module_ping"
+version: "2.8.0"
+description: "Try to connect to host, verify a usable python and return ``pong`` on success"
+authors: ['Ansible Core Team', 'Michael DeHaan']
+license: "GPL-3.0-or-later"

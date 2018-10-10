@@ -1,0 +1,5 @@
+name: "ansible.module_pn_ospf"
+version: "2.8.0"
+description: "CLI command to add/remove ospf protocol to a vRouter"
+authors: ['Pluribus Networks (@amitsi)']
+license: "GPL-3.0-or-later"

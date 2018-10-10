@@ -1,0 +1,5 @@
+name: "ansible.module_cs_loadbalancer_rule_member"
+version: "2.8.0"
+description: "Manages load balancer rule members on Apache CloudStack based clouds"
+authors: ['Darren Worrall (@dazworrall)', 'René Moser (@resmo)']
+license: "GPL-3.0-or-later"

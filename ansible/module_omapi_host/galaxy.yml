@@ -1,0 +1,5 @@
+name: "ansible.module_omapi_host"
+version: "2.8.0"
+description: "Setup OMAPI hosts"
+authors: ['Loic Blot (@nerzhul)']
+license: "GPL-3.0-or-later"

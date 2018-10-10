@@ -1,0 +1,5 @@
+name: "ansible.module_a10_server_axapi3"
+version: "2.8.0"
+description: "Manage A10 Networks AX/SoftAX/Thunder/vThunder devices"
+authors: ['Eric Chou (@ericchou) based on previous work by Mischa Peters (@mischapeters)']
+license: "GPL-3.0-or-later"

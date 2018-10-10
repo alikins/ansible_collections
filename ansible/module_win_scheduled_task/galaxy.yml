@@ -1,0 +1,5 @@
+name: "ansible.module_win_scheduled_task"
+version: "2.8.0"
+description: "Manage scheduled tasks"
+authors: ['Peter Mounce (@petemounce)', 'Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

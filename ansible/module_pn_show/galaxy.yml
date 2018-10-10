@@ -1,0 +1,5 @@
+name: "ansible.module_pn_show"
+version: "2.8.0"
+description: "Run show commands on nvOS device"
+authors: ['Pluribus Networks (@amitsi)']
+license: "GPL-3.0-or-later"

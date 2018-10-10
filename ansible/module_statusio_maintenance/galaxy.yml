@@ -1,0 +1,5 @@
+name: "ansible.module_statusio_maintenance"
+version: "2.8.0"
+description: "Create maintenance windows for your status.io dashboard"
+authors: ['Benjamin Copeland (@bhcopeland) <ben@copeland.me.uk>']
+license: "GPL-3.0-or-later"

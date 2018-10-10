@@ -1,0 +1,5 @@
+name: "ansible.module_synchronize"
+version: "2.8.0"
+description: "A wrapper around rsync to make common tasks in your playbooks quick and easy"
+authors: ['Timothy Appnel (@tima)']
+license: "GPL-3.0-or-later"

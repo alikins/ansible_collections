@@ -1,0 +1,5 @@
+name: "ansible.module_cloudwatchlogs_log_group"
+version: "2.8.0"
+description: "create or delete log_group in CloudWatchLogs"
+authors: ['Willian Ricardo(@willricardo) <willricardo@gmail.com>']
+license: "GPL-3.0-or-later"

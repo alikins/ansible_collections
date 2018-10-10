@@ -1,0 +1,5 @@
+name: "ansible.module_aci_l3out_route_tag_policy"
+version: "2.8.0"
+description: "Manage route tag policies (l3ext:RouteTagPol)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

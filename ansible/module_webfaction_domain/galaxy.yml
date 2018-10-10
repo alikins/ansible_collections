@@ -1,0 +1,5 @@
+name: "ansible.module_webfaction_domain"
+version: "2.8.0"
+description: "Add or remove domains and subdomains on Webfaction"
+authors: ['Quentin Stafford-Fraser (@quentinsf)']
+license: "GPL-3.0-or-later"

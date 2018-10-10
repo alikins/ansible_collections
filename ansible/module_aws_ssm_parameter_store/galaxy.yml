@@ -1,0 +1,5 @@
+name: "ansible.module_aws_ssm_parameter_store"
+version: "2.8.0"
+description: "Manage key-value pairs in aws parameter store"
+authors: ['Nathan Webster (@nathanwebsterdotme)', 'Bill Wang (ozbillwang@gmail.com)', 'Michael De La Rue (@mikedlr)']
+license: "GPL-3.0-or-later"

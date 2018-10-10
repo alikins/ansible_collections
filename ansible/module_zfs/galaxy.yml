@@ -1,0 +1,5 @@
+name: "ansible.module_zfs"
+version: "2.8.0"
+description: "Manage zfs"
+authors: ['Johan Wiren (@johanwiren)']
+license: "GPL-3.0-or-later"

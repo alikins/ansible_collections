@@ -1,0 +1,5 @@
+name: "ansible.module_clc_server_snapshot"
+version: "2.8.0"
+description: "Create, Delete and Restore server snapshots in CenturyLink Cloud"
+authors: ['CLC Runner (@clc-runner)']
+license: "GPL-3.0-or-later"

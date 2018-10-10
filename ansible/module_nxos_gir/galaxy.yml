@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_gir"
+version: "2.8.0"
+description: "Trigger a graceful removal or insertion (GIR) of the switch"
+authors: ['Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

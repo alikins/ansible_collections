@@ -1,0 +1,5 @@
+name: "ansible.module_exo_dns_record"
+version: "2.8.0"
+description: "Manages DNS records on Exoscale DNS"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

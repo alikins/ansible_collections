@@ -1,0 +1,5 @@
+name: "ansible.module_sts_session_token"
+version: "2.8.0"
+description: "Obtain a session token from the AWS Security Token Service"
+authors: ['Victor Costan (@pwnall)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_digital_ocean_certificate"
+version: "2.8.0"
+description: "Manage certificates in DigitalOcean"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

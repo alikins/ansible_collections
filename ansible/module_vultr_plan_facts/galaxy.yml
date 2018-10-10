@@ -1,0 +1,5 @@
+name: "ansible.module_vultr_plan_facts"
+version: "2.8.0"
+description: "Gather facts about the Vultr plans available"
+authors: ['Yanis Guenane (@Spredzy)']
+license: "GPL-3.0-or-later"

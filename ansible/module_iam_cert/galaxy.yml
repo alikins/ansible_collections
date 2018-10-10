@@ -1,0 +1,5 @@
+name: "ansible.module_iam_cert"
+version: "2.8.0"
+description: "Manage server certificates for use on ELBs and CloudFront"
+authors: ['Jonathan I. Davila']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_robocopy"
+version: "2.8.0"
+description: "Synchronizes the contents of two directories using Robocopy"
+authors: ['Corwin Brown (@blakfeld)']
+license: "GPL-3.0-or-later"

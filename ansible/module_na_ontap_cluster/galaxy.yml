@@ -1,0 +1,5 @@
+name: "ansible.module_na_ontap_cluster"
+version: "2.8.0"
+description: "NetApp ONTAP cluster - create, join, add license"
+authors: ['NetApp Ansible Team (ng-ansibleteam@netapp.com)']
+license: "GPL-3.0-or-later"

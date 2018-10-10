@@ -1,0 +1,5 @@
+name: "ansible.module_oneview_fcoe_network"
+version: "2.8.0"
+description: "Manage OneView FCoE Network resources"
+authors: ['Felipe Bulsoni (@fgbulsoni)']
+license: "GPL-3.0-or-later"

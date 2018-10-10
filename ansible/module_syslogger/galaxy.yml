@@ -1,0 +1,5 @@
+name: "ansible.module_syslogger"
+version: "2.8.0"
+description: "Log messages in the syslog"
+authors: ['Tim Rightnour (@garbled1)']
+license: "GPL-3.0-or-later"

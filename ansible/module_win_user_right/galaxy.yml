@@ -1,0 +1,5 @@
+name: "ansible.module_win_user_right"
+version: "2.8.0"
+description: "Manage Windows User Rights"
+authors: ['Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

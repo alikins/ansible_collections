@@ -1,0 +1,5 @@
+name: "ansible.module_efs"
+version: "2.8.0"
+description: "create and maintain EFS file systems"
+authors: ['Ryan Sydnor (@ryansydnor)', 'Artem Kazakov (@akazakov)']
+license: "GPL-3.0-or-later"

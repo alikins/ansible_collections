@@ -1,0 +1,5 @@
+name: "ansible.module_rabbitmq_parameter"
+version: "2.8.0"
+description: "Adds or removes parameters to RabbitMQ"
+authors: ['"Chris Hoffman (@chrishoffman)"']
+license: "GPL-3.0-or-later"

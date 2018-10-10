@@ -1,0 +1,5 @@
+name: "ansible.module_netconf_config"
+version: "2.8.0"
+description: "netconf device configuration"
+authors: ['Leandro Lisboa Penz (@lpenz)']
+license: "GPL-3.0-or-later"

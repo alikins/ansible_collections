@@ -1,0 +1,5 @@
+name: "ansible.module_os_server_metadata"
+version: "2.8.0"
+description: "Add/Update/Delete Metadata in Compute Instances from OpenStack"
+authors: ['Mario Santos (@ruizink)']
+license: "GPL-3.0-or-later"

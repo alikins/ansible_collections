@@ -1,0 +1,5 @@
+name: "ansible.module_aws_inspector_target"
+version: "2.8.0"
+description: "Create, Update and Delete Amazon Inspector Assessment Targets"
+authors: ['Dennis Conrad (@dennisconrad)']
+license: "GPL-3.0-or-later"

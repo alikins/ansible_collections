@@ -1,0 +1,5 @@
+name: "ansible.module_ibm_sa_host"
+version: "2.8.0"
+description: "Adds hosts to or removes them from IBM Spectrum Accelerate storage systems"
+authors: ['Tzur Eliyahu (tzure@il.ibm.com)']
+license: "GPL-3.0-or-later"

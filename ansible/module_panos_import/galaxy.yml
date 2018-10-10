@@ -1,0 +1,5 @@
+name: "ansible.module_panos_import"
+version: "2.8.0"
+description: "import file on PAN-OS devices"
+authors: ['Luigi Mori (@jtschichold), Ivan Bojer (@ivanbojer)']
+license: "GPL-3.0-or-later"

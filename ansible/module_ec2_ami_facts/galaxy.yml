@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_ami_facts"
+version: "2.8.0"
+description: "Gather facts about ec2 AMIs"
+authors: ['Prasad Katti, @prasadkatti']
+license: "GPL-3.0-or-later"

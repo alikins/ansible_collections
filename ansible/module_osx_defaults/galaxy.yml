@@ -1,0 +1,5 @@
+name: "ansible.module_osx_defaults"
+version: "2.8.0"
+description: "osx_defaults allows users to read, write, and delete macOS user defaults from Ansible"
+authors: ['Franck Nijhof (@frenck)']
+license: "GPL-3.0-or-later"

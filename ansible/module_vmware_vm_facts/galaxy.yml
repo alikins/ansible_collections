@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_vm_facts"
+version: "2.8.0"
+description: "Return basic facts pertaining to a vSphere virtual machine guest"
+authors: ['Joseph Callen (@jcpowermac)', 'Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

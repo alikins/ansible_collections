@@ -1,0 +1,5 @@
+name: "ansible.module_netapp_e_global"
+version: "2.8.0"
+description: "NetApp E-Series manage global settings configuration"
+authors: ['Michael Price (@lmprice)']
+license: "GPL-3.0-or-later"

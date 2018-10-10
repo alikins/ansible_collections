@@ -1,0 +1,5 @@
+name: "ansible.module_expect"
+version: "2.8.0"
+description: "Executes a command and responds to prompts"
+authors: ['Matt Martz (@sivel)']
+license: "GPL-3.0-or-later"

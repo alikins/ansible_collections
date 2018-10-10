@@ -1,0 +1,5 @@
+name: "ansible.module_subversion"
+version: "2.8.0"
+description: "Deploys a subversion repository"
+authors: ['Dane Summers (@dsummersl) <njharman@gmail.com>']
+license: "GPL-3.0-or-later"

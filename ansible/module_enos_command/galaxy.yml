@@ -1,0 +1,5 @@
+name: "ansible.module_enos_command"
+version: "2.8.0"
+description: "Run arbitrary commands on Lenovo ENOS devices"
+authors: ['Anil Kumar Muraleedharan (@amuraleedhar)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_os_project"
+version: "2.8.0"
+description: "Manage OpenStack Projects"
+authors: ['Alberto Gireud (@agireud)']
+license: "GPL-3.0-or-later"

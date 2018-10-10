@@ -1,0 +1,5 @@
+name: "ansible.module_ce_mlag_config"
+version: "2.8.0"
+description: "Manages MLAG configuration on HUAWEI CloudEngine switches"
+authors: ['Li Yanfeng (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

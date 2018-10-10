@@ -1,0 +1,5 @@
+name: "ansible.module_sf_volume_access_group_manager"
+version: "2.8.0"
+description: "Manage SolidFire Volume Access Groups"
+authors: ['Sumit Kumar (sumit4@netapp.com)']
+license: "GPL-3.0-or-later"

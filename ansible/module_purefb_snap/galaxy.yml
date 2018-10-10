@@ -1,0 +1,5 @@
+name: "ansible.module_purefb_snap"
+version: "2.8.0"
+description: "Manage filesystem snapshots on Pure Storage FlashBlades"
+authors: ['Simon Dodsley (@sdodsley)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_rabbitmq_exchange"
+version: "2.8.0"
+description: "This module manages rabbitMQ exchanges"
+authors: ['Manuel Sousa (@manuel-sousa)']
+license: "GPL-3.0-or-later"

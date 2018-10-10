@@ -1,0 +1,5 @@
+name: "ansible.module_win_rabbitmq_plugin"
+version: "2.8.0"
+description: "Manage RabbitMQ plugins"
+authors: ['Artem Zinenko (@ar7z1)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_cobbler_sync"
+version: "2.8.0"
+description: "Sync Cobbler"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

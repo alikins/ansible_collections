@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_maintenancemode"
+version: "2.8.0"
+description: "Place a host into maintenance mode"
+authors: ['Jay Jahns (@jjahns) <jjahns@vmware.com>', 'Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

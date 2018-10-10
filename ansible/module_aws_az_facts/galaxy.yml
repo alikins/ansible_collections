@@ -1,0 +1,5 @@
+name: "ansible.module_aws_az_facts"
+version: "2.8.0"
+description: "Gather facts about availability zones in AWS"
+authors: ['Henrique Rodrigues (github.com/Sodki)']
+license: "GPL-3.0-or-later"

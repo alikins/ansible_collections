@@ -1,0 +1,5 @@
+name: "ansible.module_ecs_taskdefinition"
+version: "2.8.0"
+description: "register a task definition in ecs"
+authors: ['Mark Chance (@Java1Guy)']
+license: "GPL-3.0-or-later"

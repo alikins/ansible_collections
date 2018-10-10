@@ -1,0 +1,5 @@
+name: "ansible.module_solaris_zone"
+version: "2.8.0"
+description: "Manage Solaris zones"
+authors: ['Paul Markham (@pmarkham)']
+license: "GPL-3.0-or-later"

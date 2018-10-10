@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_evpn_global"
+version: "2.8.0"
+description: "Handles the EVPN control plane for VXLAN"
+authors: ['Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

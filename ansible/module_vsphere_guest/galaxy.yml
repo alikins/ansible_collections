@@ -1,0 +1,5 @@
+name: "ansible.module_vsphere_guest"
+version: "2.8.0"
+description: "Create/delete/manage a guest VM through VMware vSphere"
+authors: ['Richard Hoop (@rhoop) <wrhoop@gmail.com>']
+license: "GPL-3.0-or-later"

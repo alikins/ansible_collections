@@ -1,0 +1,5 @@
+name: "ansible.module_netapp_e_lun_mapping"
+version: "2.8.0"
+description: "NetApp E-Series create, delete, or modify lun mappings"
+authors: ['Kevin Hulquest (@hulquest)', 'Nathan Swartz (@ndswartz)']
+license: "GPL-3.0-or-later"

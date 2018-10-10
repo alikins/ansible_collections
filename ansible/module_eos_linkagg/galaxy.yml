@@ -1,0 +1,5 @@
+name: "ansible.module_eos_linkagg"
+version: "2.8.0"
+description: "Manage link aggregation groups on Arista EOS network devices"
+authors: ['Trishna Guha (@trishnaguha)']
+license: "GPL-3.0-or-later"

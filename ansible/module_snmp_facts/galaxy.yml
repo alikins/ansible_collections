@@ -1,0 +1,5 @@
+name: "ansible.module_snmp_facts"
+version: "2.8.0"
+description: "Retrieve facts for a device using SNMP"
+authors: ['Patrick Ogenstad (@ogenstad)']
+license: "GPL-3.0-or-later"

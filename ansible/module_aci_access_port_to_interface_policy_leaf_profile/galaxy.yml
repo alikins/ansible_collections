@@ -1,0 +1,5 @@
+name: "ansible.module_aci_access_port_to_interface_policy_leaf_profile"
+version: "2.8.0"
+description: "Manage Fabric interface policy leaf profile interface selectors (infra:HPortS, infra:RsAccBaseGrp, infra:PortBlk)"
+authors: ['Bruno Calogero (@brunocalogero)']
+license: "GPL-3.0-or-later"

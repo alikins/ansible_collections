@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_dnszone"
+version: "2.8.0"
+description: "Manage Azure DNS zones"
+authors: ['Obezimnaka Boms (@ozboms)']
+license: "GPL-3.0-or-later"

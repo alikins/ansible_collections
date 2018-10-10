@@ -1,0 +1,5 @@
+name: "ansible.module_packet_sshkey"
+version: "2.8.0"
+description: "Create/delete an SSH key in Packet host"
+authors: ['Tomas Karasek (@t0mk) <tom.to.the.k@gmail.com>']
+license: "GPL-3.0-or-later"

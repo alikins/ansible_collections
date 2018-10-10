@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_route_table_facts"
+version: "2.8.0"
+description: "Gather facts about ec2 VPC route tables in AWS"
+authors: ['Rob White (@wimnat)']
+license: "GPL-3.0-or-later"

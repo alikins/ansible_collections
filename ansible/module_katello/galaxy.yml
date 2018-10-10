@@ -1,0 +1,5 @@
+name: "ansible.module_katello"
+version: "2.8.0"
+description: "Manage Katello Resources"
+authors: ['Eric D Helms (@ehelms)']
+license: "GPL-3.0-or-later"

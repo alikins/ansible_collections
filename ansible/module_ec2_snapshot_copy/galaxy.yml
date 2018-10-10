@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_snapshot_copy"
+version: "2.8.0"
+description: "copies an EC2 snapshot and returns the new Snapshot ID"
+authors: ['Deepak Kothandan (@Deepakkothandan) <deepak.kdy@gmail.com>']
+license: "GPL-3.0-or-later"

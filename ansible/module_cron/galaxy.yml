@@ -1,0 +1,5 @@
+name: "ansible.module_cron"
+version: "2.8.0"
+description: "Manage cron.d and crontab entries"
+authors: ['Dane Summers (@dsummersl)', 'Mike Grozak', 'Patrick Callahan', 'Evan Kaufman (@EvanK)', 'Luca Berruti (@lberruti)']
+license: "GPL-3.0-or-later"

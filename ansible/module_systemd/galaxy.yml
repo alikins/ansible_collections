@@ -1,0 +1,5 @@
+name: "ansible.module_systemd"
+version: "2.8.0"
+description: "Manage services"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

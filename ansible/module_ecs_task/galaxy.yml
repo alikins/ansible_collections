@@ -1,0 +1,5 @@
+name: "ansible.module_ecs_task"
+version: "2.8.0"
+description: "run, start or stop a task in ecs"
+authors: ['Mark Chance (@Java1Guy)']
+license: "GPL-3.0-or-later"

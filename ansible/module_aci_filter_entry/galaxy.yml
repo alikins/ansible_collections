@@ -1,0 +1,5 @@
+name: "ansible.module_aci_filter_entry"
+version: "2.8.0"
+description: "Manage filter entries (vz:Entry)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

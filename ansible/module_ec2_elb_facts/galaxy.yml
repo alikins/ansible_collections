@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_elb_facts"
+version: "2.8.0"
+description: "Gather facts about EC2 Elastic Load Balancers in AWS"
+authors: ['Michael Schultz (github.com/mjschultz)', 'Fernando Jose Pando (@nand0p)']
+license: "GPL-3.0-or-later"

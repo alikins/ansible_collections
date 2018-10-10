@@ -1,0 +1,5 @@
+name: "ansible.module_gcspanner"
+version: "2.8.0"
+description: "Create and Delete Instances/Databases on Spanner"
+authors: ['Tom Melendez (@supertom) <tom@supertom.com>']
+license: "GPL-3.0-or-later"

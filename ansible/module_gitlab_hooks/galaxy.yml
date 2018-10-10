@@ -1,0 +1,5 @@
+name: "ansible.module_gitlab_hooks"
+version: "2.8.0"
+description: "Manages GitLab project hooks"
+authors: ['Marcus Watkins (@marwatk)']
+license: "GPL-3.0-or-later"

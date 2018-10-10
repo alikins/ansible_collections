@@ -1,0 +1,5 @@
+name: "ansible.module_win_acl_inheritance"
+version: "2.8.0"
+description: "Change ACL inheritance"
+authors: ['Hans-Joachim Kliemeck (@h0nIg)']
+license: "GPL-3.0-or-later"

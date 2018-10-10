@@ -1,0 +1,5 @@
+name: "ansible.module_rabbitmq_vhost"
+version: "2.8.0"
+description: "Manage the state of a virtual host in RabbitMQ"
+authors: ['"Chris Hoffman (@choffman)"']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_panos_op"
+version: "2.8.0"
+description: "execute arbitrary OP commands on PANW devices (e.g. show interface all)"
+authors: ['Ivan Bojer (@ivanbojer)']
+license: "GPL-3.0-or-later"

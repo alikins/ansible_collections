@@ -1,0 +1,5 @@
+name: "ansible.module_twilio"
+version: "2.8.0"
+description: "Sends a text message to a mobile phone through Twilio"
+authors: ['Matt Makai (@makaimc)']
+license: "GPL-3.0-or-later"

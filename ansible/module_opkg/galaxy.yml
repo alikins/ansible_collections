@@ -1,0 +1,5 @@
+name: "ansible.module_opkg"
+version: "2.8.0"
+description: "Package manager for OpenWrt"
+authors: ['Patrick Pelletier (@skinp)']
+license: "GPL-3.0-or-later"

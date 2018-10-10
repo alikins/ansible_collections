@@ -1,0 +1,5 @@
+name: "ansible.module_aci_interface_policy_fc"
+version: "2.8.0"
+description: "Manage Fibre Channel interface policies (fc:IfPol)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_cloudwatchevent_rule"
+version: "2.8.0"
+description: "Manage CloudWatch Event rules and targets"
+authors: ['Jim Dalton (@jsdalton) <jim.dalton@gmail.com>']
+license: "GPL-3.0-or-later"

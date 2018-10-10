@@ -1,0 +1,5 @@
+name: "ansible.module_os_client_config"
+version: "2.8.0"
+description: "Get OpenStack Client config"
+authors: ['Monty Taylor (@emonty)']
+license: "GPL-3.0-or-later"

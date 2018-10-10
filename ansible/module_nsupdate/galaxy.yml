@@ -1,0 +1,5 @@
+name: "ansible.module_nsupdate"
+version: "2.8.0"
+description: "Manage DNS records"
+authors: ['Loic Blot (@nerzhul)']
+license: "GPL-3.0-or-later"

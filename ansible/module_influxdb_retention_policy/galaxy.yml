@@ -1,0 +1,5 @@
+name: "ansible.module_influxdb_retention_policy"
+version: "2.8.0"
+description: "Manage InfluxDB retention policies"
+authors: ['Kamil Szczygiel (@kamsz)']
+license: "GPL-3.0-or-later"

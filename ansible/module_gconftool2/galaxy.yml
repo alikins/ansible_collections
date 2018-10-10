@@ -1,0 +1,5 @@
+name: "ansible.module_gconftool2"
+version: "2.8.0"
+description: "Edit GNOME Configurations"
+authors: ['Kenneth D. Evensen (@kevensen)']
+license: "GPL-3.0-or-later"

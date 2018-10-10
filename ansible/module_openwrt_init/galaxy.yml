@@ -1,0 +1,5 @@
+name: "ansible.module_openwrt_init"
+version: "2.8.0"
+description: "Manage services on OpenWrt"
+authors: ['Andrew Gaffney (@agaffney)']
+license: "GPL-3.0-or-later"

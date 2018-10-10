@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_guest_powerstate"
+version: "2.8.0"
+description: "Manages power states of virtual machines in vCenter"
+authors: ['Abhijeet Kasurde (@Akasurde) <akasurde@redhat.com>']
+license: "GPL-3.0-or-later"

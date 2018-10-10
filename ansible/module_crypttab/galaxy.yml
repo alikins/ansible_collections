@@ -1,0 +1,5 @@
+name: "ansible.module_crypttab"
+version: "2.8.0"
+description: "Encrypted Linux block devices"
+authors: ['Steve (@groks)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_updates"
+version: "2.8.0"
+description: "Download and install Windows updates"
+authors: ['Matt Davis (@nitzmahone)']
+license: "GPL-3.0-or-later"

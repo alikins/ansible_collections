@@ -1,0 +1,5 @@
+name: "ansible.module_os_quota"
+version: "2.8.0"
+description: "Manage OpenStack Quotas"
+authors: ['Michael Gale (gale.michael@gmail.com)']
+license: "GPL-3.0-or-later"

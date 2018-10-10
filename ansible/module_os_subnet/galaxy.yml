@@ -1,0 +1,5 @@
+name: "ansible.module_os_subnet"
+version: "2.8.0"
+description: "Add/Remove subnet to an OpenStack network"
+authors: ['Monty Taylor (@emonty)']
+license: "GPL-3.0-or-later"

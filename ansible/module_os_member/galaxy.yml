@@ -1,0 +1,5 @@
+name: "ansible.module_os_member"
+version: "2.8.0"
+description: "Add/Delete a member for a pool in load balancer from OpenStack Cloud"
+authors: ['Lingxian Kong (@lingxiankong)']
+license: "GPL-3.0-or-later"

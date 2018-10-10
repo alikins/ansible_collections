@@ -1,0 +1,5 @@
+name: "ansible.module_gunicorn"
+version: "2.8.0"
+description: "Run gunicorn with various settings"
+authors: ['Alejandro Gomez (@agmezr)']
+license: "GPL-3.0-or-later"

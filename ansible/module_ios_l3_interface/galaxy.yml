@@ -1,0 +1,5 @@
+name: "ansible.module_ios_l3_interface"
+version: "2.8.0"
+description: "Manage Layer-3 interfaces on Cisco IOS network devices"
+authors: ['Ganesh Nalawade (@ganeshrn)']
+license: "GPL-3.0-or-later"

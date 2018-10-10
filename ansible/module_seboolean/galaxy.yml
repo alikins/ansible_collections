@@ -1,0 +1,5 @@
+name: "ansible.module_seboolean"
+version: "2.8.0"
+description: "Toggles SELinux booleans"
+authors: ['Stephen Fromm (@sfromm)']
+license: "GPL-3.0-or-later"

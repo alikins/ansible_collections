@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_host_service_facts"
+version: "2.8.0"
+description: "Gathers facts about an ESXi host's services"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

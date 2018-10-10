@@ -1,0 +1,5 @@
+name: "ansible.module_dpkg_selections"
+version: "2.8.0"
+description: "Dpkg package selection selections"
+authors: ['Brian Brazil (@brian-brazil) <brian.brazil@boxever.com>']
+license: "GPL-3.0-or-later"

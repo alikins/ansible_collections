@@ -1,0 +1,5 @@
+name: "ansible.module_cronvar"
+version: "2.8.0"
+description: "Manage variables in crontabs"
+authors: ['Doug Luce (@dougluce)']
+license: "GPL-3.0-or-later"

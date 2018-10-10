@@ -1,0 +1,5 @@
+name: "ansible.module_openssl_privatekey"
+version: "2.8.0"
+description: "Generate OpenSSL private keys"
+authors: ['Yanis Guenane (@Spredzy)']
+license: "GPL-3.0-or-later"

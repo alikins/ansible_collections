@@ -1,0 +1,5 @@
+name: "ansible.module_sns_topic"
+version: "2.8.0"
+description: "Manages AWS SNS topics and subscriptions"
+authors: ['Joel Thompson (@joelthompson)', 'Fernando Jose Pando (@nand0p)', 'Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

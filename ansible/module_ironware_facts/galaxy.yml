@@ -1,0 +1,5 @@
+name: "ansible.module_ironware_facts"
+version: "2.8.0"
+description: "Collect facts from devices running Extreme Ironware"
+authors: ['Paul Baker (@paulquack)']
+license: "GPL-3.0-or-later"

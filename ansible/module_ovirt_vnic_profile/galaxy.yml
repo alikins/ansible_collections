@@ -1,0 +1,5 @@
+name: "ansible.module_ovirt_vnic_profile"
+version: "2.8.0"
+description: "Module to manage vNIC profile of network in oVirt/RHV"
+authors: ['Ondra Machacek (@machacekondra)', 'Martin Necas (@mnecas)']
+license: "GPL-3.0-or-later"

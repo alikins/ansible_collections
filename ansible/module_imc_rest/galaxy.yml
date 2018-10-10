@@ -1,0 +1,5 @@
+name: "ansible.module_imc_rest"
+version: "2.8.0"
+description: "Manage Cisco IMC hardware through its REST API"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

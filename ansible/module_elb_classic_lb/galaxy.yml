@@ -1,0 +1,5 @@
+name: "ansible.module_elb_classic_lb"
+version: "2.8.0"
+description: "Creates or destroys Amazon ELB"
+authors: ['Jim Dalton (@jsdalton)']
+license: "GPL-3.0-or-later"

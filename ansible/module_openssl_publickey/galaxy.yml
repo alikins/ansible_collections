@@ -1,0 +1,5 @@
+name: "ansible.module_openssl_publickey"
+version: "2.8.0"
+description: "Generate an OpenSSL public key from its private key"
+authors: ['Yanis Guenane (@Spredzy)']
+license: "GPL-3.0-or-later"

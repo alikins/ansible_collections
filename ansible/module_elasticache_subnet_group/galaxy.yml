@@ -1,0 +1,5 @@
+name: "ansible.module_elasticache_subnet_group"
+version: "2.8.0"
+description: "manage Elasticache subnet groups"
+authors: ['Tim Mahoney (@timmahoney)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_tag"
+version: "2.8.0"
+description: "create and remove tags on ec2 resources"
+authors: ['Lester Wade (@lwade)', 'Paul Arthur (@flowerysong)']
+license: "GPL-3.0-or-later"

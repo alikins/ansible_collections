@@ -1,0 +1,5 @@
+name: "ansible.module_gcpubsub"
+version: "2.8.0"
+description: "Create and Delete Topics/Subscriptions, Publish and pull messages on PubSub"
+authors: ['Tom Melendez (@supertom) <tom@supertom.com>']
+license: "GPL-3.0-or-later"

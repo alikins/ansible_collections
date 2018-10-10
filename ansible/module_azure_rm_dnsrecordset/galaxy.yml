@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_dnsrecordset"
+version: "2.8.0"
+description: "Create, delete and update DNS record sets and records"
+authors: ['Obezimnaka Boms (@ozboms)', 'Matt Davis (@nitzmahone)']
+license: "GPL-3.0-or-later"

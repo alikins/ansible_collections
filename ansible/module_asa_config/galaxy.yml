@@ -1,0 +1,5 @@
+name: "ansible.module_asa_config"
+version: "2.8.0"
+description: "Manage configuration sections on Cisco ASA devices"
+authors: ['Peter Sprygada (@privateip), Patrick Ogenstad (@ogenstad)']
+license: "GPL-3.0-or-later"

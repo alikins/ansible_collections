@@ -1,0 +1,5 @@
+name: "ansible.module_scaleway_volume"
+version: "2.8.0"
+description: "Scaleway volumes management module"
+authors: ['Henryk Konsek (@hekonsek)']
+license: "GPL-3.0-or-later"

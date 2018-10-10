@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_snmp_community"
+version: "2.8.0"
+description: "Manages SNMP community configs"
+authors: ['Jason Edelman (@jedelman8)', 'Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

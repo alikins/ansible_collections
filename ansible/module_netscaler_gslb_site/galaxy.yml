@@ -1,0 +1,5 @@
+name: "ansible.module_netscaler_gslb_site"
+version: "2.8.0"
+description: "Manage gslb site entities in Netscaler"
+authors: ['George Nikolopoulos (@giorgos-nikolopoulos)']
+license: "GPL-3.0-or-later"

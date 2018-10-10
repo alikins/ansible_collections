@@ -1,0 +1,5 @@
+name: "ansible.module_pagerduty_alert"
+version: "2.8.0"
+description: "Trigger, acknowledge or resolve PagerDuty incidents"
+authors: ['Amanpreet Singh (@ApsOps)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_cloudfront_distribution"
+version: "2.8.0"
+description: "create, update and delete aws cloudfront distributions"
+authors: ['Willem van Ketwich (@wilvk)', 'Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

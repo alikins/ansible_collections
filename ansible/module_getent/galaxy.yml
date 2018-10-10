@@ -1,0 +1,5 @@
+name: "ansible.module_getent"
+version: "2.8.0"
+description: "A wrapper to the unix getent utility"
+authors: ['Brian Coca (@bcoca)']
+license: "GPL-3.0-or-later"

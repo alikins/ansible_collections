@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_guest"
+version: "2.8.0"
+description: "Manages virtual machines in vCenter"
+authors: ['Loic Blot (@nerzhul) <loic.blot@unix-experience.fr>', 'Philippe Dellaert (@pdellaert) <philippe@dellaert.org>', 'Abhijeet Kasurde (@Akasurde) <akasurde@redhat.com>']
+license: "GPL-3.0-or-later"

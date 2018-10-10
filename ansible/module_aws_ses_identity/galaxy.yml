@@ -1,0 +1,5 @@
+name: "ansible.module_aws_ses_identity"
+version: "2.8.0"
+description: "Manages SES email and domain identity"
+authors: ['Ed Costello    (@orthanc)']
+license: "GPL-3.0-or-later"

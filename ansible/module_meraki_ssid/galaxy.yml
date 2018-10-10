@@ -1,0 +1,5 @@
+name: "ansible.module_meraki_ssid"
+version: "2.8.0"
+description: "Manage wireless SSIDs in the Meraki cloud"
+authors: ['Kevin Breit (@kbreit)']
+license: "GPL-3.0-or-later"

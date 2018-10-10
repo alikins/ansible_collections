@@ -1,0 +1,5 @@
+name: "ansible.module_hostname"
+version: "2.8.0"
+description: "Manage hostname"
+authors: ['Adrian Likins (@alikins)', 'Hideki Saito (@saito-hideki)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,44 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Web Infrastructure modules
+license: GPL-3.0-or-later
+name: ansible.module_category_web_infrastructure
+requirements:
+- ansible.module_supervisorctl
+- ansible.module_apache2_module
+- ansible.module_apache2_mod_proxy
+- ansible.module_jboss
+- ansible.module_rundeck_project
+- ansible.module_taiga_issue
+- ansible.module_jira
+- ansible.module_htpasswd
+- ansible.module_rundeck_acl_policy
+- ansible.module_jenkins_job_facts
+- ansible.module_jenkins_script
+- ansible.module_gunicorn
+- ansible.module_ejabberd_user
+- ansible.module_deploy_helper
+- ansible.module_django_manage
+- ansible.module_jenkins_job
+- ansible.module_jenkins_plugin
+- ansible.module_nginx_status_facts
+- ansible.module_tower_team
+- ansible.module_tower_inventory_source
+- ansible.module_tower_credential
+- ansible.module_tower_user
+- ansible.module_tower_host
+- ansible.module_tower_job_launch
+- ansible.module_tower_credential_type
+- ansible.module_tower_role
+- ansible.module_tower_inventory
+- ansible.module_tower_settings
+- ansible.module_tower_workflow_template
+- ansible.module_tower_group
+- ansible.module_tower_organization
+- ansible.module_tower_job_cancel
+- ansible.module_tower_job_template
+- ansible.module_tower_label
+- ansible.module_tower_job_wait
+- ansible.module_tower_job_list
+- ansible.module_tower_project
+version: 2.8.0

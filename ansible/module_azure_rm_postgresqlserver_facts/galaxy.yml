@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_postgresqlserver_facts"
+version: "2.8.0"
+description: "Get Azure PostgreSQL Server facts"
+authors: ['Zim Kalinowski (@zikalino)']
+license: "GPL-3.0-or-later"

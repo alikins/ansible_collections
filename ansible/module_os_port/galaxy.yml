@@ -1,0 +1,5 @@
+name: "ansible.module_os_port"
+version: "2.8.0"
+description: "Add/Update/Delete ports from an OpenStack cloud"
+authors: ['Davide Agnello (@dagnello)']
+license: "GPL-3.0-or-later"

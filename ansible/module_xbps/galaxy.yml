@@ -1,0 +1,5 @@
+name: "ansible.module_xbps"
+version: "2.8.0"
+description: "Manage packages with XBPS"
+authors: ['Dino Occhialini (@dinoocch)', 'Michael Aldridge (@the-maldridge)']
+license: "GPL-3.0-or-later"

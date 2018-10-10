@@ -1,0 +1,5 @@
+name: "ansible.module_clc_aa_policy"
+version: "2.8.0"
+description: "Create or Delete Anti Affinity Policies at CenturyLink Cloud"
+authors: ['CLC Runner (@clc-runner)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_apt_key"
+version: "2.8.0"
+description: "Add or remove an apt key"
+authors: ['Jayson Vantuyl (@jvantuyl)']
+license: "GPL-3.0-or-later"

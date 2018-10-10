@@ -1,0 +1,5 @@
+name: "ansible.module_mssql_db"
+version: "2.8.0"
+description: "Add or remove MSSQL databases from a remote host"
+authors: ['Vedit Firat Arig (@vedit)']
+license: "GPL-3.0-or-later"

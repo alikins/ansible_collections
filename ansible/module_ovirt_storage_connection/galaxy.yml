@@ -1,0 +1,5 @@
+name: "ansible.module_ovirt_storage_connection"
+version: "2.8.0"
+description: "Module to manage storage connections in oVirt"
+authors: ['Ondra Machacek (@machacekondra)']
+license: "GPL-3.0-or-later"

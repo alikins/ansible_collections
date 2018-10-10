@@ -1,0 +1,5 @@
+name: "ansible.module_python_requirements_facts"
+version: "2.8.0"
+description: "Show python path and assert dependency versions"
+authors: ['Will Thames (@willthames)', 'Ryan Scott Brown (@ryan_sb)']
+license: "GPL-3.0-or-later"

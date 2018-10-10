@@ -1,0 +1,5 @@
+name: "ansible.module_redshift_facts"
+version: "2.8.0"
+description: "Gather facts about Redshift cluster(s)"
+authors: ['Jens Carl (@j-carl)']
+license: "GPL-3.0-or-later"

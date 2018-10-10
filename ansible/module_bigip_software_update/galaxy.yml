@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_software_update"
+version: "2.8.0"
+description: "Manage the software update settings of a BIG-IP"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_lldp"
+version: "2.8.0"
+description: "get details reported by lldp"
+authors: ['Andy Hill (@andyhky)']
+license: "GPL-3.0-or-later"

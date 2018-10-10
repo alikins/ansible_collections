@@ -1,0 +1,5 @@
+name: "ansible.module_bundler"
+version: "2.8.0"
+description: "Manage Ruby Gem dependencies with Bundler"
+authors: ['Tim Hoiberg (@thoiberg)']
+license: "GPL-3.0-or-later"

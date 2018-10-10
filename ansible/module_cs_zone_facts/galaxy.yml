@@ -1,0 +1,5 @@
+name: "ansible.module_cs_zone_facts"
+version: "2.8.0"
+description: "Gathering facts of zones from Apache CloudStack based clouds"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

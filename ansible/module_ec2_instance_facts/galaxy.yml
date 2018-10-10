@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_instance_facts"
+version: "2.8.0"
+description: "Gather facts about ec2 instances in AWS"
+authors: ['Michael Schuett (@michaeljs1990)', 'Rob White (@wimnat)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_cyberark_authentication"
+version: "2.8.0"
+description: "Module for CyberArk Vault Authentication using PAS Web Services SDK"
+authors: ['Edward Nunez @ CyberArk BizDev (@enunez-cyberark, @cyberark-bizdev, @erasmix)']
+license: "GPL-3.0-or-later"

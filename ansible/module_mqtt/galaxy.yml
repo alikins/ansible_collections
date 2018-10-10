@@ -1,0 +1,5 @@
+name: "ansible.module_mqtt"
+version: "2.8.0"
+description: "Publish a message on an MQTT topic for the IoT"
+authors: ['Jan-Piet Mens (@jpmens)']
+license: "GPL-3.0-or-later"

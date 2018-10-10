@@ -1,0 +1,5 @@
+name: "ansible.module_gce_img"
+version: "2.8.0"
+description: "utilize GCE image resources"
+authors: ['Tom Melendez (supertom)']
+license: "GPL-3.0-or-later"

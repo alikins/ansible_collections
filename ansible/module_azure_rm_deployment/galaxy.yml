@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_deployment"
+version: "2.8.0"
+description: "Create or destroy Azure Resource Manager template deployments"
+authors: ['David Justice (@devigned)', 'Laurent Mazuel (@lmazuel)', 'Andre Price (@obsoleted)']
+license: "GPL-3.0-or-later"

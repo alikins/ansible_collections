@@ -1,0 +1,5 @@
+name: "ansible.module_bower"
+version: "2.8.0"
+description: "Manage bower packages with bower"
+authors: ['Michael Warkentin (@mwarkentin)']
+license: "GPL-3.0-or-later"

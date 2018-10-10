@@ -1,0 +1,5 @@
+name: "ansible.module_digital_ocean_block_storage"
+version: "2.8.0"
+description: "Create/destroy or attach/detach Block Storage volumes in DigitalOcean"
+authors: ['Harnek Sidhu (github: @harneksidhu)']
+license: "GPL-3.0-or-later"

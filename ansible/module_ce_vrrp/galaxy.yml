@@ -1,0 +1,5 @@
+name: "ansible.module_ce_vrrp"
+version: "2.8.0"
+description: "Manages VRRP interfaces on HUAWEI CloudEngine devices"
+authors: ['Li Yanfeng (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

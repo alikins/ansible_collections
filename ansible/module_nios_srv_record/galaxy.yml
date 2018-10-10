@@ -1,0 +1,5 @@
+name: "ansible.module_nios_srv_record"
+version: "2.8.0"
+description: "Configure Infoblox NIOS SRV records"
+authors: ['Blair Rampling (@brampling)']
+license: "GPL-3.0-or-later"

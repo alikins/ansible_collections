@@ -1,0 +1,5 @@
+name: "ansible.module_win_iis_webapppool"
+version: "2.8.0"
+description: "Configure IIS Web Application Pools"
+authors: ['Henrik Wallström (@henrikwallstrom)', 'Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

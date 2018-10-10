@@ -1,0 +1,5 @@
+name: "ansible.module_routeros_facts"
+version: "2.8.0"
+description: "Collect facts from remote devices running MikroTik RouterOS"
+authors: ['Egor Zaitsev (@heuels)']
+license: "GPL-3.0-or-later"

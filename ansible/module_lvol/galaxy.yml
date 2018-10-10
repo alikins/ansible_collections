@@ -1,0 +1,5 @@
+name: "ansible.module_lvol"
+version: "2.8.0"
+description: "Configure LVM logical volumes"
+authors: ['Jeroen Hoekx (@jhoekx)', 'Alexander Bulimov (@abulimov)']
+license: "GPL-3.0-or-later"

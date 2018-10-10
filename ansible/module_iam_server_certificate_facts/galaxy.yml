@@ -1,0 +1,5 @@
+name: "ansible.module_iam_server_certificate_facts"
+version: "2.8.0"
+description: "Retrieve the facts of a server certificate"
+authors: ['Allen Sanabria (@linuxdynasty)']
+license: "GPL-3.0-or-later"

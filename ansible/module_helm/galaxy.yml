@@ -1,0 +1,5 @@
+name: "ansible.module_helm"
+version: "2.8.0"
+description: "Manages Kubernetes packages with the Helm package manager"
+authors: ['Flavio Percoco (flaper87)']
+license: "GPL-3.0-or-later"

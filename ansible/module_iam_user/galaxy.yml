@@ -1,0 +1,5 @@
+name: "ansible.module_iam_user"
+version: "2.8.0"
+description: "Manage AWS IAM users"
+authors: ['Josh Souza, @joshsouza']
+license: "GPL-3.0-or-later"

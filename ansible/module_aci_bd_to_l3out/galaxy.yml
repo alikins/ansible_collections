@@ -1,0 +1,5 @@
+name: "ansible.module_aci_bd_to_l3out"
+version: "2.8.0"
+description: "Bind Bridge Domain to L3 Out (fv:RsBDToOut)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_route_table"
+version: "2.8.0"
+description: "Manage route tables for AWS virtual private clouds"
+authors: ['Robert Estelle (@erydo)', 'Rob White (@wimnat)', 'Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

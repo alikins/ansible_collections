@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_udld"
+version: "2.8.0"
+description: "Manages UDLD global configuration params"
+authors: ['Jason Edelman (@jedelman8)']
+license: "GPL-3.0-or-later"

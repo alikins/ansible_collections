@@ -1,0 +1,5 @@
+name: "ansible.module_etcd3"
+version: "2.8.0"
+description: "Set or delete key value pairs from an etcd3 cluster"
+authors: ['Jean-Philippe Evrard (@evrardjp)']
+license: "GPL-3.0-or-later"

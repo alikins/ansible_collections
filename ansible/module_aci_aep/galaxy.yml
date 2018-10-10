@@ -1,0 +1,5 @@
+name: "ansible.module_aci_aep"
+version: "2.8.0"
+description: "Manage attachable Access Entity Profile (AEP) objects (infra:AttEntityP, infra:ProvAcc)"
+authors: ['Swetha Chunduri (@schunduri)']
+license: "GPL-3.0-or-later"

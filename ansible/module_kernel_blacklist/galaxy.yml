@@ -1,0 +1,5 @@
+name: "ansible.module_kernel_blacklist"
+version: "2.8.0"
+description: "Blacklist kernel modules"
+authors: ['Matthias Vogelgesang (@matze)']
+license: "GPL-3.0-or-later"

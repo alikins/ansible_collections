@@ -1,0 +1,5 @@
+name: "ansible.module_supervisorctl"
+version: "2.8.0"
+description: "Manage the state of a program or group of programs running via supervisord"
+authors: ['Matt Wright (@mattupstate)', 'Aaron Wang (@inetfuture) <inetfuture@gmail.com>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_at"
+version: "2.8.0"
+description: "Schedule the execution of a command or script file via the at command"
+authors: ['Richard Isaacson (@risaacson)']
+license: "GPL-3.0-or-later"

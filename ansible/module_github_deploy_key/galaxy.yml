@@ -1,0 +1,5 @@
+name: "ansible.module_github_deploy_key"
+version: "2.8.0"
+description: "Manages deploy keys for GitHub repositories"
+authors: ['Ali (@bincyber)']
+license: "GPL-3.0-or-later"

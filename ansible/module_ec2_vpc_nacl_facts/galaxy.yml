@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_nacl_facts"
+version: "2.8.0"
+description: "Gather facts about Network ACLs in an AWS VPC"
+authors: ['Brad Davidson (@brandond)']
+license: "GPL-3.0-or-later"

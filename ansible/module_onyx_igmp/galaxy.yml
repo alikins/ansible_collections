@@ -1,0 +1,5 @@
+name: "ansible.module_onyx_igmp"
+version: "2.8.0"
+description: "Configures IGMP globl parameters"
+authors: ['Samer Deeb (@samerd)']
+license: "GPL-3.0-or-later"

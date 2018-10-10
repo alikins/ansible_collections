@@ -1,0 +1,5 @@
+name: "ansible.module_firewalld"
+version: "2.8.0"
+description: "Manage arbitrary ports/services with firewalld"
+authors: ['Adam Miller (@maxamillion)']
+license: "GPL-3.0-or-later"

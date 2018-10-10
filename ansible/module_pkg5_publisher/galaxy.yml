@@ -1,0 +1,5 @@
+name: "ansible.module_pkg5_publisher"
+version: "2.8.0"
+description: "Manages Solaris 11 Image Packaging System publishers"
+authors: ['Peter Oliver (@mavit)']
+license: "GPL-3.0-or-later"

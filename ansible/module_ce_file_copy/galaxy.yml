@@ -1,0 +1,5 @@
+name: "ansible.module_ce_file_copy"
+version: "2.8.0"
+description: "Copy a file to a remote cloudengine device over SCP on HUAWEI CloudEngine switches"
+authors: ['Zhou Zhijin (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_domain_controller"
+version: "2.8.0"
+description: "Manage domain controller/member server state for a Windows host"
+authors: ['Matt Davis (@nitzmahone)']
+license: "GPL-3.0-or-later"

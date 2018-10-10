@@ -1,0 +1,5 @@
+name: "ansible.module_sqs_queue"
+version: "2.8.0"
+description: "Creates or deletes AWS SQS queues"
+authors: ['Alan Loi (@loia)', 'Fernando Jose Pando (@nand0p)', 'Nadir Lloret (@nadirollo)']
+license: "GPL-3.0-or-later"

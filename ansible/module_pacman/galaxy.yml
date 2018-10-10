@@ -1,0 +1,5 @@
+name: "ansible.module_pacman"
+version: "2.8.0"
+description: "Manage packages with *pacman*"
+authors: ['Indrajit Raychaudhuri (@indrajitr)', 'Aaron Bull Schaefer (@elasticdog) <aaron@elasticdog.com>', 'Afterburn']
+license: "GPL-3.0-or-later"

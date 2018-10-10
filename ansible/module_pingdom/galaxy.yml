@@ -1,0 +1,5 @@
+name: "ansible.module_pingdom"
+version: "2.8.0"
+description: "Pause/unpause Pingdom alerts"
+authors: ['Dylan Silva (@thaumos)', 'Justin Johns']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_reboot"
+version: "2.8.0"
+description: "Reboot a windows machine"
+authors: ['Matt Davis (@nitzmahone)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_route53_zone"
+version: "2.8.0"
+description: "add or delete Route53 zones"
+authors: ['Christopher Troup (@minichate)']
+license: "GPL-3.0-or-later"

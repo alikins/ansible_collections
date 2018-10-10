@@ -1,0 +1,5 @@
+name: "ansible.module_aci_interface_policy_lldp"
+version: "2.8.0"
+description: "Manage LLDP interface policies (lldp:IfPol)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

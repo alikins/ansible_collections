@@ -1,0 +1,5 @@
+name: "ansible.module_ce_bgp_neighbor_af"
+version: "2.8.0"
+description: "Manages BGP neighbor Address-family configuration on HUAWEI CloudEngine switches"
+authors: ['wangdezhuang (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

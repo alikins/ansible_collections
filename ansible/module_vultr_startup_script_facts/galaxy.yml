@@ -1,0 +1,5 @@
+name: "ansible.module_vultr_startup_script_facts"
+version: "2.8.0"
+description: "Gather facts about the Vultr startup scripts available"
+authors: ['Yanis Guenane (@Spredzy)']
+license: "GPL-3.0-or-later"

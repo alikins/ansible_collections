@@ -1,0 +1,5 @@
+name: "ansible.module_win_audit_policy_system"
+version: "2.8.0"
+description: "Used to make changes to the system wide Audit Policy"
+authors: ['Noah Sparks (@nwsparks)']
+license: "GPL-3.0-or-later"

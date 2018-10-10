@@ -1,0 +1,5 @@
+name: "ansible.module_win_chocolatey_facts"
+version: "2.8.0"
+description: "Create a facts collection for Chocolatey"
+authors: ['Simon Bärlocher (@sbaerlocher)', 'ITIGO AG (@itigoag)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_k8s_facts"
+version: "2.8.0"
+description: "Describe Kubernetes (K8s) objects"
+authors: ['Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

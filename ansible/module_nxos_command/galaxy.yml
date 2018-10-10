@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_command"
+version: "2.8.0"
+description: "Run arbitrary command on Cisco NXOS devices"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

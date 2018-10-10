@@ -1,0 +1,5 @@
+name: "ansible.module_memset_zone_domain"
+version: "2.8.0"
+description: "Create and delete domains in Memset DNS zones"
+authors: ['Simon Weald (@analbeard)']
+license: "GPL-3.0-or-later"

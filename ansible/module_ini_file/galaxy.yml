@@ -1,0 +1,5 @@
+name: "ansible.module_ini_file"
+version: "2.8.0"
+description: "Tweak settings in INI files"
+authors: ['Jan-Piet Mens (@jpmens)', 'Ales Nosek (@noseka1)']
+license: "GPL-3.0-or-later"

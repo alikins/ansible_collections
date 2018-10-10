@@ -1,0 +1,5 @@
+name: "ansible.module_gcp_compute_instance_group_manager"
+version: "2.8.0"
+description: "Creates a GCP InstanceGroupManager"
+authors: ['Google Inc. (@googlecloudplatform)']
+license: "GPL-3.0-or-later"

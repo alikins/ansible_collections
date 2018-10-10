@@ -1,0 +1,5 @@
+name: "ansible.module_github_release"
+version: "2.8.0"
+description: "Interact with GitHub Releases"
+authors: ['Adrian Moisey (@adrianmoisey)']
+license: "GPL-3.0-or-later"

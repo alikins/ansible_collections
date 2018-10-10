@@ -1,0 +1,5 @@
+name: "ansible.module_proxmox_kvm"
+version: "2.8.0"
+description: "Management of Qemu(KVM) Virtual Machines in Proxmox VE cluster"
+authors: ['Abdoul Bah (@helldorado) <bahabdoul at gmail.com>']
+license: "GPL-3.0-or-later"

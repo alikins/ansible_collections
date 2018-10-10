@@ -1,0 +1,5 @@
+name: "ansible.module_awall"
+version: "2.8.0"
+description: "Manage awall policies"
+authors: ['Ted Trask (@tdtrask) <ttrask01@yahoo.com>']
+license: "GPL-3.0-or-later"

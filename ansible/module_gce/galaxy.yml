@@ -1,0 +1,5 @@
+name: "ansible.module_gce"
+version: "2.8.0"
+description: "create or terminate GCE instances"
+authors: ['Eric Johnson (@erjohnso) <erjohnso@google.com>, Tom Melendez (@supertom) <supertom@google.com>']
+license: "GPL-3.0-or-later"

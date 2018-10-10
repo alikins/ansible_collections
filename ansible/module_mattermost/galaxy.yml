@@ -1,0 +1,5 @@
+name: "ansible.module_mattermost"
+version: "2.8.0"
+description: "Send Mattermost notifications"
+authors: ['Benjamin Jolivot (@bjolivot)']
+license: "GPL-3.0-or-later"

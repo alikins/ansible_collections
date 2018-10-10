@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_facts"
+version: "2.8.0"
+description: "Collect facts from F5 BIG-IP devices"
+authors: ['Matt Hite (@mhite)', 'Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

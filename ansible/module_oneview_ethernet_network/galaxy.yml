@@ -1,0 +1,5 @@
+name: "ansible.module_oneview_ethernet_network"
+version: "2.8.0"
+description: "Manage OneView Ethernet Network resources"
+authors: ['Felipe Bulsoni (@fgbulsoni)', 'Thiago Miotto (@tmiotto)', 'Adriane Cardozo (@adriane-cardozo)']
+license: "GPL-3.0-or-later"

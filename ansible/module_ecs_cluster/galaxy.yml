@@ -1,0 +1,5 @@
+name: "ansible.module_ecs_cluster"
+version: "2.8.0"
+description: "create or terminate ecs clusters"
+authors: ['Mark Chance (@Java1Guy)']
+license: "GPL-3.0-or-later"

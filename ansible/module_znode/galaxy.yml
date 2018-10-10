@@ -1,0 +1,5 @@
+name: "ansible.module_znode"
+version: "2.8.0"
+description: "Create, delete, retrieve, and update znodes using ZooKeeper"
+authors: ['Trey Perry (@treyperry)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_panos_set"
+version: "2.8.0"
+description: "Execute arbitrary commands on a PAN-OS device using XPath and element"
+authors: ['Jasper Mackenzie']
+license: "GPL-3.0-or-later"

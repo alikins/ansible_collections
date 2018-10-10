@@ -1,0 +1,5 @@
+name: "ansible.module_ordnance_config"
+version: "2.8.0"
+description: "Manage Ordnance configuration sections"
+authors: ['Alexander Turner (alex.turner@ordnance.io)']
+license: "GPL-3.0-or-later"

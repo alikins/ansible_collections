@@ -1,0 +1,5 @@
+name: "ansible.module_win_firewall"
+version: "2.8.0"
+description: "Enable or disable the Windows Firewall"
+authors: ['Michael Eaton (@if-meaton)']
+license: "GPL-3.0-or-later"

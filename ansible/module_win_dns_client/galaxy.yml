@@ -1,0 +1,5 @@
+name: "ansible.module_win_dns_client"
+version: "2.8.0"
+description: "Configures DNS lookup on Windows hosts"
+authors: ['Matt Davis (@nitzmahone)']
+license: "GPL-3.0-or-later"

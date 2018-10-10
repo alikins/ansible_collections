@@ -1,0 +1,5 @@
+name: "ansible.module_vertica_configuration"
+version: "2.8.0"
+description: "Updates Vertica configuration parameters"
+authors: ['Dariusz Owczarek (@dareko)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ironware_config"
+version: "2.8.0"
+description: "Manage configuration sections on Extreme Ironware devices"
+authors: ['Paul Baker (@paulquack)']
+license: "GPL-3.0-or-later"

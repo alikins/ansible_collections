@@ -1,0 +1,5 @@
+name: "ansible.module_setup"
+version: "2.8.0"
+description: "Gathers facts about remote hosts"
+authors: ['Ansible Core Team', 'Michael DeHaan', "David O'Brien @david_obrien davidobrien1985"]
+license: "GPL-3.0-or-later"

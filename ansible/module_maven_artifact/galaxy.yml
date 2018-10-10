@@ -1,0 +1,5 @@
+name: "ansible.module_maven_artifact"
+version: "2.8.0"
+description: "Downloads an Artifact from a Maven Repository"
+authors: ['Chris Schmidt (@chrisisbeef)']
+license: "GPL-3.0-or-later"

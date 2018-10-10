@@ -1,0 +1,5 @@
+name: "ansible.module_rabbitmq_user"
+version: "2.8.0"
+description: "Adds or removes users to RabbitMQ"
+authors: ['"Chris Hoffman (@chrishoffman)"']
+license: "GPL-3.0-or-later"

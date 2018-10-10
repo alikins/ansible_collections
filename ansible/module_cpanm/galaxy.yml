@@ -1,0 +1,5 @@
+name: "ansible.module_cpanm"
+version: "2.8.0"
+description: "Manages Perl library dependencies"
+authors: ['Franck Cuny (@fcuny)']
+license: "GPL-3.0-or-later"

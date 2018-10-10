@@ -1,0 +1,5 @@
+name: "ansible.module_ios_linkagg"
+version: "2.8.0"
+description: "Manage link aggregation groups on Cisco IOS network devices"
+authors: ['Trishna Guha (@trishnaguha)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_aci_switch_policy_leaf_profile"
+version: "2.8.0"
+description: "Manage switch policy leaf profiles (infra:NodeP)"
+authors: ['Bruno Calogero (@brunocalogero)']
+license: "GPL-3.0-or-later"

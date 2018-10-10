@@ -1,0 +1,5 @@
+name: "ansible.module_os_floating_ip"
+version: "2.8.0"
+description: "Add/Remove floating IP from an instance"
+authors: ['Davide Guerri (@dguerri) <davide.guerri@hp.com>']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ios_ping"
+version: "2.8.0"
+description: "Tests reachability using ping from Cisco IOS network devices"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

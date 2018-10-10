@@ -1,0 +1,5 @@
+name: "ansible.module_aws_ses_identity_policy"
+version: "2.8.0"
+description: "Manages SES sending authorization policies"
+authors: ['Ed Costello    (@orthanc)']
+license: "GPL-3.0-or-later"

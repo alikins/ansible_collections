@@ -1,0 +1,5 @@
+name: "ansible.module_grafana_plugin"
+version: "2.8.0"
+description: "Manage Grafana plugins via grafana-cli"
+authors: ['Thierry Sallé (@tsalle)']
+license: "GPL-3.0-or-later"

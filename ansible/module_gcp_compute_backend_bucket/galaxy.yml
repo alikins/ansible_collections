@@ -1,0 +1,5 @@
+name: "ansible.module_gcp_compute_backend_bucket"
+version: "2.8.0"
+description: "Creates a GCP BackendBucket"
+authors: ['Google Inc. (@googlecloudplatform)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_pagerduty"
+version: "2.8.0"
+description: "Create PagerDuty maintenance windows"
+authors: ['Andrew Newdigate (@suprememoocow)', 'Dylan Silva (@thaumos)', 'Justin Johns', 'Bruce Pennypacker']
+license: "GPL-3.0-or-later"

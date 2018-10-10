@@ -1,0 +1,5 @@
+name: "ansible.module_docker_swarm_service"
+version: "2.8.0"
+description: "docker swarm service"
+authors: ['Dario Zanzico (@dariko), Jason Witkowski (@jwitko)']
+license: "GPL-3.0-or-later"

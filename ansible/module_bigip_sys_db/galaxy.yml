@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_sys_db"
+version: "2.8.0"
+description: "Manage BIG-IP system database variables"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_gtm_pool_member"
+version: "2.8.0"
+description: "Manage GTM pool member settings"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

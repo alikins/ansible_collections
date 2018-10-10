@@ -1,0 +1,5 @@
+name: "ansible.module_package_facts"
+version: "2.8.0"
+description: "package information as facts"
+authors: ['Matthew Jones', 'Brian Coca', 'Adam Miller']
+license: "GPL-3.0-or-later"

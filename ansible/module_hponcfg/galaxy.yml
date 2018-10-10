@@ -1,0 +1,5 @@
+name: "ansible.module_hponcfg"
+version: "2.8.0"
+description: "Configure HP iLO interface using hponcfg"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

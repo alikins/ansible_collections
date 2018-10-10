@@ -1,0 +1,5 @@
+name: "ansible.module_kubernetes"
+version: "2.8.0"
+description: "Manage Kubernetes resources"
+authors: ['Eric Johnson (@erjohnso) <erjohnso@google.com>']
+license: "GPL-3.0-or-later"

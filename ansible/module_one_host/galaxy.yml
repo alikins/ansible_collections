@@ -1,0 +1,5 @@
+name: "ansible.module_one_host"
+version: "2.8.0"
+description: "Manages OpenNebula Hosts"
+authors: ['Rafael del Valle (@rvalle)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_scaling_policy"
+version: "2.8.0"
+description: "Create or delete AWS scaling policies for Autoscaling groups"
+authors: ['Zacharie Eakin (@zeekin)']
+license: "GPL-3.0-or-later"

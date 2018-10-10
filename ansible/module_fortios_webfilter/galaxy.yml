@@ -1,0 +1,5 @@
+name: "ansible.module_fortios_webfilter"
+version: "2.8.0"
+description: "Configure webfilter capabilities of FortiGate and FortiOS"
+authors: ['Miguel Angel Munoz (@mamunozgonzalez)', 'Nicolas Thomas (@thomnico)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_smtp"
+version: "2.8.0"
+description: "Manages SMTP settings on the BIG-IP"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

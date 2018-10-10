@@ -1,0 +1,5 @@
+name: "ansible.module_panos_security_rule"
+version: "2.8.0"
+description: "Create security rule policy on PAN-OS devices or Panorama management console"
+authors: ['Ivan Bojer (@ivanbojer), Robert Hagen (@rnh556)']
+license: "GPL-3.0-or-later"

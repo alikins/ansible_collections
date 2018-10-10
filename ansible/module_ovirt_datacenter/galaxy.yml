@@ -1,0 +1,5 @@
+name: "ansible.module_ovirt_datacenter"
+version: "2.8.0"
+description: "Module to manage data centers in oVirt/RHV"
+authors: ['Ondra Machacek (@machacekondra)']
+license: "GPL-3.0-or-later"

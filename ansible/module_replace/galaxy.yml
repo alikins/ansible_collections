@@ -1,0 +1,5 @@
+name: "ansible.module_replace"
+version: "2.8.0"
+description: "Replace all instances of a particular string in a file using a back-referenced regular expression"
+authors: ['Evan Kaufman (@EvanK)']
+license: "GPL-3.0-or-later"

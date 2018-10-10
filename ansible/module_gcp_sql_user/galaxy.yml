@@ -1,0 +1,5 @@
+name: "ansible.module_gcp_sql_user"
+version: "2.8.0"
+description: "Creates a GCP User"
+authors: ['Google Inc. (@googlecloudplatform)']
+license: "GPL-3.0-or-later"

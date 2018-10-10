@@ -1,0 +1,5 @@
+name: "ansible.module_gce_snapshot"
+version: "2.8.0"
+description: "Create or destroy snapshots for GCE storage volumes"
+authors: ['Rob Wagner (@robwagner33)']
+license: "GPL-3.0-or-later"

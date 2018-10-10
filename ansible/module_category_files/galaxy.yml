@@ -1,0 +1,27 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Files modules
+license: GPL-3.0-or-later
+name: ansible.module_category_files
+requirements:
+- ansible.module_unarchive
+- ansible.module_fetch
+- ansible.module_replace
+- ansible.module_synchronize
+- ansible.module_acl
+- ansible.module_patch
+- ansible.module_tempfile
+- ansible.module_blockinfile
+- ansible.module_copy
+- ansible.module_lineinfile
+- ansible.module_file
+- ansible.module_template
+- ansible.module_xattr
+- ansible.module_assemble
+- ansible.module_ini_file
+- ansible.module_xml
+- ansible.module_stat
+- ansible.module_find
+- ansible.module_iso_extract
+- ansible.module_archive
+version: 2.8.0

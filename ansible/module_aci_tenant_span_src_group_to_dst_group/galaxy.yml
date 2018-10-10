@@ -1,0 +1,5 @@
+name: "ansible.module_aci_tenant_span_src_group_to_dst_group"
+version: "2.8.0"
+description: "Bind SPAN source groups to destination groups (span:SpanLbl)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

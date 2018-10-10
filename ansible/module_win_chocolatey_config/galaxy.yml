@@ -1,0 +1,5 @@
+name: "ansible.module_win_chocolatey_config"
+version: "2.8.0"
+description: "Manages Chocolatey config settings"
+authors: ['Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_interfaces_file"
+version: "2.8.0"
+description: "Tweak settings in /etc/network/interfaces files"
+authors: ['Roman Belyakovsky (@hryamzik)']
+license: "GPL-3.0-or-later"

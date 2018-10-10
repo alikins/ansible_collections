@@ -1,0 +1,5 @@
+name: "ansible.module_file"
+version: "2.8.0"
+description: "Manage files and file properties"
+authors: ['Ansible Core Team', 'Michael DeHaan']
+license: "GPL-3.0-or-later"

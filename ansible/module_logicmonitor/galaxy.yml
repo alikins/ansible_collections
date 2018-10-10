@@ -1,0 +1,5 @@
+name: "ansible.module_logicmonitor"
+version: "2.8.0"
+description: "Manage your LogicMonitor account through Ansible Playbooks"
+authors: ['Ethan Culler-Mayeno (@ethanculler)', 'Jeff Wozniak (@woz5999)']
+license: "GPL-3.0-or-later"

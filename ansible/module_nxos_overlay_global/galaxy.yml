@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_overlay_global"
+version: "2.8.0"
+description: "Configures anycast gateway MAC of the switch"
+authors: ['Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

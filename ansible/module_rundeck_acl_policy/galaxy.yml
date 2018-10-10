@@ -1,0 +1,5 @@
+name: "ansible.module_rundeck_acl_policy"
+version: "2.8.0"
+description: "Manage Rundeck ACL policies"
+authors: ['Loic Blot (@nerzhul)']
+license: "GPL-3.0-or-later"

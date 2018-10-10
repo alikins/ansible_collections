@@ -1,0 +1,5 @@
+name: "ansible.module_consul_session"
+version: "2.8.0"
+description: "Manipulate consul sessions"
+authors: ['Steve Gargan (@sgargan)']
+license: "GPL-3.0-or-later"

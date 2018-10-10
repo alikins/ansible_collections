@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_datastore_cluster"
+version: "2.8.0"
+description: "Manage VMware vSphere datastore clusters"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

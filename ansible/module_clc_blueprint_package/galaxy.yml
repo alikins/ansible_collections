@@ -1,0 +1,5 @@
+name: "ansible.module_clc_blueprint_package"
+version: "2.8.0"
+description: "deploys a blue print package on a set of servers in CenturyLink Cloud"
+authors: ['CLC Runner (@clc-runner)']
+license: "GPL-3.0-or-later"

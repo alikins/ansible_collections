@@ -1,0 +1,5 @@
+name: "ansible.module_win_package"
+version: "2.8.0"
+description: "Installs/uninstalls an installable package"
+authors: ['Trond Hindenes (@trondhindenes)', 'Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

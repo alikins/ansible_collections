@@ -1,0 +1,5 @@
+name: "ansible.module_data_pipeline"
+version: "2.8.0"
+description: "Create and manage AWS Datapipelines"
+authors: ['Raghu Udiyar <raghusiddarth@gmail.com> (@raags)', 'Sloane Hertel <shertel@redhat.com>']
+license: "GPL-3.0-or-later"

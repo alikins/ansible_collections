@@ -1,0 +1,5 @@
+name: "ansible.module_iosxr_logging"
+version: "2.8.0"
+description: "Configuration management of system logging services on network devices"
+authors: ['Trishna Guha (@trishnaguha)', 'Kedar Kekan (@kedarX)']
+license: "GPL-3.0-or-later"

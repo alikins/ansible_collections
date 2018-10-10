@@ -1,0 +1,5 @@
+name: "ansible.module_rax_mon_entity"
+version: "2.8.0"
+description: "Create or delete a Rackspace Cloud Monitoring entity"
+authors: ['Ash Wilson (@smashwilson)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_interface"
+version: "2.8.0"
+description: "Manages physical attributes of interfaces"
+authors: ['Jason Edelman (@jedelman8)', 'Trishna Guha (@trishnaguha)']
+license: "GPL-3.0-or-later"

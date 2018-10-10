@@ -1,0 +1,5 @@
+name: "ansible.module_virt_pool"
+version: "2.8.0"
+description: "Manage libvirt storage pools"
+authors: ['Maciej Delmanowski (@drybjed)']
+license: "GPL-3.0-or-later"

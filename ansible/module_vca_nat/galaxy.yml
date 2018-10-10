@@ -1,0 +1,5 @@
+name: "ansible.module_vca_nat"
+version: "2.8.0"
+description: "add remove nat rules in a gateway  in a vca"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

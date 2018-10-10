@@ -1,0 +1,5 @@
+name: "ansible.module_edgeos_command"
+version: "2.8.0"
+description: "Run one or more commands on EdgeOS devices"
+authors: ['Chad Norgan (@BeardyMcBeards)', 'Sam Doran (@samdoran)']
+license: "GPL-3.0-or-later"

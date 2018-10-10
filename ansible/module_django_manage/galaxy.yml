@@ -1,0 +1,5 @@
+name: "ansible.module_django_manage"
+version: "2.8.0"
+description: "Manages a Django application"
+authors: ['Scott Anderson (@tastychutney)']
+license: "GPL-3.0-or-later"

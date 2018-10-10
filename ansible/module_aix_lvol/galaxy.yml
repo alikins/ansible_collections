@@ -1,0 +1,5 @@
+name: "ansible.module_aix_lvol"
+version: "2.8.0"
+description: "Configure AIX LVM logical volumes"
+authors: ['Alain Dejoux (@adejoux)']
+license: "GPL-3.0-or-later"

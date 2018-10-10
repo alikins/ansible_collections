@@ -1,0 +1,5 @@
+name: "ansible.module_jenkins_plugin"
+version: "2.8.0"
+description: "Add or remove Jenkins plugin"
+authors: ['Jiri Tyr (@jtyr)']
+license: "GPL-3.0-or-later"

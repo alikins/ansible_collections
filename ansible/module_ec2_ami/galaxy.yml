@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_ami"
+version: "2.8.0"
+description: "create or destroy an image in ec2"
+authors: ['Evan Duffield (@scicoin-project) <eduffield@iacquire.com>', 'Constantin Bugneac (@Constantin07) <constantin.bugneac@endava.com>', 'Ross Williams (@gunzy83) <gunzy83au@gmail.com>', 'Willem van Ketwich (@wilvk) <willvk@gmail.com>']
+license: "GPL-3.0-or-later"

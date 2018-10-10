@@ -1,0 +1,5 @@
+name: "ansible.module_gcpubsub_facts"
+version: "2.8.0"
+description: "List Topics/Subscriptions and Messages from Google PubSub"
+authors: ['Tom Melendez (@supertom) <tom@supertom.com>']
+license: "GPL-3.0-or-later"

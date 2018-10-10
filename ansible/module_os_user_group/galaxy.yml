@@ -1,0 +1,5 @@
+name: "ansible.module_os_user_group"
+version: "2.8.0"
+description: "Associate OpenStack Identity users and groups"
+authors: ['Monty Taylor (@emonty)']
+license: "GPL-3.0-or-later"

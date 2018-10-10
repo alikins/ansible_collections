@@ -1,0 +1,5 @@
+name: "ansible.module_openssl_certificate"
+version: "2.8.0"
+description: "Generate and/or check OpenSSL certificates"
+authors: ['Yanis Guenane (@Spredzy)', 'Markus Teufelberger (@MarkusTeufelberger)']
+license: "GPL-3.0-or-later"

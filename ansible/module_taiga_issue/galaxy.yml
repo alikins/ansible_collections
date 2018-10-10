@@ -1,0 +1,5 @@
+name: "ansible.module_taiga_issue"
+version: "2.8.0"
+description: "Creates/deletes an issue in a Taiga Project Management Platform"
+authors: ['Alejandro Guirao (@lekum)']
+license: "GPL-3.0-or-later"

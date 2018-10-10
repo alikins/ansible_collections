@@ -1,0 +1,5 @@
+name: "ansible.module_gce_labels"
+version: "2.8.0"
+description: "Create, Update or Destroy GCE Labels"
+authors: ['Eric Johnson (@erjohnso) <erjohnso@google.com>']
+license: "GPL-3.0-or-later"

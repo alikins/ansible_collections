@@ -1,0 +1,5 @@
+name: "ansible.module_bigiq_application_https_offload"
+version: "2.8.0"
+description: "Manages BIG-IQ HTTPS offload applications"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

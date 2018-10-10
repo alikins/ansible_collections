@@ -1,0 +1,5 @@
+name: "ansible.module_oneview_logical_interconnect_group"
+version: "2.8.0"
+description: "Manage OneView Logical Interconnect Group resources"
+authors: ['Felipe Bulsoni (@fgbulsoni)', 'Thiago Miotto (@tmiotto)', 'Adriane Cardozo (@adriane-cardozo)']
+license: "GPL-3.0-or-later"

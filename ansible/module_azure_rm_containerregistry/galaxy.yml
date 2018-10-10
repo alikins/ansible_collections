@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_containerregistry"
+version: "2.8.0"
+description: "Manage an Azure Container Registry"
+authors: ['Yawei Wang (@yaweiw)']
+license: "GPL-3.0-or-later"

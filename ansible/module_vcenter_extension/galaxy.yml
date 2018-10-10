@@ -1,0 +1,5 @@
+name: "ansible.module_vcenter_extension"
+version: "2.8.0"
+description: "Register/deregister vCenter Extensions"
+authors: ['Michael Tipton (@castawayegr)']
+license: "GPL-3.0-or-later"

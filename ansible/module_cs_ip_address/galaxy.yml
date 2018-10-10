@@ -1,0 +1,5 @@
+name: "ansible.module_cs_ip_address"
+version: "2.8.0"
+description: "Manages public IP address associations on Apache CloudStack based clouds"
+authors: ['Darren Worrall (@dazworrall)', 'René Moser (@resmo)']
+license: "GPL-3.0-or-later"

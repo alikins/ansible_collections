@@ -1,0 +1,5 @@
+name: "ansible.module_avi_api_session"
+version: "2.8.0"
+description: "Avi API Module"
+authors: ['Gaurav Rastogi (grastogi@avinetworks.com)']
+license: "GPL-3.0-or-later"

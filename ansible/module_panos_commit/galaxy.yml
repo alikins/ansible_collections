@@ -1,0 +1,5 @@
+name: "ansible.module_panos_commit"
+version: "2.8.0"
+description: "commit firewall's candidate configuration"
+authors: ['Luigi Mori (@jtschichold), Ivan Bojer (@ivanbojer)']
+license: "GPL-3.0-or-later"

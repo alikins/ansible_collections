@@ -1,0 +1,5 @@
+name: "ansible.module_panos_cert_gen_ssh"
+version: "2.8.0"
+description: "generates a self-signed certificate using SSH protocol with SSH key"
+authors: ['Luigi Mori (@jtschichold), Ivan Bojer (@ivanbojer)']
+license: "GPL-3.0-or-later"

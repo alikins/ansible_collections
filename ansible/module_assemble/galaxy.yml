@@ -1,0 +1,5 @@
+name: "ansible.module_assemble"
+version: "2.8.0"
+description: "Assemble configuration files from fragments"
+authors: ['Stephen Fromm (@sfromm)']
+license: "GPL-3.0-or-later"

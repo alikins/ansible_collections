@@ -1,0 +1,34 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Notification modules
+license: GPL-3.0-or-later
+name: ansible.module_category_notification
+requirements:
+- ansible.module_cisco_spark
+- ansible.module_twilio
+- ansible.module_hipchat
+- ansible.module_typetalk
+- ansible.module_jabber
+- ansible.module_say
+- ansible.module_office_365_connector_card
+- ansible.module_rocketchat
+- ansible.module_catapult
+- ansible.module_snow_record
+- ansible.module_mail
+- ansible.module_campfire
+- ansible.module_pushover
+- ansible.module_mqtt
+- ansible.module_slack
+- ansible.module_grove
+- ansible.module_flowdock
+- ansible.module_hall
+- ansible.module_syslogger
+- ansible.module_logentries_msg
+- ansible.module_pushbullet
+- ansible.module_mattermost
+- ansible.module_sendgrid
+- ansible.module_irc
+- ansible.module_telegram
+- ansible.module_nexmo
+- ansible.module_bearychat
+version: 2.8.0

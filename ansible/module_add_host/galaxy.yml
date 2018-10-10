@@ -1,0 +1,5 @@
+name: "ansible.module_add_host"
+version: "2.8.0"
+description: "add a host (and alternatively a group) to the ansible-playbook in-memory inventory"
+authors: ['Ansible Core Team', 'Seth Vidal']
+license: "GPL-3.0-or-later"

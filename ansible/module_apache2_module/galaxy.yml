@@ -1,0 +1,5 @@
+name: "ansible.module_apache2_module"
+version: "2.8.0"
+description: "Enables/disables a module of the Apache2 webserver"
+authors: ['Christian Berendt (@berendt)', 'Ralf Hertel (@n0trax)', 'Robin Roth (@robinro)']
+license: "GPL-3.0-or-later"

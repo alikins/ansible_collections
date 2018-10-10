@@ -1,0 +1,5 @@
+name: "ansible.module_aci_interface_policy_port_security"
+version: "2.8.0"
+description: "Manage port security (l2:PortSecurityPol)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

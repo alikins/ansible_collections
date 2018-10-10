@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_resource_pool_facts"
+version: "2.8.0"
+description: "Gathers facts about resource pool information"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

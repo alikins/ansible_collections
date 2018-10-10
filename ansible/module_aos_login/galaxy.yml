@@ -1,0 +1,5 @@
+name: "ansible.module_aos_login"
+version: "2.8.0"
+description: "Login to AOS server for session token"
+authors: ['jeremy@apstra.com (@jeremyschulman)']
+license: "GPL-3.0-or-later"

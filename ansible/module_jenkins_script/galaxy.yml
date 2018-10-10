@@ -1,0 +1,5 @@
+name: "ansible.module_jenkins_script"
+version: "2.8.0"
+description: "Executes a groovy script in the jenkins instance"
+authors: ['James Hogarth (@hogarthj)']
+license: "GPL-3.0-or-later"

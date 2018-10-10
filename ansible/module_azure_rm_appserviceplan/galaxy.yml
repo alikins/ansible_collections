@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_appserviceplan"
+version: "2.8.0"
+description: "Manage App Service Plan"
+authors: ['Yunge Zhu(@yungezz)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_asa_acl"
+version: "2.8.0"
+description: "Manage access-lists on a Cisco ASA"
+authors: ['Patrick Ogenstad (@ogenstad)']
+license: "GPL-3.0-or-later"

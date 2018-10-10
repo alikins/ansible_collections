@@ -1,0 +1,5 @@
+name: "ansible.module_swupd"
+version: "2.8.0"
+description: "Manages updates and bundles in ClearLinux systems"
+authors: ['Alberto Murillo (@albertomurillo)']
+license: "GPL-3.0-or-later"

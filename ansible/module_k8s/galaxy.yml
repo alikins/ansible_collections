@@ -1,0 +1,5 @@
+name: "ansible.module_k8s"
+version: "2.8.0"
+description: "Manage Kubernetes (K8s) objects"
+authors: ['Chris Houseknecht (@chouseknecht)', 'Fabian von Feilitzsch (@fabianvf)']
+license: "GPL-3.0-or-later"

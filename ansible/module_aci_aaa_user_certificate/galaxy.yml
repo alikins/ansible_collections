@@ -1,0 +1,5 @@
+name: "ansible.module_aci_aaa_user_certificate"
+version: "2.8.0"
+description: "Manage AAA user certificates (aaa:UserCert)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

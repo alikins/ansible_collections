@@ -1,0 +1,5 @@
+name: "ansible.module_seport"
+version: "2.8.0"
+description: "Manages SELinux network port type definitions"
+authors: ['Dan Keder (@dankeder)']
+license: "GPL-3.0-or-later"

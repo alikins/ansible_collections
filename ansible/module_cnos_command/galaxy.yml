@@ -1,0 +1,5 @@
+name: "ansible.module_cnos_command"
+version: "2.8.0"
+description: "Run arbitrary commands on Lenovo CNOS devices"
+authors: ['Anil Kumar Muraleedharan (@amuraleedhar)']
+license: "GPL-3.0-or-later"

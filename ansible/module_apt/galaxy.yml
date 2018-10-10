@@ -1,0 +1,5 @@
+name: "ansible.module_apt"
+version: "2.8.0"
+description: "Manages apt-packages"
+authors: ['Matthew Williams (@mgwilliams)']
+license: "GPL-3.0-or-later"

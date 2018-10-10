@@ -1,0 +1,5 @@
+name: "ansible.module_purefa_ds"
+version: "2.8.0"
+description: "Configure FlashArray Directory Service"
+authors: ['Simon Dodsley (@sdodsley)']
+license: "GPL-3.0-or-later"

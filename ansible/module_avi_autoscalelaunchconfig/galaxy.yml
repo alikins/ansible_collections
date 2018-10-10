@@ -1,0 +1,5 @@
+name: "ansible.module_avi_autoscalelaunchconfig"
+version: "2.8.0"
+description: "Module for setup of AutoScaleLaunchConfig Avi RESTful Object"
+authors: ['Chaitanya Deshpande (chaitanya.deshpande@avinetworks.com)']
+license: "GPL-3.0-or-later"

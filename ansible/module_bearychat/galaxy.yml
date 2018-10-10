@@ -1,0 +1,5 @@
+name: "ansible.module_bearychat"
+version: "2.8.0"
+description: "Send BearyChat notifications"
+authors: ['Jiangge Zhang (@tonyseek)']
+license: "GPL-3.0-or-later"

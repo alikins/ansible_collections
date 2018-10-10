@@ -1,0 +1,5 @@
+name: "ansible.module_ovirt_tag"
+version: "2.8.0"
+description: "Module to manage tags in oVirt/RHV"
+authors: ['Ondra Machacek (@machacekondra)']
+license: "GPL-3.0-or-later"

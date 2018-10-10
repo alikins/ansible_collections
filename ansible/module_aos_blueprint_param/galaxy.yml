@@ -1,0 +1,5 @@
+name: "ansible.module_aos_blueprint_param"
+version: "2.8.0"
+description: "Manage AOS blueprint parameter values"
+authors: ['jeremy@apstra.com (@jeremyschulman)']
+license: "GPL-3.0-or-later"

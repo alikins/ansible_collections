@@ -1,0 +1,5 @@
+name: "ansible.module_junos_scp"
+version: "2.8.0"
+description: "Transfer files from or to remote devices running Junos"
+authors: ['Christian Giese (@GIC-de)']
+license: "GPL-3.0-or-later"

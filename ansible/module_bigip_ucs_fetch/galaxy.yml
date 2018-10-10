@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_ucs_fetch"
+version: "2.8.0"
+description: "Fetches a UCS file from remote nodes"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

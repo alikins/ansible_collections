@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_host_ssl_facts"
+version: "2.8.0"
+description: "Gather facts of ESXi host system about SSL"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

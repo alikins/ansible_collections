@@ -1,0 +1,5 @@
+name: "ansible.module_aws_waf_web_acl"
+version: "2.8.0"
+description: "create and delete WAF Web ACLs"
+authors: ['Mike Mochan (@mmochan)', 'Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

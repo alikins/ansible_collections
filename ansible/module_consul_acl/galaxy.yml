@@ -1,0 +1,5 @@
+name: "ansible.module_consul_acl"
+version: "2.8.0"
+description: "Manipulate Consul ACL keys and rules"
+authors: ['Steve Gargan (@sgargan)', 'Colin Nolan (@colin-nolan)']
+license: "GPL-3.0-or-later"

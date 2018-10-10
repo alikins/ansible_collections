@@ -1,0 +1,5 @@
+name: "ansible.module_bigmon_chain"
+version: "2.8.0"
+description: "Create and remove a bigmon inline service chain"
+authors: ['Ted (@tedelhourani)']
+license: "GPL-3.0-or-later"

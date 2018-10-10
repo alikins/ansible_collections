@@ -1,0 +1,5 @@
+name: "ansible.module_aos_ip_pool"
+version: "2.8.0"
+description: "Manage AOS IP Pool"
+authors: ['Damien Garros (@dgarros)']
+license: "GPL-3.0-or-later"

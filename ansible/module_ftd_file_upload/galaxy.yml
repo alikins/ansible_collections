@@ -1,0 +1,5 @@
+name: "ansible.module_ftd_file_upload"
+version: "2.8.0"
+description: "Uploads files to Cisco FTD devices over HTTP(S)"
+authors: ['Cisco Systems, Inc.']
+license: "GPL-3.0-or-later"

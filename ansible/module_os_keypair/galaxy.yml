@@ -1,0 +1,5 @@
+name: "ansible.module_os_keypair"
+version: "2.8.0"
+description: "Add/Delete a keypair from OpenStack"
+authors: ['Benno Joy (@bennojoy)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_gcp_compute_ssl_certificate"
+version: "2.8.0"
+description: "Creates a GCP SslCertificate"
+authors: ['Google Inc. (@googlecloudplatform)']
+license: "GPL-3.0-or-later"

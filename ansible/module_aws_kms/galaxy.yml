@@ -1,0 +1,5 @@
+name: "ansible.module_aws_kms"
+version: "2.8.0"
+description: "Perform various KMS management tasks"
+authors: ['Ted Timmons (@tedder)']
+license: "GPL-3.0-or-later"

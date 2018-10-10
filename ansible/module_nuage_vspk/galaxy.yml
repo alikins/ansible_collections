@@ -1,0 +1,5 @@
+name: "ansible.module_nuage_vspk"
+version: "2.8.0"
+description: "Manage Nuage VSP environments"
+authors: ['Philippe Dellaert (@pdellaert)']
+license: "GPL-3.0-or-later"

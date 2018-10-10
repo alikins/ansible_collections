@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_vmotion"
+version: "2.8.0"
+description: "Move a virtual machine using vMotion, and/or its vmdks using storage vMotion"
+authors: ['Bede Carroll (@bedecarroll)', 'Olivier Boukili (@oboukili)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_elb_target_facts"
+version: "2.8.0"
+description: "Gathers which target groups a target is associated with"
+authors: ['Yaakov Kuperman (@yaakov-github)']
+license: "GPL-3.0-or-later"

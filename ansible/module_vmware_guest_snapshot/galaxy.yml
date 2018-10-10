@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_guest_snapshot"
+version: "2.8.0"
+description: "Manages virtual machines snapshots in vCenter"
+authors: ['Loic Blot (@nerzhul) <loic.blot@unix-experience.fr>']
+license: "GPL-3.0-or-later"

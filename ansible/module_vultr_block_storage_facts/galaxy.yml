@@ -1,0 +1,5 @@
+name: "ansible.module_vultr_block_storage_facts"
+version: "2.8.0"
+description: "Gather facts about the Vultr block storage volumes available"
+authors: ['Yanis Guenane (@Spredzy)']
+license: "GPL-3.0-or-later"

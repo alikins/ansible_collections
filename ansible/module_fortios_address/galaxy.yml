@@ -1,0 +1,5 @@
+name: "ansible.module_fortios_address"
+version: "2.8.0"
+description: "Manage fortios firewall address objects"
+authors: ['Benjamin Jolivot (@bjolivot)']
+license: "GPL-3.0-or-later"

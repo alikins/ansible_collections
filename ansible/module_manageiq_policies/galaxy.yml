@@ -1,0 +1,5 @@
+name: "ansible.module_manageiq_policies"
+version: "2.8.0"
+description: "Management of resource policy_profiles in ManageIQ"
+authors: ['Daniel Korn (@dkorn)']
+license: "GPL-3.0-or-later"

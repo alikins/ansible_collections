@@ -1,0 +1,5 @@
+name: "ansible.module_cs_role_permission"
+version: "2.8.0"
+description: "Manages role permissions on Apache CloudStack based clouds"
+authors: ['David Passante (@dpassante)']
+license: "GPL-3.0-or-later"

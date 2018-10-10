@@ -1,0 +1,5 @@
+name: "ansible.module_nos_facts"
+version: "2.8.0"
+description: "Collect facts from devices running Extreme NOS"
+authors: ['Lindsay Hill (@LindsayHill)']
+license: "GPL-3.0-or-later"

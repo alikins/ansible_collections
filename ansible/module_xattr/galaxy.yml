@@ -1,0 +1,5 @@
+name: "ansible.module_xattr"
+version: "2.8.0"
+description: "Manage user defined extended attributes"
+authors: ['Brian Coca (@bcoca)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_find"
+version: "2.8.0"
+description: "Return a list of files based on specific criteria"
+authors: ["Brian Coca (based on Ruggero Marchei's Tidy)"]
+license: "GPL-3.0-or-later"

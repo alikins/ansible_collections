@@ -1,0 +1,5 @@
+name: "ansible.module_cv_server_provision"
+version: "2.8.0"
+description: "Provision server port by applying or removing template configuration to an Arista CloudVision Portal configlet that is applied to a switch"
+authors: ['EOS+ CS (ansible-dev@arista.com) (@mharista)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_netcup_dns"
+version: "2.8.0"
+description: "manage Netcup DNS records"
+authors: ['Nicolai Buchwitz (@nbuchwitz)']
+license: "GPL-3.0-or-later"

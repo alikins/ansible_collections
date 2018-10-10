@@ -1,0 +1,5 @@
+name: "ansible.module_openvswitch_db"
+version: "2.8.0"
+description: "Configure open vswitch database"
+authors: ['Mark Hamilton (mhamilton@vmware.com)']
+license: "GPL-3.0-or-later"

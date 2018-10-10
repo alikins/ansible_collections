@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_guest_tools_wait"
+version: "2.8.0"
+description: "Wait for VMware tools to become available"
+authors: ['Philippe Dellaert (@pdellaert) <philippe@dellaert.org>']
+license: "GPL-3.0-or-later"

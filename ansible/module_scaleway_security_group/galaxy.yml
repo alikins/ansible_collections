@@ -1,0 +1,5 @@
+name: "ansible.module_scaleway_security_group"
+version: "2.8.0"
+description: "Scaleway Security Group management module"
+authors: ['Antoine Barbare (@abarbare)']
+license: "GPL-3.0-or-later"

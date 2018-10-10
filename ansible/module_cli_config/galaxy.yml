@@ -1,0 +1,5 @@
+name: "ansible.module_cli_config"
+version: "2.8.0"
+description: "Push text based configuration to network devices over network_cli"
+authors: ['Trishna Guha (@trishnaguha)']
+license: "GPL-3.0-or-later"

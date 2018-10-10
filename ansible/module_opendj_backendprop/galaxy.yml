@@ -1,0 +1,5 @@
+name: "ansible.module_opendj_backendprop"
+version: "2.8.0"
+description: "Will update the backend configuration of OpenDJ via the dsconfig set-backend-prop command"
+authors: ['Werner Dijkerman (@dj-wasabi)']
+license: "GPL-3.0-or-later"

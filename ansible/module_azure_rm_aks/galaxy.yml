@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_aks"
+version: "2.8.0"
+description: "Manage a managed Azure Container Service (AKS) Instance"
+authors: ['Sertac Ozercan (@sozercan)', 'Yuwei Zhou (@yuwzho)']
+license: "GPL-3.0-or-later"

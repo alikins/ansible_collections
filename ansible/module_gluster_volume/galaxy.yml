@@ -1,0 +1,5 @@
+name: "ansible.module_gluster_volume"
+version: "2.8.0"
+description: "Manage GlusterFS volumes"
+authors: ['Taneli Leppä (@rosmo)']
+license: "GPL-3.0-or-later"

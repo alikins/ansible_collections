@@ -1,0 +1,5 @@
+name: "ansible.module_xfconf"
+version: "2.8.0"
+description: "Edit XFCE4 Configurations"
+authors: ['Joseph Benden (@jbenden)']
+license: "GPL-3.0-or-later"

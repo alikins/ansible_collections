@@ -1,0 +1,5 @@
+name: "ansible.module_aci_interface_policy_mcp"
+version: "2.8.0"
+description: "Manage MCP interface policies (mcp:IfPol)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

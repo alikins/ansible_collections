@@ -1,0 +1,5 @@
+name: "ansible.module_iam_group"
+version: "2.8.0"
+description: "Manage AWS IAM groups"
+authors: ['Nick Aslanidis (@naslanidis)', 'Maksym Postument (@infectsoldier)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_svr4pkg"
+version: "2.8.0"
+description: "Manage Solaris SVR4 packages"
+authors: ['Boyd Adamson (@brontitall)']
+license: "GPL-3.0-or-later"

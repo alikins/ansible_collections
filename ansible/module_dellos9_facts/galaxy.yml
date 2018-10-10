@@ -1,0 +1,5 @@
+name: "ansible.module_dellos9_facts"
+version: "2.8.0"
+description: "Collect facts from remote devices running Dell EMC Networking OS9"
+authors: ['Dhivya P (@dhivyap)']
+license: "GPL-3.0-or-later"

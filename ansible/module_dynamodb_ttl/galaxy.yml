@@ -1,0 +1,5 @@
+name: "ansible.module_dynamodb_ttl"
+version: "2.8.0"
+description: "set TTL for a given DynamoDB table"
+authors: ['Ted Timmons (@tedder)']
+license: "GPL-3.0-or-later"

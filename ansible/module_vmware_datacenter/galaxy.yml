@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_datacenter"
+version: "2.8.0"
+description: "Manage VMware vSphere Datacenters"
+authors: ['Joseph Callen (@jcpowermac)', 'Kamil Szczygiel (@kamsz)']
+license: "GPL-3.0-or-later"

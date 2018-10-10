@@ -1,0 +1,5 @@
+name: "ansible.module_hg"
+version: "2.8.0"
+description: "Manages Mercurial (hg) repositories"
+authors: ['Yeukhon Wong (@yeukhon)']
+license: "GPL-3.0-or-later"

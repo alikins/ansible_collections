@@ -1,0 +1,5 @@
+name: "ansible.module_fail"
+version: "2.8.0"
+description: "Fail with custom message"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

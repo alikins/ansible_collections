@@ -1,0 +1,5 @@
+name: "ansible.module_iam_mfa_device_facts"
+version: "2.8.0"
+description: "List the MFA (Multi-Factor Authentication) devices registered for a user"
+authors: ['Victor Costan (@pwnall)']
+license: "GPL-3.0-or-later"

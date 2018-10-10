@@ -1,0 +1,5 @@
+name: "ansible.module_os_server_facts"
+version: "2.8.0"
+description: "Retrieve facts about one or more compute instances"
+authors: ['Monty']
+license: "GPL-3.0-or-later"

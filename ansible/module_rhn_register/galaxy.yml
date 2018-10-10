@@ -1,0 +1,5 @@
+name: "ansible.module_rhn_register"
+version: "2.8.0"
+description: "Manage Red Hat Network registration using the ``rhnreg_ks`` command"
+authors: ['James Laska']
+license: "GPL-3.0-or-later"

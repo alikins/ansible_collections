@@ -1,0 +1,5 @@
+name: "ansible.module_aireos_config"
+version: "2.8.0"
+description: "Manage Cisco WLC configurations"
+authors: ['James Mighion (@jmighion)']
+license: "GPL-3.0-or-later"

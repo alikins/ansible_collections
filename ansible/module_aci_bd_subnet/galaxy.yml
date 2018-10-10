@@ -1,0 +1,5 @@
+name: "ansible.module_aci_bd_subnet"
+version: "2.8.0"
+description: "Manage Subnets (fv:Subnet)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

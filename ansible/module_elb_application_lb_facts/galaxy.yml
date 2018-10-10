@@ -1,0 +1,5 @@
+name: "ansible.module_elb_application_lb_facts"
+version: "2.8.0"
+description: "Gather facts about application ELBs in AWS"
+authors: ['Rob White (@wimnat)']
+license: "GPL-3.0-or-later"

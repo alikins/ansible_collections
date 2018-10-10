@@ -1,0 +1,28 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Identity modules
+license: GPL-3.0-or-later
+name: ansible.module_category_identity
+requirements:
+- ansible.module_onepassword_facts
+- ansible.module_cyberark_authentication
+- ansible.module_cyberark_user
+- ansible.module_keycloak_client
+- ansible.module_keycloak_clienttemplate
+- ansible.module_opendj_backendprop
+- ansible.module_ipa_sudocmdgroup
+- ansible.module_ipa_dnsrecord
+- ansible.module_ipa_group
+- ansible.module_ipa_service
+- ansible.module_ipa_sudorule
+- ansible.module_ipa_host
+- ansible.module_ipa_config
+- ansible.module_ipa_hostgroup
+- ansible.module_ipa_user
+- ansible.module_ipa_role
+- ansible.module_ipa_dnszone
+- ansible.module_ipa_hbacrule
+- ansible.module_ipa_subca
+- ansible.module_ipa_vault
+- ansible.module_ipa_sudocmd
+version: 2.8.0

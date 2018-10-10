@@ -1,0 +1,5 @@
+name: "ansible.module_mount"
+version: "2.8.0"
+description: "Control active and configured mount points"
+authors: ['Ansible Core Team', 'Seth Vidal']
+license: "GPL-3.0-or-later"

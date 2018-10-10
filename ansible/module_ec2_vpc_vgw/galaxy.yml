@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_vpc_vgw"
+version: "2.8.0"
+description: "Create and delete AWS VPN Virtual Gateways"
+authors: ['Nick Aslanidis (@naslanidis)']
+license: "GPL-3.0-or-later"

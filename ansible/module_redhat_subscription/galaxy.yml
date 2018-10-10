@@ -1,0 +1,5 @@
+name: "ansible.module_redhat_subscription"
+version: "2.8.0"
+description: "Manage registration and subscriptions to RHSM using the ``subscription-manager`` command"
+authors: ['Barnaby Court (@barnabycourt)']
+license: "GPL-3.0-or-later"

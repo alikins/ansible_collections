@@ -1,0 +1,5 @@
+name: "ansible.module_nginx_status_facts"
+version: "2.8.0"
+description: "Retrieve nginx status facts"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

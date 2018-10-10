@@ -1,0 +1,5 @@
+name: "ansible.module_include_tasks"
+version: "2.8.0"
+description: "Dynamically include a task list"
+authors: ['Ansible Core Team (@ansible)']
+license: "GPL-3.0-or-later"

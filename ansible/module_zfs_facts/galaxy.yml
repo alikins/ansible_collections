@@ -1,0 +1,5 @@
+name: "ansible.module_zfs_facts"
+version: "2.8.0"
+description: "Gather facts about ZFS datasets"
+authors: ['Adam Števko (@xen0l)']
+license: "GPL-3.0-or-later"

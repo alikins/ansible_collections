@@ -1,0 +1,5 @@
+name: "ansible.module_haproxy"
+version: "2.8.0"
+description: "Enable, disable, and set weights for HAProxy backend servers using socket commands"
+authors: ['Ravi Bhure (@ravibhure)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_guest_snapshot_facts"
+version: "2.8.0"
+description: "Gather facts about virtual machine's snapshots in vCenter"
+authors: ['Abhijeet Kasurde (@Akasurde) <akasurde@redhat.com>']
+license: "GPL-3.0-or-later"

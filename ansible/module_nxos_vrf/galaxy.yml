@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_vrf"
+version: "2.8.0"
+description: "Manages global VRF configuration"
+authors: ['Jason Edelman (@jedelman8)', 'Gabriele Gerbino (@GGabriele)', 'Trishna Guha (@trishnaguha)']
+license: "GPL-3.0-or-later"

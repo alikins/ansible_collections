@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_virtualmachine_scaleset_facts"
+version: "2.8.0"
+description: "Get Virtual Machine Scale Set facts"
+authors: ['Sertac Ozercan (@sozercan)']
+license: "GPL-3.0-or-later"

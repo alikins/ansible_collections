@@ -1,0 +1,5 @@
+name: "ansible.module_reboot"
+version: "2.8.0"
+description: "Reboot a machine"
+authors: ['Matt Davis (@nitzmahone)', 'Sam Doran (@samdoran)']
+license: "GPL-3.0-or-later"

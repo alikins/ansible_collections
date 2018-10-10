@@ -1,0 +1,5 @@
+name: "ansible.module_ce_command"
+version: "2.8.0"
+description: "Run arbitrary command on HUAWEI CloudEngine devices"
+authors: ['JackyGao2016 (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

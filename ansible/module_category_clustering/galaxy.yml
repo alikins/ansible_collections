@@ -1,0 +1,19 @@
+authors:
+- ansible_galaxy@invalid.com
+description: Clustering modules
+license: GPL-3.0-or-later
+name: ansible.module_category_clustering
+requirements:
+- ansible.module_etcd3
+- ansible.module_consul_kv
+- ansible.module_consul_acl
+- ansible.module_pacemaker_cluster
+- ansible.module_consul
+- ansible.module_znode
+- ansible.module_consul_session
+- ansible.module_oc
+- ansible.module_k8s
+- ansible.module_k8s_scale
+- ansible.module_kubernetes
+- ansible.module_k8s_facts
+version: 2.8.0

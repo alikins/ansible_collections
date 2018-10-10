@@ -1,0 +1,5 @@
+name: "ansible.module_opx_cps"
+version: "2.8.0"
+description: "CPS operations on networking device running Openswitch (OPX)"
+authors: ['Senthil Kumar Ganesan (@skg-net)']
+license: "GPL-3.0-or-later"

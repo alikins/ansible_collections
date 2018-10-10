@@ -1,0 +1,5 @@
+name: "ansible.module_memset_dns_reload"
+version: "2.8.0"
+description: "Request reload of Memset's DNS infrastructure,"
+authors: ['Simon Weald (@analbeard)']
+license: "GPL-3.0-or-later"

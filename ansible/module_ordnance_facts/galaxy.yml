@@ -1,0 +1,5 @@
+name: "ansible.module_ordnance_facts"
+version: "2.8.0"
+description: "Collect facts from Ordnance Virtual Routers over SSH"
+authors: ['Alexander Turner (alex.turner@ordnance.io)']
+license: "GPL-3.0-or-later"

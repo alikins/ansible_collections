@@ -1,0 +1,5 @@
+name: "ansible.module_rds_param_group"
+version: "2.8.0"
+description: "manage RDS parameter groups"
+authors: ['Scott Anderson (@tastychutney)', 'Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_rax_clb_nodes"
+version: "2.8.0"
+description: "add, modify and remove nodes from a Rackspace Cloud Load Balancer"
+authors: ['Lukasz Kawczynski (@neuroid)']
+license: "GPL-3.0-or-later"

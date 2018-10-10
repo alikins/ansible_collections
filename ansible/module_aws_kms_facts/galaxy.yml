@@ -1,0 +1,5 @@
+name: "ansible.module_aws_kms_facts"
+version: "2.8.0"
+description: "Gather facts about AWS KMS keys"
+authors: ['Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

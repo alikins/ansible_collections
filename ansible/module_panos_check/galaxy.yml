@@ -1,0 +1,5 @@
+name: "ansible.module_panos_check"
+version: "2.8.0"
+description: "check if PAN-OS device is ready for configuration"
+authors: ['Luigi Mori (@jtschichold), Ivan Bojer (@ivanbojer)']
+license: "GPL-3.0-or-later"

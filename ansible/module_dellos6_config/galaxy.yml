@@ -1,0 +1,5 @@
+name: "ansible.module_dellos6_config"
+version: "2.8.0"
+description: "Manage Dell EMC Networking OS6 configuration sections"
+authors: ['Abirami N(@abirami-n)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_vmkernel_ip_config"
+version: "2.8.0"
+description: "Configure the VMkernel IP Address"
+authors: ['Joseph Callen (@jcpowermac)', 'Russell Teague (@mtnbikenc)']
+license: "GPL-3.0-or-later"

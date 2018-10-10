@@ -1,0 +1,5 @@
+name: "ansible.module_rds_instance_facts"
+version: "2.8.0"
+description: "obtain facts about one or more RDS instances"
+authors: ['Will Thames (@willthames)', 'Michael De La Rue (@mikedlr)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_dnsrecordset_facts"
+version: "2.8.0"
+description: "Get DNS Record Set facts"
+authors: ['Ozi Boms @ozboms']
+license: "GPL-3.0-or-later"

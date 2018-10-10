@@ -1,0 +1,5 @@
+name: "ansible.module_win_power_plan"
+version: "2.8.0"
+description: "Changes the power plan of a Windows system"
+authors: ['Noah Sparks (@nwsparks)']
+license: "GPL-3.0-or-later"

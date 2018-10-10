@@ -1,0 +1,5 @@
+name: "ansible.module_os_coe_cluster_template"
+version: "2.8.0"
+description: "Add/Remove COE cluster template from OpenStack Cloud"
+authors: ['Feilong Wang (@flwang)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_pushbullet"
+version: "2.8.0"
+description: "Sends notifications to Pushbullet"
+authors: ['Willy Barro (@willybarro)']
+license: "GPL-3.0-or-later"

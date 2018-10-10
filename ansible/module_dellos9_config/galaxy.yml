@@ -1,0 +1,5 @@
+name: "ansible.module_dellos9_config"
+version: "2.8.0"
+description: "Manage Dell EMC Networking OS9 configuration sections"
+authors: ['Dhivya P (@dhivyap)']
+license: "GPL-3.0-or-later"

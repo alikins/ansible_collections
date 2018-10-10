@@ -1,0 +1,5 @@
+name: "ansible.module_vultr_account_facts"
+version: "2.8.0"
+description: "Gather facts about the Vultr account"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_hall"
+version: "2.8.0"
+description: "Send notification to Hall"
+authors: ['Billy Kimble (@bkimble) <basslines@gmail.com>']
+license: "GPL-3.0-or-later"

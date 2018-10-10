@@ -1,0 +1,5 @@
+name: "ansible.module_netapp_e_volume"
+version: "2.8.0"
+description: "NetApp E-Series manage storage volumes (standard and thin)"
+authors: ['Kevin Hulquest (@hulquest)']
+license: "GPL-3.0-or-later"

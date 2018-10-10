@@ -1,0 +1,5 @@
+name: "ansible.module_aci_bd"
+version: "2.8.0"
+description: "Manage Bridge Domains (BD) objects (fv:BD)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

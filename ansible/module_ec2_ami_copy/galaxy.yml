@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_ami_copy"
+version: "2.8.0"
+description: "copies AMI between AWS regions, return new image id"
+authors: ['Amir Moulavi (@amir343) <amir.moulavi@gmail.com>', 'Tim C <defunct@defunct.io>']
+license: "GPL-3.0-or-later"

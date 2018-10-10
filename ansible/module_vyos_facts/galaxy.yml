@@ -1,0 +1,5 @@
+name: "ansible.module_vyos_facts"
+version: "2.8.0"
+description: "Collect facts from remote devices running VyOS"
+authors: ['Nathaniel Case (@qalthos)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_acme_account"
+version: "2.8.0"
+description: "Create, modify or delete ACME accounts"
+authors: ['Felix Fontein (@felixfontein)']
+license: "GPL-3.0-or-later"

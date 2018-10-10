@@ -1,0 +1,5 @@
+name: "ansible.module_openssl_csr"
+version: "2.8.0"
+description: "Generate OpenSSL Certificate Signing Request (CSR)"
+authors: ['Yanis Guenane (@Spredzy)']
+license: "GPL-3.0-or-later"

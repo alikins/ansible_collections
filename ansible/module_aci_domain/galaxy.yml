@@ -1,0 +1,5 @@
+name: "ansible.module_aci_domain"
+version: "2.8.0"
+description: "Manage physical, virtual, bridged, routed or FC domain profiles (phys:DomP, vmm:DomP, l2ext:DomP, l3ext:DomP, fc:DomP)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

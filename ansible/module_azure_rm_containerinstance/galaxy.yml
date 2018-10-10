@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_containerinstance"
+version: "2.8.0"
+description: "Manage an Azure Container Instance"
+authors: ['Zim Kalinowski (@zikalino)']
+license: "GPL-3.0-or-later"

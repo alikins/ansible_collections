@@ -1,0 +1,5 @@
+name: "ansible.module_os_volume_snapshot"
+version: "2.8.0"
+description: "Create/Delete Cinder Volume Snapshots"
+authors: ['Mario Santos (@ruizink)']
+license: "GPL-3.0-or-later"

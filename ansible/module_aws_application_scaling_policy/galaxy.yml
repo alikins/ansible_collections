@@ -1,0 +1,5 @@
+name: "ansible.module_aws_application_scaling_policy"
+version: "2.8.0"
+description: "Manage Application Auto Scaling Scaling Policies"
+authors: ['Gustavo Maia(@gurumaia)', 'Chen Leibovich(@chenl87)']
+license: "GPL-3.0-or-later"

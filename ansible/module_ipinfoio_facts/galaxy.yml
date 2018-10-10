@@ -1,0 +1,5 @@
+name: "ansible.module_ipinfoio_facts"
+version: "2.8.0"
+description: "Retrieve IP geolocation facts of a host's IP address"
+authors: ['Aleksei Kostiuk (@akostyuk)']
+license: "GPL-3.0-or-later"

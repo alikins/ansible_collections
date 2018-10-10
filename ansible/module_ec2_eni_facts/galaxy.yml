@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_eni_facts"
+version: "2.8.0"
+description: "Gather facts about ec2 ENI interfaces in AWS"
+authors: ['Rob White (@wimnat)']
+license: "GPL-3.0-or-later"

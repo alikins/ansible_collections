@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_placement_group"
+version: "2.8.0"
+description: "Create or delete an EC2 Placement Group"
+authors: ['Brad Macpherson (@iiibrad)']
+license: "GPL-3.0-or-later"

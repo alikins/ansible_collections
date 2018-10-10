@@ -1,0 +1,5 @@
+name: "ansible.module_redfish_config"
+version: "2.8.0"
+description: "Manages Out-Of-Band controllers using Redfish APIs"
+authors: ['Jose Delarosa (github: jose-delarosa)']
+license: "GPL-3.0-or-later"

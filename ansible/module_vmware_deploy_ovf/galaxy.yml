@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_deploy_ovf"
+version: "2.8.0"
+description: "Deploys a VMware virtual machine from an OVF or OVA file"
+authors: ['Matt Martz (@sivel)']
+license: "GPL-3.0-or-later"

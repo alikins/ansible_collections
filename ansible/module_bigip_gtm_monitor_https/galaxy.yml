@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_gtm_monitor_https"
+version: "2.8.0"
+description: "Manages F5 BIG-IP GTM https monitors"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

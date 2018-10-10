@@ -1,0 +1,5 @@
+name: "ansible.module_ldap_passwd"
+version: "2.8.0"
+description: "Set passwords in LDAP"
+authors: ['Keller Fuchs (@KellerFuchs)']
+license: "GPL-3.0-or-later"

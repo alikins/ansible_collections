@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_virtualmachine_facts"
+version: "2.8.0"
+description: "Get virtual machine facts"
+authors: ['Gustavo Muniz do Carmo (@gustavomcarmo)', 'Zim Kalinowski (@zikalino)']
+license: "GPL-3.0-or-later"

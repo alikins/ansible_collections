@@ -1,0 +1,5 @@
+name: "ansible.module_pubnub_blocks"
+version: "2.8.0"
+description: "PubNub blocks management module"
+authors: ['PubNub <support@pubnub.com> (@pubnub)', 'Sergey Mamontov <sergey@pubnub.com> (@parfeon)']
+license: "GPL-3.0-or-later"

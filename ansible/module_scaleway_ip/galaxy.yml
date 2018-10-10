@@ -1,0 +1,5 @@
+name: "ansible.module_scaleway_ip"
+version: "2.8.0"
+description: "Scaleway IP management module"
+authors: ['Remy Leone (@sieben)']
+license: "GPL-3.0-or-later"

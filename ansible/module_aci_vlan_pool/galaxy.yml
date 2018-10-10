@@ -1,0 +1,5 @@
+name: "ansible.module_aci_vlan_pool"
+version: "2.8.0"
+description: "Manage VLAN pools (fvns:VlanInstP)"
+authors: ['Jacob McGill (@jmcgill298)', 'Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

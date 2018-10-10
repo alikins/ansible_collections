@@ -1,0 +1,5 @@
+name: "ansible.module_os_server_volume"
+version: "2.8.0"
+description: "Attach/Detach Volumes from OpenStack VM's"
+authors: ['Monty Taylor (@emonty)']
+license: "GPL-3.0-or-later"

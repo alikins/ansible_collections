@@ -1,0 +1,5 @@
+name: "ansible.module_lambda_facts"
+version: "2.8.0"
+description: "Gathers AWS Lambda function details as Ansible facts"
+authors: ['Pierre Jodouin (@pjodouin)']
+license: "GPL-3.0-or-later"

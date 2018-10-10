@@ -1,0 +1,5 @@
+name: "ansible.module_emc_vnx_sg_member"
+version: "2.8.0"
+description: "Manage storage group member on EMC VNX"
+authors: ["Luca 'remix_tj' Lorenzetto (@remixtj)"]
+license: "GPL-3.0-or-later"

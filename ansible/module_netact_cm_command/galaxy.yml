@@ -1,0 +1,5 @@
+name: "ansible.module_netact_cm_command"
+version: "2.8.0"
+description: "Manage network configuration data in Nokia Core and Radio networks"
+authors: ['Harri Tuominen (@hatuomin)']
+license: "GPL-3.0-or-later"

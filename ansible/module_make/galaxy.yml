@@ -1,0 +1,5 @@
+name: "ansible.module_make"
+version: "2.8.0"
+description: "Run targets in a Makefile"
+authors: ['Linus Unnebäck (@LinusU) <linus@folkdatorn.se>']
+license: "GPL-3.0-or-later"

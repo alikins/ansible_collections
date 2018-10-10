@@ -1,0 +1,5 @@
+name: "ansible.module_win_template"
+version: "2.8.0"
+description: "Templates a file out to a remote server"
+authors: ['Jon Hawkesworth (@jhawkesworth)']
+license: "GPL-3.0-or-later"

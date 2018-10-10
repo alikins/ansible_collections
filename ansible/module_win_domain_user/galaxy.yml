@@ -1,0 +1,5 @@
+name: "ansible.module_win_domain_user"
+version: "2.8.0"
+description: "Manages Windows Active Directory user accounts"
+authors: ['Nick Chandler (@nwchandler)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_disk_facts"
+version: "2.8.0"
+description: "Show the attached disks and disk information of the target host"
+authors: ['Marc Tschapek (@marqelme)']
+license: "GPL-3.0-or-later"

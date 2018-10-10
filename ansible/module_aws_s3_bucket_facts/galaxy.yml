@@ -1,0 +1,5 @@
+name: "ansible.module_aws_s3_bucket_facts"
+version: "2.8.0"
+description: "Lists S3 buckets in AWS"
+authors: ['Gerben Geijteman (@hyperized)']
+license: "GPL-3.0-or-later"

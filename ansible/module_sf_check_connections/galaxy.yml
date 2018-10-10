@@ -1,0 +1,5 @@
+name: "ansible.module_sf_check_connections"
+version: "2.8.0"
+description: "Check connectivity to MVIP and SVIP"
+authors: ['Sumit Kumar (sumit4@netapp.com)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_aci_firmware_source"
+version: "2.8.0"
+description: "Manage firmware image sources (firmware:OSource)"
+authors: ['Dag Wieers (@dagwieers)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_profitbricks_volume_attachments"
+version: "2.8.0"
+description: "Attach or detach a volume"
+authors: ['Matt Baldwin (baldwin@stackpointcloud.com)']
+license: "GPL-3.0-or-later"

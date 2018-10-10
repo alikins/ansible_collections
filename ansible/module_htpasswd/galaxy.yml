@@ -1,0 +1,5 @@
+name: "ansible.module_htpasswd"
+version: "2.8.0"
+description: "manage user files for basic authentication"
+authors: ['Ansible Core Team']
+license: "GPL-3.0-or-later"

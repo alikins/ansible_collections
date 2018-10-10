@@ -1,0 +1,5 @@
+name: "ansible.module_pushover"
+version: "2.8.0"
+description: "Send notifications via https://pushover.net"
+authors: ['Jim Richardson (@weaselkeeper)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_iam"
+version: "2.8.0"
+description: "Manage IAM users, groups, roles and keys"
+authors: ['Jonathan I. Davila (@defionscode)', 'Paul Seiffert (@seiffert)']
+license: "GPL-3.0-or-later"

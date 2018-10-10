@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_hostname"
+version: "2.8.0"
+description: "Manage the hostname of a BIG-IP"
+authors: ['Tim Rupp (@caphrim007)', 'Matthew Lam (@mryanlam)']
+license: "GPL-3.0-or-later"

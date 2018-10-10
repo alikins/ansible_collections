@@ -1,0 +1,5 @@
+name: "ansible.module_win_find"
+version: "2.8.0"
+description: "Return a list of files based on specific criteria"
+authors: ['Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

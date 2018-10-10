@@ -1,0 +1,5 @@
+name: "ansible.module_panos_sag"
+version: "2.8.0"
+description: "Create a static address group"
+authors: ['Vinay Venkataraghavan @vinayvenkat']
+license: "GPL-3.0-or-later"

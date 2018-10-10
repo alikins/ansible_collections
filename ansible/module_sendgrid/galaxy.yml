@@ -1,0 +1,5 @@
+name: "ansible.module_sendgrid"
+version: "2.8.0"
+description: "Sends an email with the SendGrid API"
+authors: ['Matt Makai (@makaimc)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_consul_kv"
+version: "2.8.0"
+description: "Manipulate entries in the key/value store of a consul cluster"
+authors: ['Steve Gargan (@sgargan)', 'Colin Nolan (@colin-nolan)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_os_server_action"
+version: "2.8.0"
+description: "Perform actions on Compute Instances from OpenStack"
+authors: ['Jesse Keating (@omgjlk)']
+license: "GPL-3.0-or-later"

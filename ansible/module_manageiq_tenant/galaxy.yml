@@ -1,0 +1,5 @@
+name: "ansible.module_manageiq_tenant"
+version: "2.8.0"
+description: "Management of tenants in ManageIQ"
+authors: ['Evert Mulder']
+license: "GPL-3.0-or-later"

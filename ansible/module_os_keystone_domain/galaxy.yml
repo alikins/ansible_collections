@@ -1,0 +1,5 @@
+name: "ansible.module_os_keystone_domain"
+version: "2.8.0"
+description: "Manage OpenStack Identity Domains"
+authors: ['Monty', 'Haneef Ali']
+license: "GPL-3.0-or-later"

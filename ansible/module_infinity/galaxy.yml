@@ -1,0 +1,5 @@
+name: "ansible.module_infinity"
+version: "2.8.0"
+description: "manage Infinity IPAM using Rest API"
+authors: ['Meirong Liu']
+license: "GPL-3.0-or-later"

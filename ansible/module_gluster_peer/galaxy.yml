@@ -1,0 +1,5 @@
+name: "ansible.module_gluster_peer"
+version: "2.8.0"
+description: "Attach/Detach peers to/from the cluster"
+authors: ['Sachidananda Urs (@sac)']
+license: "GPL-3.0-or-later"

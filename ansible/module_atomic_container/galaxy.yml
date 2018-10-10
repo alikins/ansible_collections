@@ -1,0 +1,5 @@
+name: "ansible.module_atomic_container"
+version: "2.8.0"
+description: "Manage the containers on the atomic host platform"
+authors: ['Giuseppe Scrivano (@giuseppe)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_iosxr_user"
+version: "2.8.0"
+description: "Manage the aggregate of local users on Cisco IOS XR device"
+authors: ['Trishna Guha (@trishnaguha)', 'Sebastiaan van Doesselaar (@sebasdoes)', 'Kedar Kekan (@kedarX)']
+license: "GPL-3.0-or-later"

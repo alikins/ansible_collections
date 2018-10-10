@@ -1,0 +1,5 @@
+name: "ansible.module_rollbar_deployment"
+version: "2.8.0"
+description: "Notify Rollbar about app deployments"
+authors: ['Max Riveiro (@kavu)']
+license: "GPL-3.0-or-later"

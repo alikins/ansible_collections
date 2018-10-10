@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_dvs_portgroup"
+version: "2.8.0"
+description: "Create or remove a Distributed vSwitch portgroup"
+authors: ['Joseph Callen (@jcpowermac)', 'Philippe Dellaert (@pdellaert) <philippe@dellaert.org>']
+license: "GPL-3.0-or-later"

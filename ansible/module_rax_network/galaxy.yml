@@ -1,0 +1,5 @@
+name: "ansible.module_rax_network"
+version: "2.8.0"
+description: "create / delete an isolated network in Rackspace Public Cloud"
+authors: ['Christopher H. Laco (@claco)', 'Jesse Keating (@omgjlk)']
+license: "GPL-3.0-or-later"

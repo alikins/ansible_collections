@@ -1,0 +1,5 @@
+name: "ansible.module_cs_portforward"
+version: "2.8.0"
+description: "Manages port forwarding rules on Apache CloudStack based clouds"
+authors: ['René Moser (@resmo)']
+license: "GPL-3.0-or-later"

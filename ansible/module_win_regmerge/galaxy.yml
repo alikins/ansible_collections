@@ -1,0 +1,5 @@
+name: "ansible.module_win_regmerge"
+version: "2.8.0"
+description: "Merges the contents of a registry file into the windows registry"
+authors: ['Jon Hawkesworth (@jhawkesworth)']
+license: "GPL-3.0-or-later"

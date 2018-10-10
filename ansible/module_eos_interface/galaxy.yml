@@ -1,0 +1,5 @@
+name: "ansible.module_eos_interface"
+version: "2.8.0"
+description: "Manage Interface on Arista EOS network devices"
+authors: ['Ganesh Nalawade (@ganeshrn)']
+license: "GPL-3.0-or-later"

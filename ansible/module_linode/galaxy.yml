@@ -1,0 +1,5 @@
+name: "ansible.module_linode"
+version: "2.8.0"
+description: "Manage instances on the Linode Public Cloud"
+authors: ['Vincent Viallet (@zbal)']
+license: "GPL-3.0-or-later"

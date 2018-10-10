@@ -1,0 +1,5 @@
+name: "ansible.module_cs_disk_offering"
+version: "2.8.0"
+description: "Manages disk offerings on Apache CloudStack based clouds"
+authors: ['David Passante (@dpassante)', 'René Moser(@resmo)']
+license: "GPL-3.0-or-later"

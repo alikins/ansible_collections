@@ -1,0 +1,5 @@
+name: "ansible.module_oneview_fcoe_network_facts"
+version: "2.8.0"
+description: "Retrieve the facts about one or more of the OneView FCoE Networks"
+authors: ['Felipe Bulsoni (@fgbulsoni)', 'Thiago Miotto (@tmiotto)', 'Adriane Cardozo (@adriane-cardozo)']
+license: "GPL-3.0-or-later"

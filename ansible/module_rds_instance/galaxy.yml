@@ -1,0 +1,5 @@
+name: "ansible.module_rds_instance"
+version: "2.8.0"
+description: "Manage RDS instances"
+authors: ['Sloane Hertel (@s-hertel)']
+license: "GPL-3.0-or-later"

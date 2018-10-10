@@ -1,0 +1,5 @@
+name: "ansible.module_digital_ocean_domain"
+version: "2.8.0"
+description: "Create/delete a DNS domain in DigitalOcean"
+authors: ['Michael Gregson (@mgregson)']
+license: "GPL-3.0-or-later"

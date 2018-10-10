@@ -1,0 +1,5 @@
+name: "ansible.module_foreman"
+version: "2.8.0"
+description: "Manage Foreman Resources"
+authors: ['Eric D Helms (@ehelms)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_flatpak_remote"
+version: "2.8.0"
+description: "Manage flatpak repository remotes"
+authors: ['John Kwiatkoski (@jaykayy)', 'Alexander Bethke (@oolongbrothers)']
+license: "GPL-3.0-or-later"

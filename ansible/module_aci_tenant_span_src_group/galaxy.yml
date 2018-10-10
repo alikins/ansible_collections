@@ -1,0 +1,5 @@
+name: "ansible.module_aci_tenant_span_src_group"
+version: "2.8.0"
+description: "Manage SPAN source groups (span:SrcGrp)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

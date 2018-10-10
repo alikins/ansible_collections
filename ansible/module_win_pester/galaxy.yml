@@ -1,0 +1,5 @@
+name: "ansible.module_win_pester"
+version: "2.8.0"
+description: "Run Pester tests on Windows hosts"
+authors: ['Erwan Quelin (@equelin)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_certificate_complete_chain"
+version: "2.8.0"
+description: "Complete certificate chain given a set of untrusted and root certificates"
+authors: ['Felix Fontein (@felixfontein)']
+license: "GPL-3.0-or-later"

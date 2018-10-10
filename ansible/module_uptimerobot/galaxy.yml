@@ -1,0 +1,5 @@
+name: "ansible.module_uptimerobot"
+version: "2.8.0"
+description: "Pause and start Uptime Robot monitoring"
+authors: ['Nate Kingsley (@nate-kingsley)']
+license: "GPL-3.0-or-later"

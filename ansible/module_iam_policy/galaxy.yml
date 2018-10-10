@@ -1,0 +1,5 @@
+name: "ansible.module_iam_policy"
+version: "2.8.0"
+description: "Manage IAM policies for users, groups, and roles"
+authors: ['Jonathan I. Davila (@defionscode)']
+license: "GPL-3.0-or-later"

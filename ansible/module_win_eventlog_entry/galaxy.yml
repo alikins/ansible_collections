@@ -1,0 +1,5 @@
+name: "ansible.module_win_eventlog_entry"
+version: "2.8.0"
+description: "Write entries to Windows event logs"
+authors: ['Andrew Saraceni (@andrewsaraceni)']
+license: "GPL-3.0-or-later"

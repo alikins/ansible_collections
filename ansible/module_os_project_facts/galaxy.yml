@@ -1,0 +1,5 @@
+name: "ansible.module_os_project_facts"
+version: "2.8.0"
+description: "Retrieve facts about one or more OpenStack projects"
+authors: ['Ricardo Carrillo Cruz (@rcarrillocruz)']
+license: "GPL-3.0-or-later"

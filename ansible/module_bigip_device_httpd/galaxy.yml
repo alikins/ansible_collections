@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_device_httpd"
+version: "2.8.0"
+description: "Manage HTTPD related settings on BIG-IP"
+authors: ['Joe Reifel (@JoeReifel)', 'Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

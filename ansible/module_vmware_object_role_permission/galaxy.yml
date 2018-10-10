@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_object_role_permission"
+version: "2.8.0"
+description: "Manage local roles on an ESXi host"
+authors: ['Derek Rushing (@kryptsi)']
+license: "GPL-3.0-or-later"

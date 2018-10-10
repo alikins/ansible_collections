@@ -1,0 +1,5 @@
+name: "ansible.module_na_cdot_volume"
+version: "2.8.0"
+description: "Manage NetApp cDOT volumes"
+authors: ['Sumit Kumar (sumit4@netapp.com)']
+license: "GPL-3.0-or-later"

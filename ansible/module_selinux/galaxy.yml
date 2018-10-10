@@ -1,0 +1,5 @@
+name: "ansible.module_selinux"
+version: "2.8.0"
+description: "Change policy and state of SELinux"
+authors: ['Derek Carter (@goozbach) <goozbach@friocorte.com>']
+license: "GPL-3.0-or-later"

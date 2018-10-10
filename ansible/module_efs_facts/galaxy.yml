@@ -1,0 +1,5 @@
+name: "ansible.module_efs_facts"
+version: "2.8.0"
+description: "Get information about Amazon EFS file systems"
+authors: ['Ryan Sydnor (@ryansydnor)']
+license: "GPL-3.0-or-later"

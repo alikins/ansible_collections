@@ -1,0 +1,5 @@
+name: "ansible.module_purefa_hg"
+version: "2.8.0"
+description: "Manage hostgroups on Pure Storage FlashArrays"
+authors: ['Simon Dodsley (@sdodsley)']
+license: "GPL-3.0-or-later"

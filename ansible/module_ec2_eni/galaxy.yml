@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_eni"
+version: "2.8.0"
+description: "Create and optionally attach an Elastic Network Interface (ENI) to an instance"
+authors: ['Rob White (@wimnat)']
+license: "GPL-3.0-or-later"

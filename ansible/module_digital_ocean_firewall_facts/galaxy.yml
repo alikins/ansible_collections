@@ -1,0 +1,5 @@
+name: "ansible.module_digital_ocean_firewall_facts"
+version: "2.8.0"
+description: "Gather facts about DigitalOcean firewalls"
+authors: ['Anthony Bond (@BondAnthony)']
+license: "GPL-3.0-or-later"

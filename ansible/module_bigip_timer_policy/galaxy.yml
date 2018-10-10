@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_timer_policy"
+version: "2.8.0"
+description: "Manage timer policies on a BIG-IP"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

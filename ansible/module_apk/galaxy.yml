@@ -1,0 +1,5 @@
+name: "ansible.module_apk"
+version: "2.8.0"
+description: "Manages apk packages"
+authors: ['Kevin Brebanov (@kbrebanov)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ce_vrf_af"
+version: "2.8.0"
+description: "Manages VPN instance address family on HUAWEI CloudEngine switches"
+authors: ['Yang yang (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

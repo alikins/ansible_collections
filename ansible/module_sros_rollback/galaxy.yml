@@ -1,0 +1,5 @@
+name: "ansible.module_sros_rollback"
+version: "2.8.0"
+description: "Configure Nokia SR OS rollback"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

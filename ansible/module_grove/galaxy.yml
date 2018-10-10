@@ -1,0 +1,5 @@
+name: "ansible.module_grove"
+version: "2.8.0"
+description: "Sends a notification to a grove.io channel"
+authors: ['Jonas Pfenniger (@zimbatm)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_unzip"
+version: "2.8.0"
+description: "Unzips compressed files and archives on the Windows node"
+authors: ['Phil Schwartz (@schwartzmx)']
+license: "GPL-3.0-or-later"

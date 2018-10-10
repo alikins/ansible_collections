@@ -1,0 +1,5 @@
+name: "ansible.module_openbsd_pkg"
+version: "2.8.0"
+description: "Manage packages on OpenBSD"
+authors: ['Patrik Lundin (@eest)']
+license: "GPL-3.0-or-later"

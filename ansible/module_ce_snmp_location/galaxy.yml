@@ -1,0 +1,5 @@
+name: "ansible.module_ce_snmp_location"
+version: "2.8.0"
+description: "Manages SNMP location configuration on HUAWEI CloudEngine switches"
+authors: ['wangdezhuang (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

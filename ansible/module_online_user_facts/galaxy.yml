@@ -1,0 +1,5 @@
+name: "ansible.module_online_user_facts"
+version: "2.8.0"
+description: "Gather facts about Online user"
+authors: ['Remy Leone (@sieben)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_exos_facts"
+version: "2.8.0"
+description: "Collect facts from devices running Extreme EXOS"
+authors: ['Lance Richardson (@hlrichardson)']
+license: "GPL-3.0-or-later"

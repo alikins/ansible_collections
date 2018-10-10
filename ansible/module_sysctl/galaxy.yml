@@ -1,0 +1,5 @@
+name: "ansible.module_sysctl"
+version: "2.8.0"
+description: "Manage entries in sysctl.conf"
+authors: ['David CHANIAL (@davixx) <david.chanial@gmail.com>']
+license: "GPL-3.0-or-later"

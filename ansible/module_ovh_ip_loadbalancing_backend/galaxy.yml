@@ -1,0 +1,5 @@
+name: "ansible.module_ovh_ip_loadbalancing_backend"
+version: "2.8.0"
+description: "Manage OVH IP LoadBalancing backends"
+authors: ['Pascal Heraud (@pascalheraud)']
+license: "GPL-3.0-or-later"

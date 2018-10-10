@@ -1,0 +1,5 @@
+name: "ansible.module_win_user"
+version: "2.8.0"
+description: "Manages local Windows user accounts"
+authors: ['Paul Durivage (@angstwad)', 'Chris Church (@cchurch)']
+license: "GPL-3.0-or-later"

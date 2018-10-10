@@ -1,0 +1,5 @@
+name: "ansible.module_tower_job_launch"
+version: "2.8.0"
+description: "Launch an Ansible Job"
+authors: ['Wayne Witzel III (@wwitzel3)']
+license: "GPL-3.0-or-later"

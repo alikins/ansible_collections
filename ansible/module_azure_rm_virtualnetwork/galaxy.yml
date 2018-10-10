@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_virtualnetwork"
+version: "2.8.0"
+description: "Manage Azure virtual networks"
+authors: ['Chris Houseknecht (@chouseknecht)', 'Matt Davis (@nitzmahone)']
+license: "GPL-3.0-or-later"

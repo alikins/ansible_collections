@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_ami_find"
+version: "2.8.0"
+description: "Searches for AMIs to obtain the AMI ID and other information"
+authors: ['Tom Bamford (@tombamford)']
+license: "GPL-3.0-or-later"

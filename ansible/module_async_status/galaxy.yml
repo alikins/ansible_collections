@@ -1,0 +1,5 @@
+name: "ansible.module_async_status"
+version: "2.8.0"
+description: "Obtain status of asynchronous task"
+authors: ['Ansible Core Team', 'Michael DeHaan']
+license: "GPL-3.0-or-later"

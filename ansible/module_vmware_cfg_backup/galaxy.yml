@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_cfg_backup"
+version: "2.8.0"
+description: "Backup / Restore / Reset ESXi host configuration"
+authors: ['Andreas Nafpliotis (@nafpliot-ibm)']
+license: "GPL-3.0-or-later"

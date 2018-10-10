@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_dvswitch"
+version: "2.8.0"
+description: "Create or remove a distributed vSwitch"
+authors: ['Joseph Callen (@jcpowermac)']
+license: "GPL-3.0-or-later"

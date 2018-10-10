@@ -1,0 +1,5 @@
+name: "ansible.module_debug"
+version: "2.8.0"
+description: "Print statements during execution"
+authors: ['Dag Wieers (@dagwieers)', 'Michael DeHaan']
+license: "GPL-3.0-or-later"

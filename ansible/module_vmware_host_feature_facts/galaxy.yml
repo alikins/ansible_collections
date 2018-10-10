@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_host_feature_facts"
+version: "2.8.0"
+description: "Gathers facts about an ESXi host's feature capability information"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

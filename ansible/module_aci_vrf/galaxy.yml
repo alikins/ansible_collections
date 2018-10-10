@@ -1,0 +1,5 @@
+name: "ansible.module_aci_vrf"
+version: "2.8.0"
+description: "Manage contexts or VRFs (fv:Ctx)"
+authors: ['Jacob McGill (@jmcgill298)']
+license: "GPL-3.0-or-later"

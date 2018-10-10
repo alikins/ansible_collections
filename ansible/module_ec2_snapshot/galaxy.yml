@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_snapshot"
+version: "2.8.0"
+description: "creates a snapshot from an existing volume"
+authors: ['Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

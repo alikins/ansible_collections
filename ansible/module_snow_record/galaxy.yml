@@ -1,0 +1,5 @@
+name: "ansible.module_snow_record"
+version: "2.8.0"
+description: "Create/Delete/Update records in ServiceNow"
+authors: ['Tim Rightnour (@garbled1)']
+license: "GPL-3.0-or-later"

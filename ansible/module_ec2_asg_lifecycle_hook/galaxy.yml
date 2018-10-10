@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_asg_lifecycle_hook"
+version: "2.8.0"
+description: "Create, delete or update AWS ASG Lifecycle Hooks"
+authors: ["Igor 'Tsigankov' Eyrich (@tsiganenok) <tsiganenok@gmail.com>"]
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_proxysql_global_variables"
+version: "2.8.0"
+description: "Gets or sets the proxysql global variables"
+authors: ['Ben Mildren (@bmildren)']
+license: "GPL-3.0-or-later"

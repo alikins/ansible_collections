@@ -1,0 +1,5 @@
+name: "ansible.module_azure_rm_availabilityset"
+version: "2.8.0"
+description: "Manage Azure availability set"
+authors: ['Julien Stroheker (@julienstroheker)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_ipadm_prop"
+version: "2.8.0"
+description: "Manage protocol properties on Solaris/illumos systems"
+authors: ['Adam Števko (@xen0l)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_win_owner"
+version: "2.8.0"
+description: "Set owner"
+authors: ['Hans-Joachim Kliemeck (@h0nIg)']
+license: "GPL-3.0-or-later"

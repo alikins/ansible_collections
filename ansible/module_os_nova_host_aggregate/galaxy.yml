@@ -1,0 +1,5 @@
+name: "ansible.module_os_nova_host_aggregate"
+version: "2.8.0"
+description: "Manage OpenStack host aggregates"
+authors: ['Jakub Jursa']
+license: "GPL-3.0-or-later"

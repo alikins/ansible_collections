@@ -1,0 +1,5 @@
+name: "ansible.module_ipa_dnsrecord"
+version: "2.8.0"
+description: "Manage FreeIPA DNS records"
+authors: ['Abhijeet Kasurde (@Akasurde)']
+license: "GPL-3.0-or-later"

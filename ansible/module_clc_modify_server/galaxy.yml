@@ -1,0 +1,5 @@
+name: "ansible.module_clc_modify_server"
+version: "2.8.0"
+description: "modify servers in CenturyLink Cloud"
+authors: ['CLC Runner (@clc-runner)']
+license: "GPL-3.0-or-later"

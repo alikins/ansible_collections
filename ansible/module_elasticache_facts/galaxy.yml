@@ -1,0 +1,5 @@
+name: "ansible.module_elasticache_facts"
+version: "2.8.0"
+description: "Retrieve facts for AWS Elasticache clusters"
+authors: ['Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

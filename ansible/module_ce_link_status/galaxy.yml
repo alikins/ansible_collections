@@ -1,0 +1,5 @@
+name: "ansible.module_ce_link_status"
+version: "2.8.0"
+description: "Get interface link status on HUAWEI CloudEngine switches"
+authors: ['Zhijin Zhou (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

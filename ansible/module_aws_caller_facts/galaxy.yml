@@ -1,0 +1,5 @@
+name: "ansible.module_aws_caller_facts"
+version: "2.8.0"
+description: "Get facts about the user and account being used to make AWS calls"
+authors: ['Ed Costello (@orthanc)', 'Stijn Dubrul (@sdubrul)']
+license: "GPL-3.0-or-later"

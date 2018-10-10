@@ -1,0 +1,5 @@
+name: "ansible.module_nagios"
+version: "2.8.0"
+description: "Perform common tasks in Nagios related to downtime and notifications"
+authors: ['Tim Bielawa (@tbielawa)']
+license: "GPL-3.0-or-later"

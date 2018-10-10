@@ -1,0 +1,5 @@
+name: "ansible.module_vyos_system"
+version: "2.8.0"
+description: "Run `set system` commands on VyOS devices"
+authors: ['Nathaniel Case (@qalthos)']
+license: "GPL-3.0-or-later"

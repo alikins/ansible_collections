@@ -1,0 +1,5 @@
+name: "ansible.module_win_chocolatey"
+version: "2.8.0"
+description: "Manage packages using chocolatey"
+authors: ['Trond Hindenes (@trondhindenes)', 'Peter Mounce (@petemounce)', 'Pepe Barbe (@elventear)', 'Adam Keech (@smadam813)', 'Pierre Templier (@ptemplier)', 'Jordan Borean (@jborean93)']
+license: "GPL-3.0-or-later"

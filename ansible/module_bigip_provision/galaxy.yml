@@ -1,0 +1,5 @@
+name: "ansible.module_bigip_provision"
+version: "2.8.0"
+description: "Manage BIG-IP module provisioning"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_avi_backupconfiguration"
+version: "2.8.0"
+description: "Module for setup of BackupConfiguration Avi RESTful Object"
+authors: ['Gaurav Rastogi (grastogi@avinetworks.com)']
+license: "GPL-3.0-or-later"

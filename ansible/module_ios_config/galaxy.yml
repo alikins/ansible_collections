@@ -1,0 +1,5 @@
+name: "ansible.module_ios_config"
+version: "2.8.0"
+description: "Manage Cisco IOS configuration sections"
+authors: ['Peter Sprygada (@privateip)']
+license: "GPL-3.0-or-later"

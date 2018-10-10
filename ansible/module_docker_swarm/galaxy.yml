@@ -1,0 +1,5 @@
+name: "ansible.module_docker_swarm"
+version: "2.8.0"
+description: "Manage Swarm cluster"
+authors: ['Thierry Bouvet (@tbouvet)']
+license: "GPL-3.0-or-later"

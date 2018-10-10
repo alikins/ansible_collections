@@ -1,0 +1,5 @@
+name: "ansible.module_slack"
+version: "2.8.0"
+description: "Send Slack notifications"
+authors: ['Ramon de la Fuente (@ramondelafuente)']
+license: "GPL-3.0-or-later"

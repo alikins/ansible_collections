@@ -1,0 +1,5 @@
+name: "ansible.module_homebrew_cask"
+version: "2.8.0"
+description: "Install/uninstall homebrew casks"
+authors: ['Indrajit Raychaudhuri (@indrajitr)', 'Daniel Jaouen (@danieljaouen)', 'Enric Lluelles (@enriclluelles)']
+license: "GPL-3.0-or-later"

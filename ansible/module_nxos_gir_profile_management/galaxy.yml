@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_gir_profile_management"
+version: "2.8.0"
+description: "Create a maintenance-mode or normal-mode profile for GIR"
+authors: ['Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

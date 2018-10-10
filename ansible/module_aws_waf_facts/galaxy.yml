@@ -1,0 +1,5 @@
+name: "ansible.module_aws_waf_facts"
+version: "2.8.0"
+description: "Retrieve facts for WAF ACLs, Rule , Conditions and Filters"
+authors: ['Mike Mochan (@mmochan)', 'Will Thames (@willthames)']
+license: "GPL-3.0-or-later"

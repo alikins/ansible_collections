@@ -1,0 +1,5 @@
+name: "ansible.module_scaleway_organization_facts"
+version: "2.8.0"
+description: "Gather facts about the Scaleway organizations available"
+authors: ['Yanis Guenane (@Spredzy)', 'Remy Leone (@sieben)']
+license: "GPL-3.0-or-later"

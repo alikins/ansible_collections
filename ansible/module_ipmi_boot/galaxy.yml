@@ -1,0 +1,5 @@
+name: "ansible.module_ipmi_boot"
+version: "2.8.0"
+description: "Management of order of boot devices"
+authors: ['Bulat Gaifullin (gaifullinbf@gmail.com)']
+license: "GPL-3.0-or-later"

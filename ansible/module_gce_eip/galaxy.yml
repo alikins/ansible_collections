@@ -1,0 +1,5 @@
+name: "ansible.module_gce_eip"
+version: "2.8.0"
+description: "Create or Destroy Global or Regional External IP addresses"
+authors: ['Tom Melendez (@supertom) <tom@supertom.com>']
+license: "GPL-3.0-or-later"

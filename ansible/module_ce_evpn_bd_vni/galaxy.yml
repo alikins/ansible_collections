@@ -1,0 +1,5 @@
+name: "ansible.module_ce_evpn_bd_vni"
+version: "2.8.0"
+description: "Manages EVPN VXLAN Network Identifier (VNI) on HUAWEI CloudEngine switches"
+authors: ['Zhijin Zhou (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

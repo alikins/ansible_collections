@@ -1,0 +1,5 @@
+name: "ansible.module_aos_logical_device_map"
+version: "2.8.0"
+description: "Manage AOS Logical Device Map"
+authors: ['Damien Garros (@dgarros)']
+license: "GPL-3.0-or-later"

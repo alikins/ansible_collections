@@ -1,0 +1,5 @@
+name: "ansible.module_ce_aaa_server_host"
+version: "2.8.0"
+description: "Manages AAA server host configuration on HUAWEI CloudEngine switches"
+authors: ['wangdezhuang (@CloudEngine-Ansible)']
+license: "GPL-3.0-or-later"

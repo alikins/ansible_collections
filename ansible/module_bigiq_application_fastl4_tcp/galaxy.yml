@@ -1,0 +1,5 @@
+name: "ansible.module_bigiq_application_fastl4_tcp"
+version: "2.8.0"
+description: "Manages BIG-IQ FastL4 TCP applications"
+authors: ['Tim Rupp (@caphrim007)']
+license: "GPL-3.0-or-later"

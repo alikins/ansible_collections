@@ -1,0 +1,5 @@
+name: "ansible.module_zabbix_proxy"
+version: "2.8.0"
+description: "Zabbix proxy creates/deletes/gets/updates"
+authors: ['Alen Komic']
+license: "GPL-3.0-or-later"

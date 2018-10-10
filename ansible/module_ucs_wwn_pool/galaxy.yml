@@ -1,0 +1,5 @@
+name: "ansible.module_ucs_wwn_pool"
+version: "2.8.0"
+description: "Configures WWNN or WWPN pools on Cisco UCS Manager"
+authors: ['David Soper (@dsoper2)', 'CiscoUcs (@CiscoUcs)']
+license: "GPL-3.0-or-later"

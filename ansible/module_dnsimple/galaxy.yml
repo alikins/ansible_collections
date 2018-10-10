@@ -1,0 +1,5 @@
+name: "ansible.module_dnsimple"
+version: "2.8.0"
+description: "Interface with dnsimple.com (a DNS hosting service)"
+authors: ['Alex Coomans (@drcapulet)']
+license: "GPL-3.0-or-later"

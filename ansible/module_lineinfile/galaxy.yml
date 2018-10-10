@@ -1,0 +1,5 @@
+name: "ansible.module_lineinfile"
+version: "2.8.0"
+description: "Manage lines in text files"
+authors: ['Daniel Hokka Zakrissoni (@dhozac)', 'Ahti Kitsik (@ahtik)']
+license: "GPL-3.0-or-later"

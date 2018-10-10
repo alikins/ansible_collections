@@ -1,0 +1,5 @@
+name: "ansible.module_docker_container"
+version: "2.8.0"
+description: "manage docker containers"
+authors: ['Cove Schneider (@cove)', 'Joshua Conner (@joshuaconner)', 'Pavel Antonov (@softzilla)', 'Thomas Steinbach (@ThomasSteinbach)', 'Philippe Jandot (@zfil)', 'Daan Oosterveld (@dusdanig)', 'Chris Houseknecht (@chouseknecht)', 'Kassian Sun (@kassiansun)']
+license: "GPL-3.0-or-later"

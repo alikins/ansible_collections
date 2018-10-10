@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_local_user_manager"
+version: "2.8.0"
+description: "Manage local users on an ESXi host"
+authors: ['Andreas Nafpliotis (@nafpliot-ibm)']
+license: "GPL-3.0-or-later"

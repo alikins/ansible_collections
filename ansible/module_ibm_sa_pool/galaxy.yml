@@ -1,0 +1,5 @@
+name: "ansible.module_ibm_sa_pool"
+version: "2.8.0"
+description: "Handles pools on an IBM Spectrum Accelerate storage array"
+authors: ['Tzur Eliyahu (tzure@il.ibm.com)']
+license: "GPL-3.0-or-later"

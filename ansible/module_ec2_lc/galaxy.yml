@@ -1,0 +1,5 @@
+name: "ansible.module_ec2_lc"
+version: "2.8.0"
+description: "Create or delete AWS Autoscaling Launch Configurations"
+authors: ['Gareth Rushgrove (@garethr)', 'Willem van Ketwich (@wilvk)']
+license: "GPL-3.0-or-later"

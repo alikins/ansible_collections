@@ -1,0 +1,5 @@
+name: "ansible.module_win_dsc"
+version: "2.8.0"
+description: "Invokes a PowerShell DSC configuration"
+authors: ['Trond Hindenes (@trondhindenes)']
+license: "GPL-3.0-or-later"

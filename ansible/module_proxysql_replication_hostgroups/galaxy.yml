@@ -1,0 +1,5 @@
+name: "ansible.module_proxysql_replication_hostgroups"
+version: "2.8.0"
+description: "Manages replication hostgroups using the proxysql admin interface"
+authors: ['Ben Mildren (@bmildren)']
+license: "GPL-3.0-or-later"

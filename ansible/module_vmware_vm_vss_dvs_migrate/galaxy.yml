@@ -1,0 +1,5 @@
+name: "ansible.module_vmware_vm_vss_dvs_migrate"
+version: "2.8.0"
+description: "Migrates a virtual machine from a standard vswitch to distributed"
+authors: ['Joseph Callen (@jcpowermac)']
+license: "GPL-3.0-or-later"

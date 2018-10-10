@@ -1,0 +1,5 @@
+name: "ansible.module_acme_challenge_cert_helper"
+version: "2.8.0"
+description: "Prepare certificates required for ACME challenges such as ``tls-alpn-01``"
+authors: ['Felix Fontein (@felixfontein)']
+license: "GPL-3.0-or-later"

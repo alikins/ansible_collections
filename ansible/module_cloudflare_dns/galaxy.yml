@@ -1,0 +1,5 @@
+name: "ansible.module_cloudflare_dns"
+version: "2.8.0"
+description: "manage Cloudflare DNS records"
+authors: ['Michael Gruener (@mgruener)']
+license: "GPL-3.0-or-later"

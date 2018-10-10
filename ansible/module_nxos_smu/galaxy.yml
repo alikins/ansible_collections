@@ -1,0 +1,5 @@
+name: "ansible.module_nxos_smu"
+version: "2.8.0"
+description: "Perform SMUs on Cisco NX-OS devices"
+authors: ['Gabriele Gerbino (@GGabriele)']
+license: "GPL-3.0-or-later"

@@ -1,0 +1,5 @@
+name: "ansible.module_dconf"
+version: "2.8.0"
+description: "Modify and read dconf database"
+authors: ['Branko Majic (@azaghal)']
+license: "GPL-3.0-or-later"
